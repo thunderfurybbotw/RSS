@@ -32,51 +32,67 @@ def fetch(url: str) -> str:
     return r.text
 
 
-def entry_nodes(h2: Tag):
-    """返回某条更新的正文节点：优先取 h2 所在的 <li>，否则取到下一个更新 h2 为止的兄弟节点。"""
-    li = h2.find_parent("li")
-    if li is not None:
-        return [c for c in li.children if c is not h2]
-    nodes = []
-    for sib in h2.next_siblings:
-        if isinstance(sib, Tag) and sib.name == "h2":
-            break
-        nodes.append(sib)
-    return nodes
+VERSION_RE = re.compile(r"^\d+(?:\.\d+){2,}$")   # li 的 id，例: 1.60.1.70338
+DATE_RE = re.compile(r"(\d{4})-(\d{1,2})-(\d{1,2})")
+LONG_LIST = 25  # 超过这么多条的列表（主要是物品清单）折叠成一句话
 
 
-def clean_html(nodes, base: str) -> str:
+def clean_html(nodes, base: str, link: str) -> str:
     wrapper = BeautifulSoup("<div></div>", "html.parser").div
     for n in nodes:
         wrapper.append(copy.copy(n))
     for img in wrapper.find_all("img"):  # 图标很多，去掉更清爽
         img.decompose()
-    for bad in wrapper.find_all(["script", "style", "svg"]):
+    for bad in wrapper.find_all(["script", "style", "svg", "button"]):
         bad.decompose()
+    for ul in wrapper.find_all(["ul", "ol"]):
+        n = len(ul.find_all("li", recursive=False))
+        if n > LONG_LIST:
+            note = wrapper.new_tag("p")
+            a = wrapper.new_tag("a", href=link)
+            a.string = f"（共 {n} 项，到网页查看）"
+            note.append(a)
+            ul.replace_with(note)
     for a in wrapper.find_all("a", href=True):
         a["href"] = urljoin(base, a["href"])
     return wrapper.decode_contents().strip()
 
 
 def parse(html: str, page_url: str):
+    """页面结构: <li id="版本号"> <div>标题区: h2 > time[datetime]</div> <div>正文</div> </li>"""
     soup = BeautifulSoup(html, "html.parser")
     items, seen = [], set()
-    for h2 in soup.find_all("h2"):
-        text = h2.get_text(" ", strip=True)
-        m = TITLE_RE.search(text)
-        if not m:
+    for li in soup.find_all("li", id=VERSION_RE):
+        h2 = li.find("h2")
+        if h2 is None:
             continue
-        y, mo, d, ver = m.groups()
+        ver = li["id"]
         if ver in seen:
             continue
         seen.add(ver)
-        body = clean_html(entry_nodes(h2), page_url)
+
+        t = h2.find("time")
+        m = DATE_RE.search(t.get("datetime", "")) if t else None
+        if m:
+            y, mo, d = map(int, m.groups())
+        else:  # 退而求其次，从标题文字里取「2026年10月10日」
+            m2 = TITLE_RE.search(li.get_text(" ", strip=True)) or re.search(
+                r"(\d{4})年(\d{1,2})月(\d{1,2})日", h2.get_text())
+            if not m2:
+                continue
+            y, mo, d = map(int, m2.groups()[:3])
+
+        header = h2
+        while header.parent is not li:   # 找到 li 下面直接包着 h2 的那一层
+            header = header.parent
+        body_nodes = [c for c in li.children if c is not header]
+        link = f"{page_url}#{ver}"
         items.append({
-            "title": f"{y}年{int(mo)}月{int(d)}日 · 版本 {ver}",
-            "link": f"{page_url}#{ver}",
+            "title": f"{y}年{mo}月{d}日 · 版本 {ver}",
+            "link": link,
             "guid": ver,
-            "date": datetime(int(y), int(mo), int(d), tzinfo=timezone.utc),
-            "html": body,
+            "date": datetime(y, mo, d, tzinfo=timezone.utc),
+            "html": clean_html(body_nodes, page_url, link),
         })
         if len(items) >= MAX_ITEMS:
             break
