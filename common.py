@@ -30,7 +30,12 @@ def get(url, *, as_json=False, tries=3, pause=1.0):
                 continue
             r.raise_for_status()
             time.sleep(pause)  # 对网站客气一点
-            return r.json() if as_json else r.text
+            if as_json:
+                return r.json()
+            # 网站没声明字符集时，requests 会按 ISO-8859-1 解码，中文就变乱码；统一按 UTF-8
+            if "charset" not in r.headers.get("content-type", "").lower():
+                r.encoding = "utf-8"
+            return r.text
         except requests.RequestException as e:
             last = str(e)
             time.sleep(pause * (i + 1))
