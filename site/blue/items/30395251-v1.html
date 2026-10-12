@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>[Kaivax] WoW Forever Beta Development Notes – Updated October 8</title>
+<meta property="og:title" content="[Kaivax] WoW Forever Beta Development Notes – Updated October 8">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-10-08">
+<link rel="canonical" href="https://thunderfurybbotw.github.io/RSS/blue/items/30395251-v1.html">
+<style>body{max-width:720px;margin:2rem auto;padding:0 16px;font:16px/1.7 -apple-system,"PingFang SC","Hiragino Sans",sans-serif;color:#222;background:#fff}
+a{color:#2563eb}h1{font-size:1.5rem;line-height:1.3}.meta{color:#666;font-size:.9rem}img{max-width:100%;height:auto}
+blockquote,aside{border-left:3px solid #ccc;margin:1em 0;padding:0 1em;color:#555}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#7aa7ff}.meta{color:#999}blockquote,aside{color:#aaa;border-color:#444}}</style>
+</head><body><article>
+<h1>[Kaivax] WoW Forever Beta Development Notes – Updated October 8</h1>
+<p class="meta"><time datetime="2026-10-08">2026年10月8日</time> · <a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-8/2360696/5">在暴雪论坛查看原帖</a></p>
+<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 5 楼</p><p>Today, we updated the WoW Forever Beta with a new build that includes the following.</p>
+<h2><a aria-label="Heading link" class="anchor" href="https://us.forums.blizzard.com#p-30395251-change-log-1" name="p-30395251-change-log-1"></a><strong>CHANGE LOG</strong></h2>
+<p><strong>Bug Fixes</strong></p>
+<ul>
+<li>This build reintroduces Classic looting behavior, where creatures that dropped no loot can still be interacted with.</li>
+<li>Fixed visual effects flickering on large creatures.</li>
+<li>Fixed creature behavior that could result in unintended long-distance pulls.</li>
+</ul>
+<p><strong>Changes and Updates</strong></p>
+<ul>
+<li>
+<p><strong>Now available for testing: the new City of Dalaran dungeon.</strong></p>
+</li>
+<li>
+<p>Players will once again be able to swap multiple weapons within the same GCD, for example via a macro to swap from a two-handed weapon, to a sword and shield.</p>
+</li>
+<li>
+<p>The experience earned from killing creatures in dungeons has been increased by approximately 20%.</p>
+</li>
+<li>
+<p>Fixed a bug that reduced XP granted to players who were in a party with higher-level players killing lower-level enemies.</p>
+<ul>
+<li><em>Developers’ notes: So far in WoW: Forever, experience for killing lower-level enemies while in a party was penalized based on the highest-level member of the party. In Classic Era, that adjustment was made individually for each party member without regard for the highest-level party member. We’ve reverted the calculation to the Classic Era behavior, where only the individual’s level matters. We believe the combination of these two changes will dramatically increase experience earned in dungeons for most players.</em></li>
+<li><em>Developers’ notes: As before, if a member of the party is at a vastly higher level than the enemy being killed, then no player in the party will receive XP, as intended.</em></li>
+</ul>
+</li>
+<li>
+<p><strong>Cooldown Manager</strong></p>
+<ul>
+<li>All classes, racial abilities, and trinkets are now supported.
+<ul>
+<li><em>Developers’ notes: Additional support for consumables will come in a later patch.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Gamepad Support</strong></p>
+<ul>
+<li>Updated the input indicator for actions that require holding a button as opposed to pressing it.</li>
+<li>Fixed an issue that could prevent inputs from working as intended after looting.</li>
+<li>Opening the map UI will now start focus on the Quest Log. This allows players to continue running unless actively using map cursor.</li>
+<li>Raid frame traversal updates.</li>
+<li>Gamepad Action Bar now has edit mode support.</li>
+<li>Edit Mode layouts are now saved and loaded per ui type</li>
+<li>Gamepad Action Bar settings such as compact action bar have been moved into edit mode from the options menu.
+<ul>
+<li>Users will need to go into edit mode, click the gamepad action bar and set any desired options as they will not be moved over from the previous options in the options menu.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Legacy System</strong></p>
+<ul>
+<li>All Beta players have been granted completion of the Legacy Challenge. This awards 16 Legacy Points to fully test out the system.</li>
+<li>The lowest-cost talent point re-spec for Legacy Points now costs 1s, and the cost to re-spec will reduce by one re-spec per hour.
+<ul>
+<li><em>Developers’ notes: This is similar to how re-spec costs work for class talents and only applies during the Beta.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Classes</strong></p>
+<ul>
+<li><em>Developers’ notes: There have been several bugs in the calculation of Rage gained from taking damage, and the bugs are fixed in this build. The typical Warrior or Druid should be gaining more Rage from taking damage.</em></li>
+<li>Fixed a bug where the Rage calculation was incorrectly using the player’s health to determine Rage gained, instead of an expected creature’s health. This incorrectly resulted in less Rage earned while wearing more Stamina gear.</li>
+<li>Fixed a bug where the Rage calculation was not correctly handling increased damage taken from combat multipliers, in particular from taking critical strikes or crushing blows.</li>
+<li>Fixed a bug where Rage calculations on Damage absorbs were not being handled correctly. Damage absorbs should now be properly ignored when calculating Rage received from attacks (as if the Warrior/Druid had no absorb active).</li>
+<li><em>Developers’ notes: Previously, we were balancing Rage gained around Warriors having 50% Armor. While this was appropriate for a tank, it was not appropriate for questing Warriors. We have rebalanced Rage gains based on appropriate values per level in the 20% to 40% range, varying by level.</em></li>
+<li><strong>Druid</strong>
+<ul>
+<li>Fixed a bug where Druids couldn’t use Mana Potions while in Bear/Dire Bear/Cat Form.</li>
+<li>Additional Rage generated from landing Critical Strikes increased to 100% increased Rage (Was 75%).</li>
+<li>The base damage of Thorns has been returned to the Vanilla WoW values and the spell power ratio has been reduced to 6% (was 13.3%).</li>
+<li>Fixed an issue where Cat Form was reducing your maximum health.</li>
+<li>Bear Form and Dire Bear Form: Threat bonus increased to 50% from 30%.</li>
+<li>The effects that override shapeshifting now more closely resemble Classic wow.
+<ul>
+<li><em>Developers’ notes: The Druid’s form is a critical piece of information in combat and preserving the ability for players to see what form the Druid is currently in is important. We appreciate the desire for Druid players to still transform, so there are effects that will still work, it is just now much more limited and largely based on if that transform has other benefits (for example, Noggenfogger Elixir will still transform you because it lets you breathe underwater.)</em></li>
+</ul>
+</li>
+<li>Demoralizing Roar: Fixed an issue where it generated no threat. Now puts some threat on all affected targets.</li>
+<li>Wrath: The base points and points per level of ranks 1-5 of this spell have been adjusted to make the growth rate of ranks 1-6 more consistent, and new ranks always an upgrade.</li>
+<li><strong>Feral</strong>
+<ul>
+<li>Predatory Instincts: This talent has been renamed “Natural Instinct” and now also increases spell healing by 12/25% of Intellect.</li>
+<li>Shifting Power can no longer be used while already at Full Energy.</li>
+<li>Thick Hide: This talent is now properly implemented in code, rather than script, resolving some bugs with equipping gear while shapeshifted not triggering it.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Hunter</strong>
+<ul>
+<li>Disengage: Threat reduction was intended to be doubled but was missed. Now implemented.</li>
+<li>Fixed a bug causing Hunter pets to gain health repeatedly when low health.</li>
+<li><strong>Beast Mastery</strong>
+<ul>
+<li>Unleashed Fury now correctly increases your pet’s damage.</li>
+</ul>
+</li>
+<li><strong>Marksmanship</strong>
+<ul>
+<li>Improved Concussive Shot now has the correct chance to activate.</li>
+</ul>
+</li>
+<li><strong>Survival</strong>
+<ul>
+<li>Improved Wing Clip now has the correct chance to activate and reduced chance to activate if using ranks substantially below your current level.</li>
+<li>Expose Prey now lasts 10 sec (was 5).</li>
+<li>Entrapment now correctly has diminishing returns.</li>
+<li>Entrapment now correctly only activates on Frost Trap’s initial activation, not periodically.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Mage</strong>
+<ul>
+<li>Fixed an issue where Impact could proc off of Flamestrike’s periodic damage.</li>
+<li>Frostbolt: The base points and points per level of ranks 1-5 of this spell have been adjusted to make the growth rate of ranks 1-6 more consistent, and new ranks always an upgrade.</li>
+<li>Fireball: The base points and points per level of ranks 1-5 of this spell have been adjusted to make the growth rate of ranks 1-6 more consistent, and new ranks always an upgrade.</li>
+<li>Arcane Missiles: The base points and points per level of ranks 1-3 of this spell have been adjusted to make the growth rate of ranks 1-4 more consistent, and new ranks always an upgrade.</li>
+</ul>
+</li>
+<li><strong>Paladin</strong>
+<ul>
+<li>Fixed an issue with Retribution Aura that caused it to use the target being struck’s spell power instead of the casting Paladin’s spell power.</li>
+<li>The base damage of Retribution Aura has been returned to the Vanilla WoW values (about a 33% reduction) and the spell power ratio has been reduced to 6% (was 13.3%).</li>
+<li><strong>Protection</strong>
+<ul>
+<li>Reckoning: Now has a 1.5 second cooldown on how often it can be triggered.</li>
+<li>Fixed an issue where Seal of Fury was granting Mana back to the Paladin even if the Improved Seal of Fury talent was not active.</li>
+<li>Improved Seal of Fury and Shield Specialization no longer generate threat when restoring Mana.
+<ul>
+<li><em>Developers’ notes: Paladins restoring enough Mana to sustain combat while tanking was causing more threat to be generated than intended.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Priest</strong>
+<ul>
+<li>Smite: The base points and points per level of ranks 1-4 of this spell have been adjusted to make the growth rate of ranks 1-5 more consistent, and new ranks always an upgrade.</li>
+<li>Lesser Heal and Heal: The base points of ranks 1-3 of Lesser Heal and ranks 1-2 of Heal have been adjusted to make the growth rate of this family of spells up to Heal Rank 3 more consistent, and new ranks always an upgrade.</li>
+<li><strong>Discipline</strong>
+<ul>
+<li><em>Developers’ notes: Penance has received multiple updates to bring it more in line with powerful spells that have a cooldown.</em></li>
+<li>Reduced Penance spell damage and healing to resolve a bug where it was being treated like a 3-second channel instead of a 2 -second channel.</li>
+<li>Adjusted Penance mana costs so that it has a consistent advantage in mana efficiency over the Heal/Greater Heal family of spells. Rank 1 mana cost was increased by 50%.</li>
+<li>Healing done by Penance has been increased on Penance ranks 2 and 4.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Shaman</strong>
+<ul>
+<li>Flametongue Totem will now correctly use the target’s attack speed if they are Shapeshifted, instead of using the speed of their equipped weapon.</li>
+<li>Lightning Bolt: The base points and points per level of ranks 1-5 of this spell have been adjusted to make the growth rate of ranks 1-6 more consistent, and new ranks always an upgrade.</li>
+<li><strong>Elemental</strong>
+<ul>
+<li>Elemental Focus is no longer activated and immediately consumed when using Fire Nova.</li>
+</ul>
+</li>
+<li><strong>Restoration</strong>
+<ul>
+<li>Water Shield now accurately displays the mana restored in the buff tooltip.</li>
+<li>Water Shield no longer says it has a 15 second cooldown (it didn’t have one).</li>
+<li>Mana Tide Totem will once again display its visual when pulsing.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Warlock</strong>
+<ul>
+<li>A Warlock’s current pet will now be stunned while summoning a new pet.</li>
+<li>Shadow Bolt: The base points and points per level of ranks 1-4 of this spell have been adjusted to make the growth rate of ranks 1-5 more consistent, and new ranks always an upgrade.</li>
+<li><strong>Demonology</strong>
+<ul>
+<li>Demonic Brand bonus pet damage now only does high threat when it deals Shadow damage.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Warrior</strong>
+<ul>
+<li>Demoralizing Shout: Fixed an issue where it generated no threat. Now puts some threat on all affected targets.</li>
+<li><strong>Arms</strong>
+<ul>
+<li>Deep Wounds is once again a required talent to reach Impale.</li>
+<li>Fixed a bug where Deep Wounds was scaling with attack power for your Offhand weapon.
+<ul>
+<li><em>Developers’ notes: Deep Wounds does not scale with Attack Power but is a rolling DoT compared to Classic/Vanilla.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Protection</strong>
+<ul>
+<li>Fixed an issue causing Last Stand to not grant the correct amount of health to the player on activation.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Items</strong></p>
+<ul>
+<li>Reduced the visual size of new armorset shoulder pieces to correct size.</li>
+<li>Wolfshead Helm’s effect has changed to granting 5 additional Energy when shifting power is used. Rage portion of the helm’s effect remains the same.</li>
+<li>Various Dungeon Quest Rewards have had their rarity lowered to Uncommon from Rare. Stats have been updated to reflect the change in rarity.</li>
+<li>The Truthseeker’s Bow from the Greater Friend of the Library quest now has the correct level requirement of level 40. The other two rewards from this quest chain had a level 40 equipped item requirement so it has been changed to match these items.</li>
+<li>Transformative Cocoon is now correctly a debuff.</li>
+<li>The Revelation Enchant’s buff will no longer be removed when the caster Shapeshifts into Ghost Wolf or Druid Forms.</li>
+<li>The recipe for Peace Tea now sells to vendors for 10c.</li>
+<li>Various Enchanting-produced items have had their vendor prices adjusted as follows:
+<ul>
+<li>Minor Wizard Oils now sells for 1s.</li>
+<li>Novice’s Practice Wand now sells for 5c.</li>
+<li>Lesser Magic Wand now sells for 1s 10c.</li>
+<li>Greater Magic Wand now sells for 2s.</li>
+<li>Lesser Mystic Wand now sells for 4s 50c.</li>
+<li>Greater Mystic Wand now sells for 6s.</li>
+<li>Twisted Nether Wand now sells for 10s.</li>
+<li>Dreambough Wand now sells for 15s.</li>
+<li>Lesser Eternal Wand now sells for 20s.</li>
+<li>Greater Eternal Wand now sells for 25s.</li>
+</ul>
+</li>
+<li>Booty Bay Bruiser’s Buckshot no longer has a knockback effect.</li>
+<li>The following rewards from the new Gelkis and Magram quests in the Desolace have received tuning adjustments. In an upcoming hotfix, these will be changed to require Level 35 to equip, matching the quest adjustments.
+<ul>
+<li>Abandoned Ferocity</li>
+<li>Blade of the Magram Clan</li>
+<li>Bludgeon of Betrayed Virtues</li>
+<li>Centaur Spear</li>
+<li>Ceremonial Centaur Blanket</li>
+<li>Desert Crawler’s Claw</li>
+<li>Desperate Barrier</li>
+<li>Greatstaff of the Necrokhans</li>
+<li>Kolkar Hunter’s Belt</li>
+<li>Kolkar Marauder Chain</li>
+<li>Scavenged Magram Armament</li>
+<li>Soulsplatter Mace</li>
+<li>Staff of Revelations</li>
+<li>Thrice-Damned Effigy</li>
+<li>Traitor’s Finger</li>
+<li>Wanderer’s Broadsword</li>
+<li><em>Developers’ notes: Most of the items above have simply had their power level adjusted to the expected value from the quest, but some received stat changes.</em></li>
+</ul>
+</li>
+<li>Damage from Discolored Healing Potions no longer breaks Crowd Control effects.</li>
+</ul>
+<p><strong>Player versus Player</strong></p>
+<ul>
+<li>Critical strikes in PvP no longer have reduced efficacy.</li>
+<li>Fixed an issue where the capture point for Shipwreck Cove appeared in the incorrect location.</li>
+</ul>
+<p><strong>Professions</strong></p>
+<ul>
+<li>Armor Kits that grant Attack Power no longer incorrectly grant twice as much Ranged Attack Power.</li>
+<li>Fixed an issue where Enchant Weapon - Recovery was not working for Druids while shapeshifted.</li>
+</ul>
+<p><strong>Races</strong></p>
+<ul>
+<li>Undead
+<ul>
+<li>Fixed an issue where Will of the Forsaken could sometimes not be used while asleep or charmed.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Quests</strong></p>
+<ul>
+<li>Fixed an issue where players could become unable to start “Blood Tithe” after completing certain quests.</li>
+<li>The Night Watchman’s Torch no longer has a visible aura on the players it is illuminating, only the torch bearer.</li>
+<li>Barbers across capital cities have been sacked and replaced with local barbers. We anticipate no fallout from this among the goblin cartels.</li>
+<li>Barrens
+<ul>
+<li>The Horn of Echeyakee is no longer consumed on use during the quest “Echeyakee”.</li>
+<li>There is now a map marker for the quest “The Principal Source”.</li>
+</ul>
+</li>
+<li>Desolace
+<ul>
+<li>The new quests for the Gelkis and the Magram beginning with “Valley of Bones” now require a minimum level of 35 (was 30).
+<ul>
+<li>The power of these rewards have been adjusted. See Items section for more details.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Dun Morogh
+<ul>
+<li>Moving and turning inputs no longer cancel Far Sight during the quest “Farsen’s Watch”. It can still be right-click cancelled at any time.</li>
+</ul>
+</li>
+<li>Durotar
+<ul>
+<li>The Taillasher Eggs for the quest “Break A Few Eggs” now respawn more quickly, and there are more eggs available.</li>
+<li>Lazy Peons are now lazier for the quest “Lazy Peons”, and the map marker now includes the super secret northern peons.</li>
+</ul>
+</li>
+<li>Duskwood
+<ul>
+<li>Stitches is once again hostile as he enters the unsuspecting town of Darkshire. DARKSHIRE…I HUNGER!!</li>
+</ul>
+</li>
+<li>Excavation Site: Wetlands
+<ul>
+<li>The Titan Relic item from the quest “Elder Knowledge” or “Lost Relic Carry” is given back to players for the follow-ups “Earthen Echo” or “Prehistoric Prism”, so that you do not need to get another relic.</li>
+</ul>
+</li>
+<li>Hillsbrad Foothills
+<ul>
+<li>During the quest “Elixir of Pain” Stanley no longer gives XP, and the quest now gives the XP that formerly came from him.</li>
+</ul>
+</li>
+<li>Loch Modan
+<ul>
+<li>Reduced the frequency of Dark Iron Ambushers at Miran’s camp during the quest “Resupplying the Excavation.”</li>
+</ul>
+</li>
+<li>Mulgore
+<ul>
+<li>The turn-in marker for “Grim Tidings” has been updated for accuracy.</li>
+<li>Creatures in Gloomrise now respawn more evenly, and Gloomrise Hatchlings give appropriate XP for their difficulty.</li>
+</ul>
+</li>
+<li>Orgrimmar
+<ul>
+<li>Neeru Fireblade now has a map marker and mouseover tooltip during the quest “Hidden Enemies”. Ironic.</li>
+</ul>
+</li>
+<li>Redridge Mountains
+<ul>
+<li>Increased the respawn rate of the Weapon Racks, Stolen Weapons, and Blackrock Supplies for the quest “Blackrock Blockade”.</li>
+</ul>
+</li>
+<li>Rogue</li>
+<li>Added map markers for the quest “Plundering the Plunderers”.</li>
+<li>Shaman
+<ul>
+<li>The various creatures needed for the quest “Storm, Earth, and Fire” respawn more quickly, creatures drop their twisted totems more often, Maraudine Scouts now drop Twisted Air Totems, Ongeku can now drop a Twisted Earth Totem, Murdaloc can now drop a Twisted Fire Totem. The Twisted Fire Totem can now additionally be obtained via Dustbelcher ogres across the Badlands. Larger encampents like Dustbelch Grotto will respawn more quickly, but smaller ones will not.</li>
+<li>The Eye of the Tempest for “Heed My Call” is now multi-drop.</li>
+</ul>
+</li>
+<li>Stonetalon Mountains
+<ul>
+<li>Jin’Zil now allows quests to be turned in to him after someone completes the quest “Jin’Zil’s Forest Magic.”</li>
+</ul>
+</li>
+<li>Teldrassil
+<ul>
+<li>During the quest “Destiny Calls”, Sethir the Ancient now spawns more Minions of Sethir after having been reset, and his respawn time has been decreased.</li>
+<li>Sentinel Lynessa Duskblossom now moves more slowly during the quest “Escaping Ban’ethil.”</li>
+</ul>
+</li>
+<li>Tirisfal Glades
+<ul>
+<li>Increased the level of the quests and creatures around Shadowvale and Bandarion Keep.
+<ul>
+<li><em>Developers’ notes: These were lower level than the content that preceded them, which didn’t have the escalation we wanted and could result in the quests being green by the time you got to them.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Warrior
+<ul>
+<li>Fixed an issue where the Mausoleum Trigger for the quest “Ulag the Cleaver” would take a long time to reactivate.</li>
+</ul>
+</li>
+</ul>
+<p><strong>User Interface</strong></p>
+<ul>
+<li>Voice Chat can now be set to use Discord Voice under Audio settings and is used for the entire party based on the party leader’s setting.</li>
+<li>An In-Game Voice Mode can now be chosen for Group Finder postings which result in party members receiving a prompt to join the selected voice chat.</li>
+<li>Inspect player window has been updated.</li>
+<li>Combo points have been updated in the Target Frame and Personal Resource Display.</li>
+<li>Quest Types are now displayed as text in the Quest Log, Quest Tracker, and Quest Dialogue.</li>
+<li>Quest level requirements are now displayed in the Quest Tracker.</li>
+<li>Fixed an issue where buffed stats were not highlighted in the Character Info panel.</li>
+<li>Fixed an issue where Specific Macros were showing General Macros.</li>
+<li>Clicking on an earned Legacy Challenge will now open the Legacy Challenge window.</li>
+<li>View Talents is now an option below Inspect in the target frame’s context menu.</li>
+<li>Character level and class is now displayed on the left frame of the Character Info pane.</li>
+</ul>
+<p><strong>Known Issues – New with this build</strong></p>
+<ul>
+<li>While texture updates to Skyborne druid bear and travel form are updated, texture updates to Skyborne druid cat form, various creatures in Zephras Isle, and some mounts, pets, and other creatures will arrive in a future build.</li>
+<li>Hunters who selected the Ferocity talent will not see the critical strike chance of their pet increase on the character sheet. This is a visual bug only.</li>
+<li>Some of the icons in the Professions window appear broken.</li>
+</ul>
+</article></body></html>

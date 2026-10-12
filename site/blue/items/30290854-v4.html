@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>[Kaivax] WoW Forever Beta Development Notes – Updated October 8（已更新）</title>
+<meta property="og:title" content="[Kaivax] WoW Forever Beta Development Notes – Updated October 8（已更新）">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-10-02">
+<link rel="canonical" href="https://thunderfurybbotw.github.io/RSS/blue/items/30290854-v4.html">
+<style>body{max-width:720px;margin:2rem auto;padding:0 16px;font:16px/1.7 -apple-system,"PingFang SC","Hiragino Sans",sans-serif;color:#222;background:#fff}
+a{color:#2563eb}h1{font-size:1.5rem;line-height:1.3}.meta{color:#666;font-size:.9rem}img{max-width:100%;height:auto}
+blockquote,aside{border-left:3px solid #ccc;margin:1em 0;padding:0 1em;color:#555}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#7aa7ff}.meta{color:#999}blockquote,aside{color:#aaa;border-color:#444}}</style>
+</head><body><article>
+<h1>[Kaivax] WoW Forever Beta Development Notes – Updated October 8（已更新）</h1>
+<p class="meta"><time datetime="2026-10-02">2026年10月2日</time> · <a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-8/2360696/4">在暴雪论坛查看原帖</a></p>
+<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 4 楼（第 4 版）</p><p>Today, we updated the WoW Forever Beta with a new build that includes the following.</p>
+<h2><a aria-label="Heading link" class="anchor" href="https://us.forums.blizzard.com#p-30290854-change-log-1" name="p-30290854-change-log-1"></a>CHANGE LOG</h2>
+<p><strong>Bug Fixes</strong></p>
+<ul>
+<li>Improved rain visibility.</li>
+<li>Removed the ‘Ray Traced Shadows’ option. This setting will be re-added to the game in a future update, after the functionality is fixed.</li>
+<li>Fixed an issue where the Night Watchman’s Torch was causing some unintended lag in certain situations and could not be cancelled.</li>
+<li>The visual size of weapons when held in hand and sheathed on the back has been adjusted across all races to be more consistent.</li>
+</ul>
+<p><strong>Changes and Updates</strong></p>
+<ul>
+<li>Players can now level up to a maximum of level 30.</li>
+<li><strong>New Dungeon - Excavation Site: Wetlands (26-31).</strong></li>
+<li>Players now have access to Razorfen Downs (25+) and Uldaman (30+), in addition to the following, already available, dungeons:
+<ul>
+<li>
+<ul>
+<li>Ragefire Chasm</li>
+<li>Hall of Thanes</li>
+<li>Ruins of Lordaeron</li>
+<li>Wailing Caverns</li>
+<li>The Deadmines</li>
+<li>Shadowfang Keep</li>
+<li>The Stockade</li>
+<li>Blackfathom Deeps</li>
+<li>Gnomeregan</li>
+<li>Razorfen Kraul</li>
+<li>Scarlet Monastery</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>There are now barbershops in Darnassus and Thunder Bluff, all barbershops now have barbers working at them, and city guards will give directions to barbershops.</li>
+<li><strong>Camping</strong>
+<ul>
+<li>The Boosted Rest debuff caused by this camp feature now has a different icon intended to make the effect clearer, and the tooltip has been rewritten to be clearer.</li>
+<li>Wording on camping features has been adjusted to use the term “mutually exclusive” instead of just “exclusive” to reduce some confusion around functionality.</li>
+<li>Campfires no longer deal damage to players below level 5, and they deal reduced damage to players with less than 90% health.</li>
+</ul>
+</li>
+<li><strong>Items</strong>
+<ul>
+<li>Savory Whimsyfin Delight now uses an orc equivalent of the Ninja and Pirate outfits from the Savory Deviate Delight.
+<ul>
+<li><em>Developers’ notes: The prior transformations were placeholder, but we may reintroduce similar ones in the future!</em></li>
+</ul>
+</li>
+<li>When selling to a vendor a BoE item which has an appearance you have not collected, the item will now become soulbound (was Bound to Account).</li>
+</ul>
+</li>
+</ul>
+<p><strong>Classes</strong></p>
+<ul>
+<li><strong>Druid</strong>
+<ul>
+<li>Bear Form and Dire Bear Form now generate 75% increased Rage when landing a Critical Strike.</li>
+<li>Fixed a bug causing Swipe to not scale with Attack Power. It will now correctly gain 3% of the Druid’s attack power.
+<ul>
+<li><em>Developers’ notes: The tooltip will not update correctly until a future update</em>.</li>
+</ul>
+</li>
+<li>Tiger’s Fury has been removed.</li>
+<li>All Shapeshift Forms are now IMMUNE to Disarm effects.
+<ul>
+<li><em>Developers’ notes: This is a gameplay adjustment to match how it felt in original WoW. If a Druid gets disarmed before entering a form, their form will not remove the Disarm effect, and they will also deal reduced damage for the duration of the disarm effect, so disarming a Druid before they shift will result in them dealing reduced damage.</em></li>
+</ul>
+</li>
+<li>Faerie Fire no longer resets your swing timer when used.</li>
+<li><strong>Feral</strong>
+<ul>
+<li>Primal Bite: Threat generated by this ability has been roughly doubled.</li>
+<li>The King of the Jungle talent has been removed.</li>
+<li>Tiger’s Fury has been removed.</li>
+<li>Connected to Shredding Attacks in the 4th row is a new talent - Shifting Power.
+<ul>
+<li>Cat Form Only. 16 second cooldown. Costs 55% of Base Mana.</li>
+<li>Instantly convert 55% of Base Mana into 40 Energy. Shifting Power’s cost is reduced by effects that reduce the cost of Shapeshifting.</li>
+<li>Shifting Power costs the same amount of Mana as Cat Form.</li>
+</ul>
+</li>
+<li>Connected to Shifting Power in the 5th row is a new talent - Improved Shifting Power.
+<ul>
+<li>Reduces the cooldown of your Shifting Power spell by 4/8 seconds.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Hunter</strong>
+<ul>
+<li><strong>Marksmanship</strong>
+<ul>
+<li>Icon for Improved Stings changed to be more Vanilla feeling.</li>
+<li>The 31st talent Sniper Shot now has a 45-yard Range and increases the range of your next 3 shots made within 10 seconds by 10 yards.</li>
+</ul>
+</li>
+<li><strong>Survival</strong>
+<ul>
+<li>Icon for Predator’s Edge changed to be more Vanilla feeling.</li>
+<li>Deflection’s Parry increase changed to 1/2/3/4/5% (Was 2/4/6/8/10%).</li>
+</ul>
+</li>
+<li><strong>Pets</strong>
+<ul>
+<li>Aggressive Mode has been brought back and can be found under the pet tab in your spell book.</li>
+<li><em>Developers’ notes: There were some tameable beasts with ranks of pet abilities that were too high level for that creature. They have all been fixed. This could result in a bug where your pet “forgot” the pet ability which should not happen after this fix.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Mage</strong>
+<ul>
+<li>All Mage scrolls from comprehension have had an additional balance pass and can no longer be cast while moving.</li>
+<li><strong>Fire</strong>
+<ul>
+<li>Hot Streak has been renamed to Heating Up, since it is no longer dependent on having a ‘streak’.</li>
+<li>The number of charges of Combustion has returned to 3 (was 4).</li>
+<li>Improved Scorch’s Fire Vulnerability will not roll a second time to see if it resists.</li>
+</ul>
+</li>
+<li><strong>Frost</strong>
+<ul>
+<li>Winter’s Chill’s application does not roll to see if it is resisted, since the original spell needed to hit.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Paladin</strong>
+<ul>
+<li><strong>Protection</strong>
+<ul>
+<li>Redoubt’s chance to Block changed to 4/8/12/16/20% (was 6/12/18/24/30%).</li>
+<li>Holy Shield’s chance to Block changed to 30% (was 20%).</li>
+</ul>
+</li>
+<li><strong>Retribution</strong>
+<ul>
+<li>Champion of the Light’s Intellect to Spell Damage ratio changed to 20/40/60% (Was 33/66/100%).</li>
+<li><em>Developers’ notes: Champion of the Light had a tooltip issue saying it increased Healing; it did not. This tooltip has been removed.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Priest</strong>
+<ul>
+<li>Devouring Plague can now correctly critically strike.</li>
+<li>Fixed an issue where Shadow Word: Death was always benefitting from the Early Demise talent regardless of the target’s health %.</li>
+<li><strong>Discipline</strong>
+<ul>
+<li>Inner Focus no longer applies its Critical Strike increase to Periodic Effects.</li>
+</ul>
+</li>
+<li><strong>Shadow</strong>
+<ul>
+<li>Shadow Weaving can no longer fail to apply.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Rogue</strong>
+<ul>
+<li>Fixed an issue where Expose Armor missing would cause you to lose all of your combo points.</li>
+<li><strong>Subtlety</strong>
+<ul>
+<li>Setup will now only add combo points to your current target if they are the one you dodged or resisted a spell from.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Shaman</strong>
+<ul>
+<li>Ghost Wolf should now be more visible while in well-lit areas.</li>
+<li>Fixed an issue where Disease Cleansing Totem wasn’t a 5-minute duration.</li>
+<li>Fixed an issue where Totemic Recall was not restoring Mana.</li>
+</ul>
+</li>
+<li><strong>Warlock</strong>
+<ul>
+<li>Drain Soul is now correctly interrupted if the Warlock begins casting another spell.</li>
+<li>The Incubus pet model has been replaced with a lower resolution model.</li>
+<li>Hellfire can now critically strike.</li>
+<li><strong>Affliction</strong>
+<ul>
+<li>Soul Harvesting has been renamed to Soul Harvest. It now correctly grants its 50/100% increase to Mana regeneration.</li>
+</ul>
+</li>
+<li><strong>Pets</strong>
+<ul>
+<li>Aggressive Mode is back and can be found under the pet tab in your spell book.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Warrior</strong>
+<ul>
+<li>Players now generate 75% increased Rage when landing a critical strike with a basic attack.</li>
+<li>Rend and Sunder Armor will now instantly tap enemies to the Warrior.</li>
+<li>Queueing Heroic Strike will no longer increase off-hand hit chance.</li>
+<li>Additional Rage generated from landing Critical Strikes increased to 100% increased Rage (was 75%).</li>
+<li>Fixed a bug that was causing Dual Wield Specialization to grant its increase to Hit Chance to both weapons.
+<ul>
+<li><em>Developers’ notes: Because of the above bug, our tests needed some correcting, so we did another pass on Fury Warrior.</em></li>
+</ul>
+</li>
+<li><strong>Arms</strong>
+<ul>
+<li>Spearing Strike no longer requires a 2handed weapon. Spearing Strike requires Battle Stance.</li>
+</ul>
+</li>
+<li><strong>Fury</strong>
+<ul>
+<li>Dual Wield Specialization no longer provides a 20/40/60/80/100% increase to your Off-Hand weapon’s Rage generation.</li>
+<li>Fixed an issue with Unbridled Rage having a lower proc chance than intended.</li>
+<li><em>Developers’ notes: Our goal here is to give Fury more access to utility and meaningful choices early in the tree for leveling, and free up points later for more choices instead of being stuck placing points into Enrage to get Flurry.</em></li>
+<li>Booming Voice is now a 10/20/30/40/50% increase area of effect to your Shouts and a 5/10/15/20/25% reduction to their Rage costs.</li>
+<li>Unbridled Wrath no longer grants twice as much Rage to two-handed weapons.</li>
+<li>New Talent Lingering Rage in Row 2 of Fury. Lingering Rage increases the time before your Rage begins to decay when leaving combat by 2/4/6/8/10 seconds.</li>
+<li>Blood Craze no longer activates off of Bloodthirst casts.</li>
+<li>The Improved Cleave talent has been removed.</li>
+<li>The Boundless Rage talent has been removed.</li>
+<li>New Talent Furious Precision in Row 3 of Fury. Furious Precision increases your chance to hit with off-hand attacks by 4/7/10%.</li>
+<li>Raging Blows now reduces the Rage cost of your Cleave and Whirlwind abilities by 3.</li>
+<li>Raging Blows no longer causes your Whirlwind to strike with your offhand. Whirlwind will now always strike with both weapons without requiring a talent point.</li>
+<li>Dual Wield Specialization no longer grants hit to your off-hand attacks.</li>
+<li>Enrage is no longer required to reach the Flurry talent.</li>
+<li>Death Wish is now required to reach the Flurry talent.</li>
+<li>New Talent Gore Drinker in Row 6 of Fury, requires the Enrage talent. Your Enrage, Berserker Rage, Bloodrage, Death Wish, and Bloodthirst abilities cause your next 3 melee attacks to restore 0.5/1% of your maximum Health.</li>
+<li>Improved Berserker Rage moved to Row 5 of Fury (Was Row 6).</li>
+<li>Berserker Rage is now available at level 30 (Was 32)</li>
+<li>Bloodthirst’s Attack Power ratio has been increased to 45% (Was 35%).</li>
+</ul>
+</li>
+<li><strong>Protection</strong>
+<ul>
+<li><em>Developers’ notes: Our goal is to give non-shield users a clear path to the middle of the tree, where Protection could serve as a PvP tech secondary specialization, with more access to Improved Bloodrage, Iron Will, Improved Disarm, Last Stand, and Improved Shield Bash.</em></li>
+<li>Iron Will moved to the Row 1 of Protection (Was Row 2 of Fury).</li>
+<li>Anticipation moved to Row 2 (Was Row 1).</li>
+<li>Toughness has been removed.</li>
+<li>Improved Bloodrage moved to Row 1 (Was Row 2).</li>
+<li>Improved Revenge moved to Row 2 (Was Row 3).</li>
+<li>Improved Disarm moved to Row 3 (Was Row 4).</li>
+<li>Improved Shield Bash moved to Row 4 (Was Row 5).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Cooldown Manager</strong></p>
+<ul>
+<li>Racial abilities are now supported.</li>
+<li>Rogue is now supported.</li>
+<li>Duplicate entries for each spell rank on already supported classes should no longer be present.</li>
+</ul>
+<p><strong>Gamepad Support</strong></p>
+<ul>
+<li>The pet stable interface has been updated for gamepad support.</li>
+<li>The gamepad UI bindings are now static, and any gamepad rebinding only affects the keyboard and mouse interface.</li>
+<li>The compact Raid and Party manager frames have been updated for gamepad support.</li>
+<li>Fixed an issue preventing macros placed on a gamepad action bar from being able to be moved.</li>
+</ul>
+<p><strong>Player versus Player</strong></p>
+<ul>
+<li>Honor costs for PvP gear and upgrade tokens have been adjusted, with most item costs increasing by approximately 50% to better align with gear acquisition targets.</li>
+<li>The Honor cap has been increased from 15,000 to 25,000 to better accommodate the above new costs.</li>
+</ul>
+<p><strong>Professions</strong></p>
+<ul>
+<li>Shenthul in Orgrimmar will now train Windshaper Skyborne.</li>
+<li>A number of recipes intended for Blacksmithing and Leatherworking as random drops in dungeons are now available.</li>
+<li><strong>Enchanting</strong>
+<ul>
+<li>All crafted common and uncommon quality wands now sell at vendors for 1 copper.</li>
+</ul>
+</li>
+<li><strong>Mining</strong>
+<ul>
+<li>Reduced the amount of Poor Copper Vein nodes available in starter areas.</li>
+</ul>
+</li>
+<li><strong>Skinning</strong>
+<ul>
+<li>Creatures can once again only be skinned a single time before disappearing.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Quests</strong></p>
+<ul>
+<li><em>Developers’ notes: We appreciate the feedback on leveling speed as we continue ongoing discussions about the Beta. As part of those discussions, we’ve decided to reduce the amount of XP granted from dungeon quests with this release. Certain quest rewards have also been recalibrated.</em></li>
+<li>Dungeon quests now reward 50% less extra experience beyond normal quest values.</li>
+<li>Resolved an issue with players being unable to start escort quests if their quest log contained 25 or more quests.</li>
+<li>Resolved an issue with certain quest items being multi-drop.</li>
+<li>Resolved an issue with some quests that give items on start being shareable.</li>
+<li>Resolved an issue with some quests that come from items being shareable.</li>
+<li>Increased the respawn rate across many different creatures and objects in Hillsbrad Foothills, Ashenvale, Wetlands, Duskwood, and Thousand Needles.
+<ul>
+<li><em>Developers’ notes: Redridge Mountains and Stonetalon Mountains were adjusted in a previous build. Please continue to submit any areas where you have difficulty completing quests, and we will continue to make adjustments.</em></li>
+</ul>
+</li>
+<li>Darkshore
+<ul>
+<li>Resolved an issue with the Tharnariun’s Hope item during the quest “Plagued Lands”.</li>
+</ul>
+</li>
+<li>Deadmines
+<ul>
+<li>“Destruction in Deadmines” now sorts correctly in the quest log for the dungeon.</li>
+</ul>
+</li>
+<li>Druid
+<ul>
+<li>Fixed an issue where players were not receiving loot reliably during the quests “The Great Cat Spirit” and “The Great Windborne Cat Spirit.”</li>
+<li>High Order Skyborne can now do the quest “Power Over Poison” to learn the Cure Poison spell.</li>
+</ul>
+</li>
+<li>Dun Morogh
+<ul>
+<li>Shimmer Ridge trolls will respawn more evenly, and faster in areas where they were sluggish. It be the cold, mon.</li>
+</ul>
+</li>
+<li>Loch Modan
+<ul>
+<li>Troggs in the Loch now respawn slightly more slowly for the quest “In Defense of the King’s Lands.”</li>
+</ul>
+</li>
+<li>Mulgore
+<ul>
+<li>The quest “Kyle’s Gone Missing!” has been added.</li>
+</ul>
+</li>
+<li>Orgrimmmar
+<ul>
+<li>Smooth Boulder should be far more plentiful and available to gather for the quest “Rocks to Rests”</li>
+</ul>
+</li>
+<li>Redridge Mountains
+<ul>
+<li>The quest “Blackrock Blockade” has been updated. Spawn rates have also been adjusted.</li>
+</ul>
+</li>
+<li>Ruins of Loraderon
+<ul>
+<li>“A Frightened Request” now sorts correctly in the quest log under the dungeon.</li>
+<li>Resolved an issue where players could receive multiple copies of the Bloodied Insignia quest item.</li>
+</ul>
+</li>
+<li>Wailing Caverns
+<ul>
+<li>Serpentbloom Snakes now despawn after a couple of minutes. Why’d it have to be snakes?</li>
+</ul>
+</li>
+<li>Westfall
+<ul>
+<li>Significantly reduced the respawn rate of the pocket watch in Furlbrow’s Wardrobe for the quest “The Forgotten Heirloom”.</li>
+<li>Increased respawn rate for the undead for the quest “Collecting Memories” and Foreman Thistlenettle for the quest “Oh Brother…”</li>
+</ul>
+</li>
+</ul>
+<p><strong>Races</strong></p>
+<ul>
+<li><strong>Gnome</strong>
+<ul>
+<li>Eureka! no longer benefits periodic effects at all. Channeled spells do not count as periodics.</li>
+</ul>
+</li>
+<li><strong>Undead</strong>
+<ul>
+<li>Cannibalize cannot be used if the caster is immune to Physical damage.</li>
+</ul>
+</li>
+</ul>
+<p><strong>User Interface</strong></p>
+<ul>
+<li>On the character sheet, when mousing over Spell Damage and Spell Healing, it is now explained that spells cast using spell ranks vastly below your current level receive less benefit from your Spell Damage and Spell Healing and have a reduced chance to activate your Class abilities and Talents. (examples: Frostbite and Omen of Clarity)
+<ul>
+<li><em>Developers’ notes: Another example of this reduction in activation chance – Using a Rank 1 Frostbolt at level 60 will result in a 0% chance to get a Frostbite activation. So you now are making a decision between getting a slow off quickly, or using a spell that can potentially get a Frostbite activation, instead of getting both.</em></li>
+</ul>
+</li>
+<li>Character Creation will display matching icons when Standard Definition models are toggled.</li>
+<li>Stables frame art has been updated.</li>
+<li>Combo points on the target frame and Personal Resource Display has updated art.</li>
+<li>Fixed loot rolls in chat not displaying a player’s full name.</li>
+<li>The auction house will now correctly display item suffixes.</li>
+</ul>
+<p><strong>World</strong></p>
+<ul>
+<li>Adjustments have been made to world instances.</li>
+<li>Party leaders should no longer be transferred when creating or updating party composition.</li>
+<li><em>Developers’ notes: As we continue to iterate on features that impact player populations and grouping, we look forward to your feedback and bug reports.</em></li>
+</ul>
+<p><strong>Known Issues - New to this build</strong></p>
+<ul>
+<li>Chaining Spells together does not play the precast spell effects and sounds of the next cast until the first cast finishes.
+<ul>
+<li>For example: When you cast Fireball and cast another Fireball right away, you finish your Fireball cast, your hands won’t glow or make the crackling sound of the new Fireball you’re casting, and then once your hand comes down from the first Fireball cast, you then begin the precast animation of the next Fireball spell.</li>
+</ul>
+</li>
+<li>Enemies can Parry and Block from behind if the player is close to them. Until this is fixed, it can be avoided by not being too close to targets.</li>
+<li>The size of the total installation of WoW: Forever is larger than intended. We’re working to reduce it in a future Beta update.</li>
+<li>Switching to or from Gamepad UI mode resets the active edit mode layout to the default preset.</li>
+<li>Scroll of Liminal Passage does not function correctly.</li>
+<li>Dwarf player-characters do not have updated splash sounds in water. This is fixed in a later build.</li>
+<li>Eureka does not affect every Damaging Spell or Healing Spell for some classes. This is fixed in a later build.</li>
+<li>Multiple debuffs like Faerie Fire and Demoralizing Shout don’t cause threat.</li>
+<li>Mages who learn Research can be prevented from accessing it.</li>
+<li>Warriors’ Dual Wield Specialization is granting both your Main hand and Off-hand 2/4/6/8/10% hit chance. It should only be granted to your Off-hand.</li>
+<li>Retribution Aura uses the target’s spell power instead of the Paladin’s.</li>
+<li>The Taillasher Eggs for the quest “Break A Few Eggs” do not respawn as quickly as intended. This will be fixed in a later build.</li>
+<li>Anduin Wrynn - and many other children – unintentionally have hats. We’re in the process of removing them, but they keep giggling and running away, so this is going to take a while.</li>
+</ul>
+<p><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-known-issues-september-18/2352687/">Our full Known Issues post is here.</a></p>
+</article></body></html>
