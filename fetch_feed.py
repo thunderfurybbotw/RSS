@@ -136,7 +136,8 @@ def parse(html: str, page_url: str):
 
 
 def build_rss(items, page_url: str, lang: str) -> str:
-    now = format_datetime(datetime.now(timezone.utc))
+    # 用最新一条的时间：内容没变时文件也不变，不会每次都产生提交
+    now = format_datetime(max((it["date"] for it in items), default=datetime.now(timezone.utc)))
     out = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0"><channel>',
