@@ -2,31 +2,80 @@ name: Build RSS
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
-  workflow_dispatch:
+    - cron: "17 */6 * * *"   # 每 6 小时一次（UTC）
+  workflow_dispatch:          # 可在 Actions 页面手动运行
 
 permissions:
-  contents: read
+  contents: write   # 把生成的 feed 存回仓库：某个来源抓取失败时，保留上一次的结果
   pages: write
   id-token: write
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - run: pip install requests beautifulsoup4
-      - run: python fetch_feed.py --lang zh-tw --out public/feed.xml
+
+      # 每个来源单独一步，一个失败不影响其他；失败的那个保留上次的 feed
+      - name: ForeverChanges 更新档说明
+        id: fc
+        continue-on-error: true
+        run: python fetch_feed.py --lang zh-tw --out site/feed.xml
+
+      - name: 暴雪论坛蓝帖
+        id: blue
+        continue-on-error: true
+        run: python forum_blue.py --out site/blue
+
+      - name: wowclassicforever 新闻
+        id: wcfnews
+        continue-on-error: true
+        run: python wcf.py news --out site/wcf-news
+
+      - name: wowclassicforever 最新动态
+        id: wcflatest
+        continue-on-error: true
+        run: python wcf.py latest --out site/wcf-latest
+
+      - name: 汇总
+        run: |
+          cp index.html site/index.html
+          {
+            echo "| 来源 | 结果 |"; echo "|---|---|"
+            echo "| ForeverChanges | ${{ steps.fc.outcome }} |"
+            echo "| 暴雪论坛蓝帖 | ${{ steps.blue.outcome }} |"
+            echo "| wcf 新闻 | ${{ steps.wcfnews.outcome }} |"
+            echo "| wcf 最新动态 | ${{ steps.wcflatest.outcome }} |"
+          } >> "$GITHUB_STEP_SUMMARY"
+          for s in "${{ steps.fc.outcome }}" "${{ steps.blue.outcome }}" "${{ steps.wcfnews.outcome }}" "${{ steps.wcflatest.outcome }}"; do
+            if [ "$s" != "success" ]; then echo "::warning::有来源抓取失败，已保留上一次的 feed，详见本次运行的汇总"; break; fi
+          done
+
+      - name: 保存结果到仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add site
+          if git diff --cached --quiet; then
+            echo "内容没有变化"
+          else
+            git commit -m "Update feeds"
+            git push
+          fi
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: site
 
   deploy:
     needs: build
