@@ -160,11 +160,64 @@ def build_rss(items, page_url: str, lang: str) -> str:
     return "\n".join(out) + "\n"
 
 
+ITEM_PAGE = """<!doctype html>
+<html lang="{lang}"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title}</title>
+<meta property="og:title" content="{title}">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="{iso}">
+<link rel="canonical" href="{self_url}">
+<style>body{{max-width:720px;margin:2rem auto;padding:0 16px;font:16px/1.7 -apple-system,"PingFang TC","Hiragino Sans",sans-serif;color:#222;background:#fff}}
+a{{color:#2563eb}}h1{{font-size:1.5rem;line-height:1.3}}.meta{{color:#666;font-size:.9rem}}
+@media (prefers-color-scheme:dark){{body{{color:#ddd;background:#111}}a{{color:#7aa7ff}}.meta{{color:#999}}}}</style>
+</head><body><article>
+<h1>{title}</h1>
+<p class="meta"><time datetime="{iso}">{date}</time> · <a href="{orig}">在 ForeverChanges 上查看原文</a></p>
+{body}
+</article></body></html>
+"""
+
+
+def site_base(cli_value):
+    """GitHub Pages 的网址：优先用参数，其次从 Actions 的环境变量推算。"""
+    import os
+    if cli_value:
+        return cli_value.rstrip("/")
+    repo = os.environ.get("GITHUB_REPOSITORY", "")  # 例: thunderfurybbotw/RSS
+    if "/" in repo:
+        owner, name = repo.split("/", 1)
+        if name.lower() == f"{owner.lower()}.github.io":
+            return f"https://{owner.lower()}.github.io"
+        return f"https://{owner.lower()}.github.io/{name}"
+    return ""
+
+
+def write_item_pages(items, out_dir: Path, base: str, lang: str):
+    """每个版本生成一张独立页面，并把 RSS 链接改指向它（阅读器抓全文时只看到这一条）。"""
+    item_dir = out_dir / "items"
+    item_dir.mkdir(parents=True, exist_ok=True)
+    for it in items:
+        name = re.sub(r"[^0-9A-Za-z.\-]", "_", it["guid"]) + ".html"
+        self_url = f"{base}/items/{name}"
+        (item_dir / name).write_text(ITEM_PAGE.format(
+            lang=lang,
+            title=escape(it["title"]),
+            iso=it["date"].strftime("%Y-%m-%d"),
+            date=f"{it['date'].year}年{it['date'].month}月{it['date'].day}日",
+            self_url=escape(self_url),
+            orig=escape(it["link"]),
+            body=it["html"],
+        ), encoding="utf-8")
+        it["link"] = self_url
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--lang", default="zh-tw", choices=["zh-tw", "zh-cn"])
     ap.add_argument("--file", help="读取本地 HTML（测试用）")
     ap.add_argument("--out", default="public/feed.xml")
+    ap.add_argument("--base-url", help="发布网址，例: https://user.github.io/RSS（在 Actions 里会自动推算）")
     args = ap.parse_args()
 
     page_url = f"{SITE}/{args.lang}/patch-notes"
@@ -176,6 +229,11 @@ def main():
 
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
+    base = site_base(args.base_url)
+    if base:
+        write_item_pages(items, out.parent, base, args.lang)
+    else:
+        print("提示：没有发布网址，链接仍指向原网页（本地测试可加 --base-url）")
     out.write_text(build_rss(items, page_url, args.lang), encoding="utf-8")
     print(f"写入 {out}：{len(items)} 条，最新 {items[0]['title']}")
 
