@@ -20,6 +20,7 @@ SITE = "https://wowclassicforever.info"
 LANG = "zh-hans"
 MAX_NEWS = 20
 MAX_DAYS = 30
+CACHE_MARK = "<!--wcf-v2-->"  # 改这个标记会让所有新闻正文重新抓一次
 
 
 def article_body(url):
@@ -59,8 +60,9 @@ def build_news(out_dir: Path):
         url = urljoin(list_url, a["href"])
         guid = f"wcf-news-{a['href'].strip('/').split('/')[-1]}"
         summary = card.select_one("p")
-        # 已经抓过的文章直接用上次的正文，只抓新文章
-        html = prev.get(guid) or article_body(url)
+        # 已经抓过的文章直接用上次的正文，只抓新文章（带当前缓存标记的才复用）
+        cached = prev.get(guid, "")
+        html = cached if cached.startswith(CACHE_MARK) else CACHE_MARK + article_body(url)
         if not html and summary:
             html = str(summary)
         items.append({
