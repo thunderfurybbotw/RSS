@@ -43,7 +43,17 @@ def clean_html(nodes, base: str, link: str) -> str:
         wrapper.append(copy.copy(n))
     for img in wrapper.find_all("img"):  # 图标很多，去掉更清爽
         img.decompose()
-    for bad in wrapper.find_all(["script", "style", "svg", "button"]):
+    # 「增強」等标签是带 <title> 的 SVG 图标：保留文字，去掉图形
+    for svg in wrapper.find_all("svg"):
+        t = svg.find("title")
+        label = t.get_text(strip=True) if t else ""
+        if label:
+            b = wrapper.new_tag("b")
+            b.string = label + " "
+            svg.replace_with(b)
+        else:
+            svg.decompose()
+    for bad in wrapper.find_all(["script", "style", "button"]):
         bad.decompose()
     # 折叠块展开：很多阅读器不支持 <details>，会显示成收起状态
     for summary in wrapper.find_all("summary"):
