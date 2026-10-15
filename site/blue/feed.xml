@@ -4,23 +4,7 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 15:50:38 +0000</lastBuildDate>
-<item>
-<title>[Kaivax] Beta Maintenance - October 14</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30469965-v1.html</link>
-<guid isPermaLink="false">blue-30469965-v1</guid>
-<pubDate>Wed, 14 Oct 2026 15:50:38 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 79 楼</p><p>The Beta is coming back online imminently.</p>]]></description>
-</item>
-<item>
-<title>[Kaivax] Beta Maintenance - October 14</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30468837-v1.html</link>
-<guid isPermaLink="false">blue-30468837-v1</guid>
-<pubDate>Wed, 14 Oct 2026 14:49:49 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>We’re taking the WoW Forever Beta offline in a few minutes for maintenance. We’re going to run some internal tests, and we don’t expect it to be down for more than a couple of hours.</p>
-<p>Beta realms should go offline at 8:00 a.m. PDT.</p>
-<p>We’ll see you on the other side!</p>]]></description>
-</item>
+<lastBuildDate>Tue, 13 Oct 2026 23:58:34 +0000</lastBuildDate>
 <item>
 <title>[Kaivax] Temporary Economy Holds For RMT</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30461371-v1.html</link>
@@ -1335,6 +1319,17 @@ September 18, 2026</h2>
 ]]></description>
 </item>
 <item>
+<title>[Aggrend] What insights would you like to see in a future episode of the WoW: Forever Podcast?（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30199475-v2.html</link>
+<guid isPermaLink="false">blue-30199475-v2</guid>
+<pubDate>Fri, 25 Sep 2026 17:30:03 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 修改了第 1 楼（第 2 版）</p><p>Greetings!</p>
+<p>We’ve been super excited about the reception to our first episode of the <a href="https://www.youtube.com/watch?v=m49-jvGPCkA">WoW: Forever Podcast</a> and are already gearing up for next week’s show!</p>
+<p>This next episode is going to focus heavily <strong><span class="bbcode-u">Class Design</span></strong> with special guests from our systems design team, so please look forward to that!</p>
+<p>Looking forward past that, the team wanted to know if there are any other topics that you would like developer insights on for future episodes?</p>
+<p>So, feel free to post and let us know what topics you’d like to see us dig into and discuss in the WoW: Forever Podcast!</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30185239-v1.html</link>
 <guid isPermaLink="false">blue-30185239-v1</guid>
@@ -1369,20 +1364,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[Kaivax] [Mac] 8 different graphics bugs, each isolated to one setting — with repro steps for each</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153785-v1.html</link>
-<guid isPermaLink="false">blue-30153785-v1</guid>
-<pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 97 楼</p><aside class="quote no-group" data-display-name="Bloodyniku" data-post="1" data-topic="2354050" data-username="Bloodyniku-whitemane">
-<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/classic-us/character/whitemane/89/64405849-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg" width="20"/> Bloodyniku:<div class="quote-controls"></div></div>
-<blockquote>
-<p>Where I’ve guessed at a mechanism I’ve said so explicitly.</p>
-</blockquote>
-</aside>
-<p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
-<p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
