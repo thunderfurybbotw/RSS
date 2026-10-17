@@ -46,6 +46,14 @@
 ]]></description>
 </item>
 <item>
+<title>[Kaivax] Datamined in the Latest Beta Build</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30508865-v1.html</link>
+<guid isPermaLink="false">blue-30508865-v1</guid>
+<pubDate>Fri, 16 Oct 2026 22:05:24 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>A number of art assets were recently datamined in the latest Beta build of WoW Forever.</p>
+<p>While we appreciate the feedback and discussion online, please be advised that these assets are not intended for this version of World of Warcraft.</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 15（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30494222-v2.html</link>
 <guid isPermaLink="false">blue-30494222-v2</guid>
@@ -1893,6 +1901,15 @@ September 18, 2026</h2>
 </ul>]]></description>
 </item>
 <item>
+<title>[Kaivax] Legacy Points for Beta Testing</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30288600-v1.html</link>
+<guid isPermaLink="false">blue-30288600-v1</guid>
+<pubDate>Thu, 01 Oct 2026 21:54:09 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>Over the first two weeks of the WoW Forever Beta, we’ve seen an increasing number of testers pushing to earn points in the Legacy system.</p>
+<p>In a future week of the Beta, we’re planning to grant all testers 16 Legacy points so that the system can be tested without first requiring a great deal of leveling different classes, clearing dungeons, etc.</p>
+<p>Once applied, we expect to keep that grant in place until the end of the Beta.</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] Actions Taken Against Botting and RMT</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30287121-v1.html</link>
 <guid isPermaLink="false">blue-30287121-v1</guid>
@@ -1916,6 +1933,17 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[Aggrend] What insights would you like to see in a future episode of the WoW: Forever Podcast?（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30199475-v2.html</link>
+<guid isPermaLink="false">blue-30199475-v2</guid>
+<pubDate>Fri, 25 Sep 2026 17:30:03 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 修改了第 1 楼（第 2 版）</p><p>Greetings!</p>
+<p>We’ve been super excited about the reception to our first episode of the <a href="https://www.youtube.com/watch?v=m49-jvGPCkA">WoW: Forever Podcast</a> and are already gearing up for next week’s show!</p>
+<p>This next episode is going to focus heavily <strong><span class="bbcode-u">Class Design</span></strong> with special guests from our systems design team, so please look forward to that!</p>
+<p>Looking forward past that, the team wanted to know if there are any other topics that you would like developer insights on for future episodes?</p>
+<p>So, feel free to post and let us know what topics you’d like to see us dig into and discuss in the WoW: Forever Podcast!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>
@@ -1952,20 +1980,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[Kaivax] [Mac] 8 different graphics bugs, each isolated to one setting — with repro steps for each</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153785-v1.html</link>
-<guid isPermaLink="false">blue-30153785-v1</guid>
-<pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 97 楼</p><aside class="quote no-group" data-display-name="Bloodyniku" data-post="1" data-topic="2354050" data-username="Bloodyniku-whitemane">
-<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/classic-us/character/whitemane/89/64405849-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg" width="20"/> Bloodyniku:<div class="quote-controls"></div></div>
-<blockquote>
-<p>Where I’ve guessed at a mechanism I’ve said so explicitly.</p>
-</blockquote>
-</aside>
-<p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
-<p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
