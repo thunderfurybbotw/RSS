@@ -46,14 +46,6 @@
 ]]></description>
 </item>
 <item>
-<title>[Kaivax] Datamined in the Latest Beta Build</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30508865-v1.html</link>
-<guid isPermaLink="false">blue-30508865-v1</guid>
-<pubDate>Fri, 16 Oct 2026 22:05:24 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>A number of art assets were recently datamined in the latest Beta build of WoW Forever.</p>
-<p>While we appreciate the feedback and discussion online, please be advised that these assets are not intended for this version of World of Warcraft.</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 15（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30494222-v2.html</link>
 <guid isPermaLink="false">blue-30494222-v2</guid>
@@ -586,19 +578,19 @@
 </ul>]]></description>
 </item>
 <item>
-<title>[Kaivax] Druid cat form quest</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30505836-v1.html</link>
-<guid isPermaLink="false">blue-30505836-v1</guid>
-<pubDate>Fri, 16 Oct 2026 17:56:38 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 56 楼</p><p>We sent a hotfix to the Beta a few minutes ago that fixed the bug preventing druids from looting the relics necessary to acquire Cat Form.</p>
-<p>Thank you for the bug reports.</p>]]></description>
-</item>
-<item>
 <title>[Rommax-244181] [Forever Beta 1.60.1.70425] Client imposes 60 FPS “thermal” cap at 32°C — NVIDIA API_TRIGGERED status</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30505118-v1.html</link>
 <guid isPermaLink="false">blue-30505118-v1</guid>
 <pubDate>Fri, 16 Oct 2026 17:07:42 +0000</pubDate>
 <description><![CDATA[<p class="meta"><b>Rommax-244181</b>（WoW Developer） 回复于第 16 楼</p><p>I see the issue, we’ll get a fix into a beta build soon</p>]]></description>
+</item>
+<item>
+<title>[Zorbrix-83447] Beta Realm Maintenance - October 15</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30495660-v1.html</link>
+<guid isPermaLink="false">blue-30495660-v1</guid>
+<pubDate>Fri, 16 Oct 2026 01:06:44 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Zorbrix-83447</b>（Game Producer） 回复于第 1169 楼</p><p>Realms are back up from maintenance, thanks for being patient while we got this build out the door.</p>
+<p>If you’re not on client 70425, make sure you exit the game and update via the bnet app.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 15（已更新）</title>
@@ -951,6 +943,15 @@
 <li>Personal Resource Display doesn’t show combo points.</li>
 </ul>
 <p><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-known-issues-september-18/2352687/">Our full Known Issues post is here.</a></p>]]></description>
+</item>
+<item>
+<title>[Kaivax] Beta Realm Maintenance - October 15</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30487515-v1.html</link>
+<guid isPermaLink="false">blue-30487515-v1</guid>
+<pubDate>Thu, 15 Oct 2026 20:00:23 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>We’re planning to take the WoW Forever Beta down in about 15 minutes, at 1:15 p.m. PDT.</p>
+<p>This will be a maintenance period that includes deploying and testing a new build of the game, and that build has quite a few changes and fixes.</p>
+<p>We’ll have a full update to <a href="https://us.forums.blizzard.com/en/wow/t/2360696/">the Development Notes</a> for you when we get through the updating and the testing. See you on the other side!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] The WoW: Forever Podcast: Episode 4 - The PvP Episode ft. ‪@TipsOutBaby‬ &amp; ‪@Savixirl</title>
@@ -1933,17 +1934,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[Aggrend] What insights would you like to see in a future episode of the WoW: Forever Podcast?（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30199475-v2.html</link>
-<guid isPermaLink="false">blue-30199475-v2</guid>
-<pubDate>Fri, 25 Sep 2026 17:30:03 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 修改了第 1 楼（第 2 版）</p><p>Greetings!</p>
-<p>We’ve been super excited about the reception to our first episode of the <a href="https://www.youtube.com/watch?v=m49-jvGPCkA">WoW: Forever Podcast</a> and are already gearing up for next week’s show!</p>
-<p>This next episode is going to focus heavily <strong><span class="bbcode-u">Class Design</span></strong> with special guests from our systems design team, so please look forward to that!</p>
-<p>Looking forward past that, the team wanted to know if there are any other topics that you would like developer insights on for future episodes?</p>
-<p>So, feel free to post and let us know what topics you’d like to see us dig into and discuss in the WoW: Forever Podcast!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>
