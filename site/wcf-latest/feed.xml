@@ -4,7 +4,16 @@
 <link>https://wowclassicforever.info/zh-hans/latest/</link>
 <description>wowclassicforever.info 每天的更新记录，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2026年10月17日 最新动态：天赋模拟器已换成10月15日的Beta版本1.60.1.70</title>
+<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-10-17.html</link>
+<guid isPermaLink="false">wcf-latest-2026-10-17-3b1e77ee</guid>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/updates/#build-70450">天赋模拟器已换成10月15日的Beta版本1.60.1.70450：法师、牧师、元素萨满和术士的天赋树都有改动，旧的加点链接照样能打开。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-15/2360696/6" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+</ul>]]></description>
+</item>
 <item>
 <title>2026年10月16日 最新动态：Tim Jones在官方播客第4期说，奥特兰克山谷的荣誉会少</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-10-16.html</link>
@@ -404,15 +413,6 @@
 <li><a href="https://wowclassicforever.info/zh-hans/dungeons/">新增地下城页：9座新地下城按等级排列。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/zones/">新增新区域页：4个新区域的故事和等级。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/legacy/">新增传承系统页：传承点数、天赋和奖励。</a></li>
-</ul>]]></description>
-</item>
-<item>
-<title>2026年9月15日 最新动态：简体中文版天赋模拟器上线，9个职业各有一个天赋页。</title>
-<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-09-15.html</link>
-<guid isPermaLink="false">wcf-latest-2026-09-15-a20e9777</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-<description><![CDATA[<ul class="plain-list plain-list--spaced">
-<li><a href="https://wowclassicforever.info/zh-hans/">简体中文版天赋模拟器上线，9个职业各有一个天赋页。</a></li>
 </ul>]]></description>
 </item>
 </channel></rss>
