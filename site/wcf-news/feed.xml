@@ -4,7 +4,96 @@
 <link>https://wowclassicforever.info/zh-hans/news/</link>
 <description>wowclassicforever.info 的《魔兽世界》：“无限”新闻，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>《魔兽世界》：“无限”播客第4期：开发者怎么说PvP</title>
+<link>https://wowclassicforever.info/zh-hans/news/podcast-episode-4-pvp/</link>
+<guid isPermaLink="false">wcf-news-podcast-episode-4-pvp</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<!--wcf-v2--><p class="content-lead">《魔兽世界》：“无限”播客第4期里，Josh “Aggrend” Greenfield和Tim Jones跟主持人Josh Corbett、内容创作者Savix和Tips Out聊了PvP：奥特兰克山谷给的荣誉会少一点，其他战场多很多；预组队伍只会匹配到预组队伍；角色扮演PvP规则集、竞技场和对低等级玩家的保护都没有计划；暴雪还展示了为Forever Open决斗赛在海加尔山的一个火山口里做的决斗场。</p><p class="reviewed">已对照下方来源核对。最后核对：<time datetime="2026-10-19">2026年10月19日</time>。</p><figure class="page-figure">
+<img alt="《魔兽世界》：“无限”播客第4期的封面" fetchpriority="high" height="540" src="https://wowclassicforever.info/images/news/podcast-episode-4.webp" width="960"/>
+<figcaption>魔兽世界官方YouTube频道发布的《魔兽世界》：“无限”播客第4期。 图片：暴雪娱乐，出自<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE" rel="noopener" target="_blank">《魔兽世界》：“无限”播客第4期（英文）</a>。</figcaption>
+</figure><section class="page-section" id="episode">
+<h2>这期节目</h2>
+<p>暴雪在10月15日那一周发布了第4期“The PvP Episode”，时长63分钟：主持人Josh Corbett（Countdown To Classic）和两位内容创作者Savix、Tips Out（Forever Open决斗赛的主办人）把问题抛给Josh “Aggrend” Greenfield和Tim Jones。</p>
+<p>下面按玩家会问的问题整理他们说的话，内容来自节目的英文字幕；每条后面的时间点开就是视频里的那一刻。播客里说的计划不等于补丁说明：哪些是已定的计划、哪些只是在讨论，我们分开标出。前几期见<a href="https://wowclassicforever.info/zh-hans/news/podcast-episode-1/">《魔兽世界》：“无限”播客第1期</a>、<a href="https://wowclassicforever.info/zh-hans/news/podcast-episode-2-classes/">《魔兽世界》：“无限”播客第2期</a>（职业）和<a href="https://wowclassicforever.info/zh-hans/news/podcast-episode-3-dungeons/">《魔兽世界》：“无限”播客第3期</a>（地下城）。</p>
+</section><section class="page-section" id="rulesets">
+<h2>规则集：慎重选，之后没法换</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>每个规则集一个超大服务器。</b>普通规则集比较轻松，只有你愿意才会打PvP；PvP规则集随时随地都可能开打。暴雪不太可能让玩家在两者之间转移：经典版里，免费转服让劣势阵营一下子全走光，服务器就空了；探索赛季和Anniversary服务器的阵营平衡之所以有效，正是因为玩家没法转走（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=82s" rel="noopener" target="_blank">1:22</a>）。</li>
+<li><b>如果发现PvP不适合你，</b>大概只能在普通规则集上新建角色。Greenfield的建议：选之前想想自己有多少时间玩，怎么选都没有错（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=258s" rel="noopener" target="_blank">4:18</a>）。</li>
+<li><b>暂时没有角色扮演PvP规则集。</b>Greenfield说很想答应，但角色扮演群体不大，不分服务器的规则集需要足够多的玩家，而以往的结果好坏参半：2019年的Grobbulus一直很健康，而探索赛季北美最大的服务器Crusader Strike，大约三个月后就摘掉了角色扮演标签，因为玩起来就是个PvP服务器。“永远别说不可能”，但眼下没有计划（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=343s" rel="noopener" target="_blank">5:43</a>）。</li>
+</ul>
+<p class="data-note">规则集怎么取代服务器，还决定了什么：<a href="https://wowclassicforever.info/zh-hans/servers/">《魔兽世界》：“无限”服务器与规则集</a>。</p>
+</section><section class="page-section" id="world-pvp">
+<h2>野外PvP：大规模战斗可以，保护没有</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>大规模战斗撑得住。</b>工程师重做了服务器端，让大战不卡，这是上线前的重点。暴雪的死亡热力图显示，在野外，PvP是最常见的死因（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=758s" rel="noopener" target="_blank">12:38</a>）。</li>
+<li><b>分层还在修。</b>Savix说他的团队被分到了另一个分层。Jones说这项工作是“一步一步来”：控制比一个团队还大的队伍、不会有人莫名其妙被分出自己的队伍、区域边界上的战斗。上线前尽量多做，上线后继续（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=871s" rel="noopener" target="_blank">14:31</a>）。</li>
+<li><b>不保护低等级玩家。</b>有人问到60级玩家蹲守低等级玩家直到对方下线，Greenfield说“PvP服务器上就会有PvP”：漏洞会处理，蹲守是规则集的一部分。Jones希望这能促使玩家找公会和朋友来帮忙。只有在某个地方开启PvP的活动，比如探索赛季的Blood Moon或Battle for Blackrock Mountain，才可能加入复活后短暂无敌这类机制（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=2117s" rel="noopener" target="_blank">35:17</a>）。</li>
+<li><b>野外PvP目标在考虑中。</b>探索赛季的Battle for Ashenvale和Blood Moon是他们想搬过来的点子；东瘟疫之地的哨塔和希利苏斯的沙子上交在上线时不开放，因为它们没有像设想的那样带动PvP。世界首领要不要像探索赛季那样做成副本，还没定（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=1854s" rel="noopener" target="_blank">30:54</a>）。</li>
+<li><b>值得去抢的东西。</b>Tips Out希望有经典版刷魔暴龙那样的稀缺奖励。Jones说，60级会藏有新的配方和稀有材料，只在个别地方以很低的几率掉落，玩家到满级后应该会为此竞争（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=1725s" rel="noopener" target="_blank">28:45</a>）。</li>
+</ul>
+<p class="data-note">规则集、荣誉和军衔都在一页：<a href="https://wowclassicforever.info/zh-hans/pvp/">《魔兽世界》：“无限”PvP攻略</a>。</p>
+</section><section class="page-section" id="battlegrounds">
+<h2>战场和荣誉</h2>
+<dl class="facts">
+<div><dt>奥特兰克山谷</dt><dd class="facts__value">荣誉减少</dd><dd class="facts__note">“收益会少一点”</dd></div>
+<div><dt>战歌峡谷、阿拉希盆地、暗矛群岛</dt><dd class="facts__value">荣誉大幅提高</dd><dd class="facts__note">每个都值得刷</dd></div>
+<div><dt>单排</dt><dd class="facts__value">碰不到预组</dd><dd class="facts__note">预组队伍匹配预组队伍</dd></div>
+</dl>
+<ul class="plain-list plain-list--spaced">
+<li><b>荣誉重新平衡。</b>Jones说他们把每个战场里获得荣誉的每种方式都看了一遍，做了很大的改动，这样就不会在别的战场假日周还纠结要不要去打奥特兰克山谷。等级点数和荣誉分开平衡：一种玩法可能最适合拿货币，另一种最适合冲军衔（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=2533s" rel="noopener" target="_blank">42:13</a>）。用<a href="https://wowclassicforever.info/zh-hans/pvp/rank-planner/">《魔兽世界》：“无限”PvP军衔规划器</a>规划你的军衔进度。</li>
+<li><b>预组队伍只匹配预组队伍。</b>单排就不该碰上预组；两三个人的小队可能仍算单排，具体人数PvP设计师还在调（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=2756s" rel="noopener" target="_blank">45:56</a>）。</li>
+<li><b>战争游戏：</b>向指定队伍发起挑战的聊天命令应该会有，也许不是上线当天，但之后不久；不给荣誉，免得被用来刷胜场（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=2879s" rel="noopener" target="_blank">47:59</a>）。</li>
+<li><b>打不完的比赛。</b>奥特兰克山谷保留援军机制；战歌峡谷和阿拉希盆地要不要加时间限制还没定，但不能让一队把另一队“扣作人质”（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=2654s" rel="noopener" target="_blank">44:14</a>）。</li>
+<li><b>技巧和漏洞。</b>战歌峡谷墓地跳这类已知技巧算技术的一部分，但用来藏旗或拖延比赛的位置会修掉，上线后也会盯着战场（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=2954s" rel="noopener" target="_blank">49:14</a>）。</li>
+<li><b>没有竞技场，也没有评级玩法。</b>Jones希望战场打起来轻松，PvP装备在PvP以外也有用，而不是一种货币加一套只在一种模式里算数的属性；Greenfield说他们很警惕评级竞争扭曲大家对职业的看法。新战场会继续出；Jones的梦想是在黑石山里做一个占山头的模式（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=1273s" rel="noopener" target="_blank">21:13</a>）。</li>
+</ul>
+</section><section class="page-section" id="duel-arena">
+<h2>海加尔山火山口里的决斗场</h2>
+<p>Savix想要一块冷却时间会重置的决斗区。开发者说不做承诺，然后拿出了一个：Forever Open第二天，前32名在暴雪建在<a href="https://wowclassicforever.info/zh-hans/zones/mount-hyjal/">海加尔山</a>一个火山口里的竞技场决斗。Greenfield说原版游戏里的这个火山口不适合做任务，所以他们把它拆成一张单独的地图，用了一些燃烧的远征团队副本的地形，并提前放进了Beta。场内有卖灵魂碎片和施法材料的商人，比赛需要的话还有重置冷却的NPC。玩家目前不能随意过去；也许会在之后的补丁里开放（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=3260s" rel="noopener" target="_blank">54:20</a>）。</p>
+<p>以后的点子：暗月马戏团那一周的决斗表演赛，以及达拉然城下面那个已经存在、但进不去的竞技场。Jones说决斗要在主城外也看得见，不能藏起来（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=3440s" rel="noopener" target="_blank">57:20</a>）。我们的<a href="https://wowclassicforever.info/zh-hans/pvp/">PvP攻略</a>列出了Beta客户端里的两条竞技场类型的队列记录，其中一条叫“海加尔火山口”。</p>
+<ul class="plain-list plain-list--spaced">
+<li><b>Forever Open。</b>Tips Out从2018年的试玩版起就在办决斗赛；这次是公开赛，报名超过6000人，原本预计1000人，TimTheTatman把奖金翻了一倍。比赛在10月17日和18日举行（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=3071s" rel="noopener" target="_blank">51:11</a>）。</li>
+<li><b>不为比赛做平衡。</b>Greenfield说负责职业平衡的Chris完全不在乎这个比赛：“苦修就是强”（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=3648s" rel="noopener" target="_blank">60:48</a>）。</li>
+</ul>
+</section><section class="page-section" id="small-things">
+<h2>几件小事</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>成就PvP的物品。</b>Tips Out举了Transformative Cocoon饰品和药水包，说正是这类物品让经典版的决斗有意思；Greenfield说系统设计师会继续做这类东西（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=997s" rel="noopener" target="_blank">16:37</a>）。</li>
+<li><b>四期的最后一期。</b>Corbett说暴雪找他做了四期，请观众在评论里说说还想不想看更多（<a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE&amp;t=3743s" rel="noopener" target="_blank">62:23</a>）。</li>
+</ul>
+</section><section class="page-section" id="what-it-means">
+<h2>对你意味着什么</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>把规则集当成最终选择。</b>普通和PvP之间的转移不在计划里。</li>
+<li><b>荣誉分开刷。</b>战歌峡谷、阿拉希盆地和暗矛群岛现在给得多；奥特兰克山谷少了。</li>
+<li><b>单排不用怕碰上预组；</b>想跟预组打，就组队排。</li>
+<li><b>选PvP规则集，就做好被蹲的准备：</b>办法是公会和朋友，不是游戏规则。</li>
+<li><b>这是Beta。</b>播客里说的计划在11月5日上线前都可能变。</li>
+</ul>
+</section><section class="page-section page-notes" id="sources">
+<div class="text-cols text-cols--two">
+<div>
+<h2>仍未确认</h2>
+<ul class="plain-list">
+<li>多大的队伍排进去才不算预组。</li>
+<li>战歌峡谷和阿拉希盆地会不会加时间限制。</li>
+<li>海加尔山的决斗场会不会进正式服，什么时候。</li>
+<li>哪些野外PvP活动会回来，什么时候。</li>
+</ul>
+</div>
+<div>
+<h2>来源</h2>
+<p class="data-note"><a href="https://wowclassicforever.info/zh-hans/about/#our-sources">我们怎样选择和核实来源</a></p>
+<ul class="plain-list">
+<li><a href="https://www.youtube.com/watch?v=bzaMA5fZ1tE" rel="noopener" target="_blank">魔兽世界官方YouTube：《魔兽世界》：“无限”播客第4期，PvP专题，嘉宾Tips Out和Savix（英文） · 暴雪官方 · 2026年10月15日</a></li>
+</ul>
+</div>
+</div>
+</section>]]></description>
+</item>
 <item>
 <title>《魔兽世界》：“无限”播客第3期：开发者怎么说地下城和团队副本</title>
 <link>https://wowclassicforever.info/zh-hans/news/podcast-episode-3-dungeons/</link>
