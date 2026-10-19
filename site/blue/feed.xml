@@ -1430,13 +1430,6 @@ September 18, 2026</h2>
 <p>Maintaining a healthy balance here is vital to our “World is the Main Character” and “Nurture and Protect Social Experiences” pillars together. Once the scales tip and dungeons become the clear winner, it has a cascading effect on player behavior and we have to consider that impact holistically.</p>]]></description>
 </item>
 <item>
-<title>[BlizzardEntertainment] World of Warcraft: Forever Class Deep Dives — Mage and Shaman（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30378083-v20.html</link>
-<guid isPermaLink="false">blue-30378083-v20</guid>
-<pubDate>Thu, 08 Oct 2026 16:44:33 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 20 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/t4/T46ED5B4T7V11791309695380.png"><img alt="World of Warcraft: Forever Class Deep Dives — Mage and Shaman" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/t4/T46ED5B4T7V11791309695380.png" width="833"/></a></p><p>Our World of Warcraft: Forever class deep dive series continues with developer insights into Mages and Shaman. Learn how Mage updates expand Arcane, Fire, and Frost magic with new hybrid possibilities like Frostfire Bolt, and how Shaman changes make totems easier to manage, weapon imbues longer lasting, and Elemental Combat, Enhancement, and Restoration builds more versatile. </p><p><a href="https://worldofwarcraft.com/en-us/news/24302097">View Full Article</a></p>]]></description>
-</item>
-<item>
 <title>[Kaivax] The WoW: Forever Podcast: Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30387589-v1.html</link>
 <guid isPermaLink="false">blue-30387589-v1</guid>
@@ -1447,16 +1440,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[Nethaera] World of Warcraft: Forever Class Deep Dives — Mage and Shaman</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30379526-v1.html</link>
-<guid isPermaLink="false">blue-30379526-v1</guid>
-<pubDate>Wed, 07 Oct 2026 23:42:14 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Nethaera</b>（Community Manager） 回复于第 47 楼</p><p>We’ve updated the section for Elemental Combat for Shaman to account for the missing Elemental Mastery talent removal note. Our apologies for missing that one.</p>
-<blockquote>
-<p><strong>Removed talents</strong>: <strong>Elemental Mastery</strong>. While this talent was a signature mainstay of Elemental Shaman, especially in PvP, it was also a problematic talent that was holding the class back. We could not increase Elemental Shaman damage to appropriate values in PvE and keep this talent. It would have made them much too strong in PvP. The best solution was to remove this talent and give Elemental Shaman new spells and capabilities.</p>
-</blockquote>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 15（已更新）</title>
@@ -1927,6 +1910,17 @@ September 18, 2026</h2>
 ]]></description>
 </item>
 <item>
+<title>[Aggrend] What insights would you like to see in a future episode of the WoW: Forever Podcast?（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30199475-v2.html</link>
+<guid isPermaLink="false">blue-30199475-v2</guid>
+<pubDate>Fri, 25 Sep 2026 17:30:03 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 修改了第 1 楼（第 2 版）</p><p>Greetings!</p>
+<p>We’ve been super excited about the reception to our first episode of the <a href="https://www.youtube.com/watch?v=m49-jvGPCkA">WoW: Forever Podcast</a> and are already gearing up for next week’s show!</p>
+<p>This next episode is going to focus heavily <strong><span class="bbcode-u">Class Design</span></strong> with special guests from our systems design team, so please look forward to that!</p>
+<p>Looking forward past that, the team wanted to know if there are any other topics that you would like developer insights on for future episodes?</p>
+<p>So, feel free to post and let us know what topics you’d like to see us dig into and discuss in the WoW: Forever Podcast!</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30185239-v1.html</link>
 <guid isPermaLink="false">blue-30185239-v1</guid>
@@ -1975,16 +1969,6 @@ September 18, 2026</h2>
 </aside>
 <p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
 <p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
-</item>
-<item>
-<title>[Kaivax] "Character with that name already exists"</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153288-v1.html</link>
-<guid isPermaLink="false">blue-30153288-v1</guid>
-<pubDate>Tue, 22 Sep 2026 16:34:20 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 104 楼</p><p>Hopping onto the most prominent of several threads about this–</p>
-<p>When reporting an issue like this, please provide the name of the Beta character that you’re locked out of, and if possible, the exact time you were last successfully playing the character (and got disconnected).</p>
-<p>That will help us narrow our log search.</p>
-<p>Thank you!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>

@@ -4,7 +4,17 @@
 <link>https://wowclassicforever.info/zh-hans/latest/</link>
 <description>wowclassicforever.info 每天的更新记录，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2026年10月19日 最新动态：战场</title>
+<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-10-19.html</link>
+<guid isPermaLink="false">wcf-latest-2026-10-19-1ba69e7e</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/pvp/#battlegrounds">战场：预组队伍只会匹配到预组队伍，单排不会碰上；野外PvP也不打算给低等级玩家加保护（官方播客第4期）。</a> <span class="latest-links"><a href="https://www.wowhead.com/forever/news" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/updates/#relations-oct-16">暴雪的圣骑士职业深度解析（这个系列的最后一篇）已计入天赋数据：强化圣印标为改了名的强化正义圣印，奉献、王者祝福等6个经典旧世天赋算作基础技能。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24302099" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+</ul>]]></description>
+</item>
 <item>
 <title>2026年10月17日 最新动态：所有种族页已换成10月15日Beta版本1.60.1.704</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-10-17.html</link>
@@ -399,21 +409,6 @@
 <li><a href="https://wowclassicforever.info/zh-hans/about/">新增关于本站页：资料从哪里来、怎样交叉核实，以及天赋数据的来源。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/name-reservation/">新增名称预留页：国服名称预留的时间，以及主名和副名的规则。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/beta/">新增国服测试页：国服Beta测试资格怎么获得、测试时间和测试服内容。</a></li>
-</ul>]]></description>
-</item>
-<item>
-<title>2026年9月16日 最新动态：新增种族页</title>
-<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-09-16.html</link>
-<guid isPermaLink="false">wcf-latest-2026-09-16-ce43ba6c</guid>
-<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-<description><![CDATA[<ul class="plain-list plain-list--spaced">
-<li><a href="https://wowclassicforever.info/zh-hans/races/">新增种族页：各种族在《魔兽世界》：“无限”中的种族特长，包括新种族天裔。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/classes/">新增职业改动页：每个职业有什么变化，每个职业一页。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/release-date/">新增上线时间页：北京时间的上线时间、国服Beta测试时间和路线图。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/servers/">新增服务器与规则集页：没有服务器列表之后怎样玩，以及各个规则集。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/dungeons/">新增地下城页：9座新地下城按等级排列。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/zones/">新增新区域页：4个新区域的故事和等级。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/legacy/">新增传承系统页：传承点数、天赋和奖励。</a></li>
 </ul>]]></description>
 </item>
 </channel></rss>
