@@ -4,7 +4,21 @@
 <link>https://foreverchanges.pro/zh-tw/patch-notes</link>
 <description>ForeverChanges.pro 的 Beta 更新档说明，非官方 RSS。</description>
 <language>zh-tw</language>
-<lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2026年10月23日 · 熱修正</title>
+<link>https://thunderfurybbotw.github.io/RSS/items/2026-10-23.html</link>
+<guid isPermaLink="false">foreverchanges-2026-10-23</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<div class="bt-build-body"><p>10月22日版本之後的熱修正，10月23日首次發現，Blizzard的說明中沒有提到：聖騎士在10級就能學會正義之怒，原為16級。</p><div class="bt-notes pn-notes"><div class="pn-folds"><div class="bt-note-class pn-fold" data-class="paladin"><h4><span>聖騎士</span></h4><ul class="pn-lines"><li><b>增強 </b><span class="pn-line"><a class="pn-live-spell" href="https://foreverchanges.pro/zh-tw/spellbook/paladin#s=paladin-righteous-fury&amp;f=update">正義之怒</a>：<!-- -->10級即可學會，原為16級。</span></li></ul></div></div></div></div>]]></description>
+</item>
+<item>
+<title>2026年10月22日 · 版本 1.60.1.70532</title>
+<link>https://thunderfurybbotw.github.io/RSS/items/1.60.1.70532.html</link>
+<guid isPermaLink="false">foreverchanges-1.60.1.70532</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<div class="bt-build-body"><p>Beta換成了正式版壓力測試在10月21日使用的版本。它的遊戲資料與10月16日的版本相同：天賦、法術和物品都沒有改變。</p></div>]]></description>
+</item>
 <item>
 <title>2026年10月22日 · 熱修正</title>
 <link>https://thunderfurybbotw.github.io/RSS/items/2026-10-22.html</link>
