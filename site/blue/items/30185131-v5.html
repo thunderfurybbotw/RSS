@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
+<meta property="og:title" content="[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-10-26">
+<link rel="canonical" href="https://thunderfurybbotw.github.io/RSS/blue/items/30185131-v5.html">
+<style>body{max-width:720px;margin:2rem auto;padding:0 16px;font:16px/1.7 -apple-system,"PingFang SC","Hiragino Sans",sans-serif;color:#222;background:#fff}
+a{color:#2563eb}h1{font-size:1.5rem;line-height:1.3}.meta{color:#666;font-size:.9rem}img{max-width:100%;height:auto}
+blockquote,aside{border-left:3px solid #ccc;margin:1em 0;padding:0 1em;color:#555}
+@media (prefers-color-scheme:dark){body{color:#ddd;background:#111}a{color:#7aa7ff}.meta{color:#999}blockquote,aside{color:#aaa;border-color:#444}}</style>
+</head><body><article>
+<h1>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</h1>
+<p class="meta"><time datetime="2026-10-26">2026年10月26日</time> · <a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-26/2360696/1">在暴雪论坛查看原帖</a></p>
+<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 1 楼（第 5 版）</p><p>Today, we updated the WoW Forever Beta with a new build that includes the following updates.</p>
+<h2><a aria-label="Heading link" class="anchor" href="https://us.forums.blizzard.com#p-30185131-change-log-1" name="p-30185131-change-log-1"></a>Change Log</h2>
+<ul>
+<li><strong>Bugfixes</strong>
+<ul>
+<li>Fixed a bug with casters not playing their precast animations and sometimes standing while casting.</li>
+<li>Changed the sound effect that plays while jumping in water to be more aesthetically pleasing.</li>
+<li>Adjusted Human death sounds.</li>
+<li>Fixed an issue where attempting to craft items or cast spells was causing players to stand up while waiting to obtain their Campfire buff.
+<ul>
+<li>Players may now buff each other, cast, and craft while waiting for their Campfire buffs.</li>
+<li>Players may now obtain a Campfire buff if they are sitting, sitting in a chair, sleeping, lying down, or using the kneeling emote.</li>
+</ul>
+</li>
+<li>Resolved an issue where Huey Sunnydale’s legs failed to render properly.</li>
+<li>Fixed an issue that made a Season of Discovery rune ability visible.</li>
+<li>Fixed an issue where Pet Happiness was not decreasing once your pet was at max loyalty.</li>
+<li>Fixed an issue causing the Undercity Canal ooze to be much brighter than intended.</li>
+<li>Removed a setting that could disable fog in an unintended manner.</li>
+<li>Resolved a water display issue and fixed various other display artifacts on Mac.</li>
+<li>Fixed a memory leak causing gradual performance degradation for some players.</li>
+<li>Fixed an issue where in-game mail could ignore surnames.</li>
+</ul>
+</li>
+<li><strong>Classes</strong>
+<ul>
+<li>If you have not recently changed your talents, the cost is now 1 silver to re-spec. This is temporary for the Beta only. After your first talent reset, the subsequent cost will be much higher, but it will drop to 1 silver after 1 hour has passed.</li>
+<li><strong>Druid</strong>
+<ul>
+<li>Corrected an issue and now Rejuvenation can land critical hits.</li>
+<li>Corrected an issue and now Tranquility can land critical hits.</li>
+<li>Wrath base damage increased ~50%.</li>
+<li>Thorns will now dynamically update its values based on the caster’s spell power.
+<ul>
+<li>If the caster cannot be found or is too far away, Thorns reverts to its base values.</li>
+</ul>
+</li>
+<li><strong>Feral</strong>
+<ul>
+<li>Mangle has been renamed Primal Bite. Its signature debuff has been removed, so the former name no longer accurately represented the ability.
+<ul>
+<li>All talents referencing Mangle now reference Primal Bite.</li>
+</ul>
+</li>
+<li>The Primal Fury talent has been renamed and the icon replaced with the original Blood Frenzy name and icon.</li>
+<li>Fixed a bug where Feral Charge (Cat) could be cast on allies.</li>
+</ul>
+</li>
+<li><strong>Restoration</strong>
+<ul>
+<li>Corrected an issue and now Wild Growth can land critical hits.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Hunter</strong>
+<ul>
+<li><strong>Pets</strong>
+<ul>
+<li>Furious Howl Attack Power bonus reduced 40%.</li>
+<li>Sonic Blast ability now properly available to Bat pets.</li>
+<li>Tame Beast no longer works on Beasts that are higher than the Hunter’s level.</li>
+</ul>
+</li>
+<li><strong>Marksmanship</strong>
+<ul>
+<li>Talenting out of Lone Wolf will no longer cause the Hunter to have -4% damage while their pet is active.</li>
+</ul>
+</li>
+<li><strong>Survival</strong>
+<ul>
+<li>Corrected an issue and now Lacerating Strikes can land critical hits.</li>
+<li>Strider Kick now increases movement speed by 30% for 3 seconds.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Mage</strong>
+<ul>
+<li>Arcane Missiles no longer checks line of sight on each missile, just once at the beginning of the channel. So targets moving out of line of sight during the channel will not prevent the missiles.</li>
+<li><strong>Fire</strong>
+<ul>
+<li>Wake of Fire buff duration has been increased to 30 seconds (was 20 seconds).
+<ul>
+<li><em>Developers’ notes: Wake of Fire was difficult to make proper use of while leveling, due to the Mage needing to restore mana between combat. The increased duration should help smooth out the experience.</em></li>
+</ul>
+</li>
+<li>Hot Streak buff duration has been increased to 20 seconds (was 15 seconds).</li>
+<li>Ignite no longer double dips on % damage increase modifiers.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Paladin</strong>
+<ul>
+<li>Retribution Aura will now dynamically update its values based on the caster’s spell power.</li>
+<li>Fixed a bug causing the Flash of Light cast animation to not play at the end of the spell cast.</li>
+<li>Fixed various issues with Consecration.
+<ul>
+<li>Fixed an issue where Consecration would fail to apply its increased damage effect to some targets.</li>
+<li>Fixed an issue where Consecration’s Z axis wasn’t functioning consistently.</li>
+<li>Fixed an issue where Consecration could pull targets vertically above or below the caster.</li>
+</ul>
+</li>
+<li>Holy Strike’s % of weapon damage per rank changed to 25%/29%/32%/36%/39%/43%/46%/50% (was 25%/25%/30%/30%/35%/35%/40%/40%).
+<ul>
+<li><em>Developers’s notes: This increases Holy Strike’s damage at all points while leveling, and increases how much it contributes to your rotation. Early ranks of Holy Strike didn’t always feel like an upgrade when purchasing a new rank, and we wanted to adjust that.</em></li>
+</ul>
+</li>
+<li>Fixed a bug with Echo of Justice, causing it to have a higher than intended chance to activate.</li>
+<li>Righteous Fury: Holy threat increase increased to 60% (was 90%).</li>
+<li><strong>Holy</strong>
+<ul>
+<li>Holy Strike’s cooldown lowered to 10 seconds (was 12 seconds).</li>
+<li>Improved Holy Strike removed from the Talent Tree.
+<ul>
+<li><em>Developers’ notes: Even though there are sometimes cases where talents feel ‘required’ by classes, like Relentless Strikes for Rogues, having one that reduces the cooldown of a core ability so early on in a healing talent tree made this feel like a talent that was required. So we’ve removed it and made its behavior baseline.</em></li>
+</ul>
+</li>
+<li>Light’s Vigil’s tooltip has been reorganized to make it more clear that the damage component is the only version that returns some of the Mana cost.</li>
+<li>Holy Power now increases the Critical Strike chance of Holy Strike by 15% and retains all of its old effects.</li>
+</ul>
+</li>
+<li><strong>Retribution</strong>
+<ul>
+<li>Vengeance now activates off of non-periodic critical strikes.</li>
+<li>Vengeance’s maximum stacks lowered to 3 (was 5).</li>
+<li>Two-Handed Weapon Specialization’s damage increase reduced to 2/4/6% (was 3/6/9%).</li>
+<li>Sacred Arbiter now increases the damage of Holy Strike by 20% (was 10%).</li>
+<li>Twist of Light now additionally reduces the Mana cost of your Seal spells by 20%.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Priest</strong>
+<ul>
+<li>Corrected an issue and now Renew can land critical hits.</li>
+<li>Power Word: Shield can now always overwrite an existing Power Word: Shield on a target that does not have Weakened Soul.</li>
+<li><strong>Gnome</strong>
+<ul>
+<li>Corrected an issue and now Contingency Plan can land critical hits.</li>
+<li>Confounding Flash now has a cast visual. The casting visual is now more Holy oriented than Arcane and the sounds have been updated to match.</li>
+</ul>
+</li>
+<li><strong>Night Elf</strong>
+<ul>
+<li>Starshards now correctly gains resistance to spell pushback from the Twilight Focus talent.</li>
+</ul>
+</li>
+<li><strong>Undead</strong>
+<ul>
+<li>Dark Sacrifice no longer breaks Crowd Control that breaks on damage.</li>
+<li>Dark Sacrifice’s tooltip now correctly displays that the Mana gained from the ability scales with Spirit.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Rogue</strong>
+<ul>
+<li>Sap now correctly flags the Rogue for PvP when used on a target that is PvP flagged.</li>
+</ul>
+</li>
+<li><strong>Shaman</strong>
+<ul>
+<li>Lightning Bolt: Damage on ranks 3 and 4 increased to make these spells always upgrades over previous ranks (despite changing cast times).</li>
+<li>Windfury Totem: Buff from this spell now displays as “Windfury Totem” instead of “Windfury Totem Passive”.</li>
+<li>Flametongue Totem: Buff from this spell now displays as “Flametongue Totem” instead of “Flametongue Totem Effect”.</li>
+<li>Flametongue Totem no longer has a duration and is instantly replaced when placing another totem.</li>
+<li>Flametongue Totem is no longer able to be stacked by repeatedly casting Flametongue Totem.</li>
+<li>Flametongue Totem no longer stacks with Flametongue Weapon.</li>
+<li>Flametongue Totem no longer stacks with Windfury Totem.</li>
+<li>Tranquil Air Totem, Windfury Totem, and Grace of Air Totem no longer stack together even if used by different Shamans in the same group.</li>
+<li><strong>Elemental</strong>
+<ul>
+<li>Swapped the positions of the Elemental Fury (Row 3) and Elemental Alacrity (Row 6) talents.
+<ul>
+<li><em>Developers’ notes: Critical Strike damage increases early on in trees are exciting for other specializations, but its not as exciting for the core specialization while leveling, since they don’t have enough critical strike chance to really appreciate it. So we’re moving one of the better talents for Elemental Shaman functionality, earlier in the tree, to allow them to feel like they’re hitting important progression moments (something Elemental has lacked in the early levels). We understand that this affects Enhancement Shaman’s critical strike damage with spells, but we will use this room created to add more to Enhancement Shaman in the future.</em></li>
+</ul>
+</li>
+<li>Lava Burst damage on ranks 1 and 2 increased to be about 10% more base damage than the Lightning Bolt rank learned around the same level.</li>
+</ul>
+</li>
+<li><strong>Enhancement</strong>
+<ul>
+<li>Rage of the Far Seer (Row 7) no longer increases the Shaman’s Spell Casting Speed.
+<ul>
+<li><em>Developers’ notes: Rage of the Far Seer’s spell casting speed was not necessary to include for the core functionality of this ability. So we removed it.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Restoration</strong>
+<ul>
+<li>Corrected an issue and now Riptide can land critical hits.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Warlock</strong>
+<ul>
+<li>Tooltip of Life Tap has been updated to correctly display the amount of Life converted, and only states that it scales with Spirit.</li>
+<li>Voidwalker Sacrifice now correctly scales with 10% of the Warlock’s spell healing.</li>
+</ul>
+</li>
+<li><strong>Warrior</strong>
+<ul>
+<li>Sunder Armor: Corrected the threat values on all ranks, including a small increase to threat generated from Attack Power.</li>
+<li><strong>Protection</strong>
+<ul>
+<li>Swapped the positions of the Bastion (Row 5) and Focused Rage (Row 6) talents.
+<ul>
+<li><em>Developers’ notes: We wanted to give players Focused Rage sooner to smooth out progression, as opposed to more damage from Bastion. This should smooth out some of the feeling while leveling as Protection before obtaining Shield Slam.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Arms</strong>
+<ul>
+<li>Bloodthrill’s chance to activate increased to 4/8/12/16/20% (was 2/4/6/8/10%).</li>
+<li>Bloodthrill only activates off of Main Hand melee attacks. This includes Cleave and Heroic Strike.</li>
+<li>Slam’s cooldown has been increased to 18 seconds (was 15 seconds).</li>
+<li>Improved Slam now reduces the cooldown of Slam by 1.5/3 seconds.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Races</strong>
+<ul>
+<li><strong>Gnome</strong>
+<ul>
+<li>Changed Eureka on every class to a 10% discount on Mana, Rage, or Energy abilities.</li>
+</ul>
+</li>
+<li><strong>Human</strong>
+<ul>
+<li>Changed the Will to Survive visual to match Dispel Magic instead of Will of the Forsaken.</li>
+</ul>
+</li>
+<li><strong>Tauren</strong></li>
+<li>Cultivation now has a player-level requirement for every Herb. The level required is equal to the Herb’s level required to pick it divided by 5. Herbs that require a higher than 300 Herbalism skill to pick can be Cultivated at player level 60.</li>
+<li>Touch of the Grave no longer breaks CC or activates from spells and abilities that don’t have a damage component to them.
+<ul>
+<li><em>Developers’ notes: This means that Shadow Word: Pain activates it on cast, but not on periodic damage. Distract won’t activate it, you can’t pull Rogues and Druids out of Stealth with Distract and it activating, and you won’t activate it off of Pickpocketing. Spells like Polymorph already didn’t get broken by Touch of the Grave, but Polymorph will no longer be able to activate it.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Cooldown Manager</strong>
+<ul>
+<li>The Cooldown Manager in World of Warcraft: Forever is intended to enhance gameplay by pulling critical information from the buff bar or action bar and placing it in a fully customizable location. By default, the Cooldown Manager is disabled, and it can be enabled in Options under the Gameplay Enhancement settings.</li>
+<li>Druid, Mage, Priest, Warrior, and Warlock are available for testing the Cooldown Manager.</li>
+<li>Additional classes will become testable in future updates.</li>
+<li>The most desired feedback for this feature is currently: spells that you wish were tracked by default.</li>
+<li>The Cooldown Manager does not yet support spell ranks. This will be resolved in a future Beta update.</li>
+</ul>
+</li>
+<li><strong>Gamepad Support</strong>
+<ul>
+<li>Class specific flyouts have been added to the action bar interface of some classes.
+<ul>
+<li>Shapeshift flyout for Druids.</li>
+<li>Pet control and pet spell flyouts for Hunters and Warlocks.</li>
+<li>Aura flyout for Paladins.</li>
+<li>Stance flyout for Warriors.</li>
+</ul>
+</li>
+<li>The pet bar no longer replaces the bottom gamepad action bar for Hunters and Warlocks.</li>
+<li>New options have been added to the Gamepad (Alpha) section of the game options.
+<ul>
+<li>Use Compact Action Bar: Replaces the normal gamepad action bar layout with one that only shows the currently active action bar at any given time.</li>
+<li>Fixed Party Targeting: While in a non-raid party, rather than having the directional pad act as directions in the party interface, each button on the directional pad is assigned to a specific party member.</li>
+<li>Swap Target Modifier Sides: Swaps sides of the friendly and hostile targeting modifiers, putting friendly targeting on the right and hostile on the left.</li>
+<li>Swap Friendly Target Action Sides: Swaps the directional pad and face button actions when using the friendly targeting modifier.</li>
+<li>Swap Hostile Target Action Sides: Swaps the directional pad and face button actions when using the hostile targeting modifier.</li>
+</ul>
+</li>
+<li>Fixed an issue preventing edit mode layouts from being applied while the gamepad UI is enabled.</li>
+<li>Updated Map and Quest Log bindings.
+<ul>
+<li>New hover functionality for POI pins.</li>
+</ul>
+</li>
+<li>Updated support for Compact Raid Frame Manager and Role Poll Frames.</li>
+</ul>
+</li>
+<li><strong>Items</strong>
+<ul>
+<li>A handful of guns and bows were not correctly consuming or using ammunition. They have been corrected.</li>
+<li>A number of quests have had their rewards updated to be the correct item level.</li>
+<li>A small number of early caster rewards have been adjusted.</li>
+<li>Wizard Oil: Minor Wizard Oil has been reverted to Classic Era value of 8 spell power, Lesser Wizard Oil to 16, and Wizard Oil to 24. Brilliant Wizard Oil remains unchanged.</li>
+<li>Wands: Wands no longer gain any additional damage from the user’s spell damage.</li>
+</ul>
+</li>
+<li><strong>Quests</strong></li>
+<li>
+<ul>
+<li>Resolved an issue where several dungeon quests were shareable, which granted the receiving player a quest item when shared.</li>
+<li>Dalaran - Faction adjustments. Spawns are now present in the area just outside the city entrance.</li>
+<li>Dun Morogh - Snow Leopard Prowler has a much faster respawn time.</li>
+<li>Dun Morogh - Resolved an issue where some players were unable to loot the rifle for “Treacherous Cold”.</li>
+<li>Durotar - Reduced the respawn time for the escort NPC for “Lost in the Shadows”.</li>
+<li>Elwynn Forest - The quest “Book Return” now properly removes the extra Book Bag from the player’s inventory when the quest is completed.</li>
+<li>Elwynn Forest - Increased the amount of crates for the quest “Stolen Enchanting Supplies”.</li>
+<li>Elwynn Forest - Murloc camps around Crystal Lake should respawn more quickly. Mrrglrlrlrmgrr!</li>
+<li>Elwynn Forest - Mother Fang respawns a bit more slowly, and does not always drop a green item.</li>
+<li>Elwynn Forest - Shinyfinder Narf respawns more quickly. The quest item may now be looted by all party members.</li>
+<li>Elwynn Forest - Nimsy now respawns more quickly.</li>
+<li>Elwynn Forest - You can now learn skinning from Helene Peltskinner even while you have a quest with her.</li>
+<li>Elwynn Forest - Increased the amount of supply spawns for “Stolen Enchanting Supplies”.</li>
+<li>Elwynn Forest - Jasperlode Mine and Fargodeep Mine are a little more deadly than intended for solo players, so we’re taking their candles away. We do not anticipate any fallout from this theft.</li>
+<li>Mulgore - Water Pitchers now respawn faster for the quest “A Humble Task”.</li>
+<li>Silthus - Khonsu’s arrival has been removed from the beta phase, and in the future will return to Azeroth once more.</li>
+<li>Silverpine Forest - Pyrewood Village worgen respawn more quickly.</li>
+<li>Teldrassil - The objective count for the quest “Bounty: Gnarlpine Furbolg” has been reduced to 15 (was 20).</li>
+<li>Undercity - The Skyborne quest “Exploring the Horde” now completes the objective to talk with Lady Sylvanas Windrunner. Dark Lady watch over you</li>
+<li>Westfall - Increased the spawn rate of the Defias Messenger.</li>
+<li>Zephras Isle - The High Order Skyborne quest “Catching Wind” has been redesigned and adjustments were made to the spawns at the Overlook Standing Stones in Shen’dar Highlands.</li>
+<li>Zephras Isle - The druids of Nightclaw Cavern now award credit for “Wounds of Betrayal” properly when healed.</li>
+<li>Zephras Isle - “A Firm Response” no longer fails to grant credit to players.</li>
+</ul>
+</li>
+<li><strong>User Interface</strong></li>
+<li>
+<ul>
+<li>Updated the Nameplate selection display.</li>
+<li>Personal Resource Display textures are updated.</li>
+</ul>
+</li>
+</ul>
+<h2><a aria-label="Heading link" class="anchor" href="https://us.forums.blizzard.com#p-30185131-new-to-this-build-known-issues-2" name="p-30185131-new-to-this-build-known-issues-2"></a>New to this build - Known Issues</h2>
+<ul>
+<li>Banes and Curses do not properly track if you drop your target and re-acquire a target with an existing bane or curse.</li>
+<li>Healthstone cooldown cannot be tracked.</li>
+<li>Priest tracks all spells by default.</li>
+<li>Arcane Blast cannot be tracked.</li>
+<li>Mana gem requires an additional spell to be cast by the mage to properly begin tracking its cooldown.</li>
+<li>Creating or changing party composition may transfer players to a different world instance. We’re working on improvements and will provide an update soon.</li>
+<li>Pet cooldowns cannot be tracked.</li>
+<li>Item enhancements (such as Windfury or rogue poisons) cannot be tracked</li>
+<li>The minimap in Stormwind has display issues and will be fixed in a later build.</li>
+<li>Personal Resource Display doesn’t show combo points.</li>
+</ul>
+<p><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-known-issues-september-18/2352687/">Our full Known Issues post is here.</a></p>
+</article></body></html>
