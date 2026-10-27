@@ -4,13 +4,24 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 21:09:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 20:02:47 +0000</lastBuildDate>
+<item>
+<title>[Kaivax] Name Reservation Issue for Oceanic Players</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30639364-v1.html</link>
+<guid isPermaLink="false">blue-30639364-v1</guid>
+<pubDate>Tue, 27 Oct 2026 20:02:47 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>Attention Oceanic players connecting to Australian-based servers!</p>
+<p>Due to a bug, you must create any characters on Roleplay or Roleplay-PvP rulesets before creating characters on Normal or PvP rulesets.</p>
+<p>If you first create a character on the Normal or PvP ruleset, the Roleplay and Roleplay-PvP rulesets will no longer be available for subsequent characters.</p>
+<p>This issue should only be present for players in the Oceanic region who are connecting to Australian servers, and we’re working on a fix for it urgently.</p>
+<p>Thank you!</p>]]></description>
+</item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30624529-v2.html</link>
-<guid isPermaLink="false">blue-30624529-v2</guid>
-<pubDate>Mon, 26 Oct 2026 21:09:50 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 7 楼（第 2 版）</p><p>As we approach the launch of WoW Forever, we’ve been reflecting on feedback we’ve heard on racial abilities and passive traits: Some players have expressed that some of the new racial traits feel too generic, while others have raised concerns that some are objectively stronger than others.</p>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30624529-v4.html</link>
+<guid isPermaLink="false">blue-30624529-v4</guid>
+<pubDate>Tue, 27 Oct 2026 16:47:14 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 7 楼（第 4 版）</p><p>As we approach the launch of WoW Forever, we’ve been reflecting on feedback we’ve heard on racial abilities and passive traits: Some players have expressed that some of the new racial traits feel too generic, while others have raised concerns that some are objectively stronger than others.</p>
 <p>In taking a final pass on these, we’ve prioritized racial identity, which means that some races will naturally be slightly more effective than others at certain combat roles. In some places where we had replaced role- or class-focused racials with generic ones, we’re rolling those changes back. One exception to this is the weapon specialization racials, like humans’ Sword Specialization or orcs’ Axe Specialization. While those have a strong fantasy component to them, it is not healthy in the long run for future raid and dungeon loot tables to be evaluated through the lens of “required” weapon types.</p>
 <p>At the same time, we’re doing a tuning pass on some of the remaining passive bonuses to help ensure that they aren’t skewing outcomes in a way that limits player preferences.</p>
 <h2><a aria-label="Heading link" class="anchor" href="https://us.forums.blizzard.com#p-30624529-racial-abilities-and-traits-1" name="p-30624529-racial-abilities-and-traits-1"></a>Racial Abilities and Traits</h2>
@@ -38,17 +49,53 @@
 <ul>
 <li>Savage removed (1% increased critical strike chance).</li>
 <li>Command re-added, increasing Warlock and Hunter pet damage by 5%.</li>
+<li>Blood Fury’s cooldown reduced to 2 minutes (was 3 minutes).</li>
+</ul>
+</li>
+<li><strong>Troll</strong>
+<ul>
+<li>Berserking duration increased to 15 seconds (was 10 seconds).</li>
+</ul>
+</li>
+<li><strong>Undead</strong>
+<ul>
+<li>Touch of the Grave internal cooldown reduced to 15 seconds (was 25 seconds).</li>
 </ul>
 </li>
 <li><strong>Skyborne</strong>
 <ul>
 <li>Wind-Blessed Haste bonus reduced to 2% (was 3%).</li>
 <li>Read Leyline now increases Mana and Health regeneration by 50% (was 100%), with a 15-second duration. This ability cannot be used while Innervate is active, and will be replaced by Innervate as a more powerful effect.</li>
-<li>Using Read Leyline at a Ley Line now also grants “Attuned” for 1 hour. While Attuned, the benefit of Read Leyline is increased to 100% regeneration increase. Attuned persists through death.</li>
+<li>Using Read Leyline at a Ley Line now also grants “Attuned” for 1 hour. While Attuned, the benefit of Read Leyline is increased to 100% regeneration increase. Attuned persists through death, and is removed upon entering a raid.</li>
 <li>Skysight is now a 15% increased movement speed (was 10%), with a 15-second duration.</li>
-<li>Using Skysight at an elemental convergence now also grants “Charged” for 1 hour. While Charged, the benefit of Skysight is a 30% movement speed increase. Charged persists through death.</li>
+<li>Using Skysight at an elemental convergence now also grants “Charged” for 1 hour. While Charged, the benefit of Skysight is a 30% movement speed increase. Charged persists through death, and is removed upon entering a raid.</li>
 </ul>
 </li>
+</ul>]]></description>
+</item>
+<item>
+<title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30634848-v2.html</link>
+<guid isPermaLink="false">blue-30634848-v2</guid>
+<pubDate>Tue, 27 Oct 2026 16:46:55 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 8 楼（第 2 版）</p><p>We’ve updated the previous post in this thread with some additions that were intended to be listed.</p>
+<p>Additional updates to Racial Abilities and Talents include:</p>
+<p><strong>Orc</strong></p>
+<ul>
+<li>Blood Fury’s cooldown reduced to 2 minutes (was 3 minutes).</li>
+</ul>
+<p><strong>Troll</strong></p>
+<ul>
+<li>Berserking duration increased to 15 seconds (was 10 seconds).</li>
+</ul>
+<p><strong>Undead</strong></p>
+<ul>
+<li>Touch of the Grave internal cooldown reduced to 15 seconds (was 25 seconds).</li>
+</ul>
+<p>We’d also like to clarify that for Skyborne:</p>
+<ul>
+<li>Charged persists through death, <em>and is removed upon entering a raid.</em></li>
+<li>Attuned persists through death, <em>and is removed upon entering a raid.</em></li>
 </ul>]]></description>
 </item>
 <item>
@@ -402,29 +449,6 @@
 <li>Personal Resource Display doesn’t show combo points.</li>
 </ul>
 <p><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-known-issues-september-18/2352687/">Our full Known Issues post is here.</a></p>]]></description>
-</item>
-<item>
-<title>[Kaivax] Thank You For Testing the WoW Forever Beta</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30590883-v1.html</link>
-<guid isPermaLink="false">blue-30590883-v1</guid>
-<pubDate>Fri, 23 Oct 2026 17:01:12 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>The WoW Forever Beta is now closed, and we’re incredibly grateful to everyone who joined us over the last five weeks of playtesting, data gathering, bug reporting, and feedback.</p>
-<p>We’re now quickly moving into a period of a few short days where we will do some focused work on priority issues and the game service itself, so that it will be in good shape for launch day on November 4.</p>
-<p>And of course, we’ll open access to the character creation system on Tuesday, October 27, allowing everyone plenty of time to <a href="https://worldofwarcraft.blizzard.com/news/24302070/">select the ruleset</a> that will define your journey and <a href="https://worldofwarcraft.blizzard.com/en-us/news/24303866/">snag the name</a> that best fits your adventurer.</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="/en/wow/uploads/short-url/poAMBn9JkmIfZye6fTn5WKI67V8.jpeg?dl=1" href="https://d2ertrwg9e34np.cloudfront.net/original/1X/b1fe09754ac84c51aac38a58e60bd32626cfaec2.jpeg" title="image"><img alt="image" data-base62-sha1="poAMBn9JkmIfZye6fTn5WKI67V8" height="381" src="https://d2ertrwg9e34np.cloudfront.net/original/1X/b1fe09754ac84c51aac38a58e60bd32626cfaec2.jpeg" width="800"/><div class="meta"><svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">800×381 122 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use href="#discourse-expand"></use></svg></div></a></div></p>
-<p>You won’t have to wait until the game launches to make these big decisions.</p>
-<p>Also next week, we’re going to continue with our WoW Forever Podcast. If you haven’t consumed it all, this is a great time to catch up with everything the WoW Forever designers have had to say.</p>
-<ul>
-<li><a class="inline-onebox" href="https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-1-unpacking-beta-launch-ft-%E2%80%AAxaryu%E2%80%AC/2368190/">The WoW: Forever Podcast: Episode 1 - Unpacking Beta Launch ft. ‪@Xaryu‬</a></li>
-<li><a class="inline-onebox" href="https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-2-speed-running-classes-ft-%E2%80%AAsodapoppin%E2%80%AC/2368192/">The WoW: Forever Podcast: Episode 2 - Speed Running Classes ft. ‪@sodapoppin‬</a></li>
-<li><a class="inline-onebox" href="https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-3-dive-into-dungeons-with-devs-ft-hammerdancegaming/2376010/">The WoW: Forever Podcast: Episode 3 - Dive Into Dungeons With Devs ft. @Hammerdancegaming</a></li>
-<li><a class="inline-onebox" href="https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-4-the-pvp-episode-ft-%E2%80%AAtipsoutbaby%E2%80%AC-%E2%80%AAsavixirl/2383164/">The WoW: Forever Podcast: Episode 4 - The PvP Episode ft. ‪@TipsOutBaby‬ &amp; ‪@Savixirl</a></li>
-<li><a class="inline-onebox" href="https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-5-end-of-beta-special/2389565/">The WoW: Forever Podcast: Episode 5 - End of Beta Special</a></li>
-</ul>
-<p>If you can’t get enough WoW Forever info, we’ve got all kinds of details about the game right here on our website. You can learn more about <a href="https://worldofwarcraft.blizzard.com/en-us/news/24301455">WoW Forever dungeons here</a>, and <a href="https://worldofwarcraft.blizzard.com/en-us/news/24301516/">the Campfire system here</a>, and <a href="https://worldofwarcraft.blizzard.com/en-us/news/24303009/">raid details here</a>.</p>
-<p>Again, we’re deeply grateful to have seen so many people find their Forever home, and create new communities, and find friends (old and new) to join on the journey ahead.</p>
-<p>We’re really looking forward to seeing you on November 4! Thank you very much!</p>
-<p><div class="lightbox-wrapper"><a class="lightbox" data-download-href="/en/wow/uploads/short-url/gAEYa1KyMvGIJ5P5WRg7RVWThTy.jpeg?dl=1" href="https://d2ertrwg9e34np.cloudfront.net/original/1X/7447af4906a37d3110a9dd6974a43e5c1e905040.jpeg" title="image"><img alt="image" data-base62-sha1="gAEYa1KyMvGIJ5P5WRg7RVWThTy" height="400" src="https://d2ertrwg9e34np.cloudfront.net/original/1X/7447af4906a37d3110a9dd6974a43e5c1e905040.jpeg" width="800"/><div class="meta"><svg aria-hidden="true" class="fa d-icon d-icon-far-image svg-icon"><use href="#far-image"></use></svg><span class="filename">image</span><span class="informations">800×400 94.2 KB</span><svg aria-hidden="true" class="fa d-icon d-icon-discourse-expand svg-icon"><use href="#discourse-expand"></use></svg></div></a></div></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] Thank You For Testing the WoW Forever Beta</title>
@@ -2045,6 +2069,13 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[BlizzardEntertainment] Create a Name of Your Own in WoW: Forever（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30141135-v2.html</link>
+<guid isPermaLink="false">blue-30141135-v2</guid>
+<pubDate>Mon, 21 Sep 2026 19:19:23 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 2 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/2o/2OT6OCC1ADEM1789963421279.png"><img alt="Create a Name of Your Own in WoW: Forever" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/2o/2OT6OCC1ADEM1789963421279.png" width="833"/></a></p><p>In World of Warcraft: Forever, every character name is an opportunity to express yourself and establish your identity in Azeroth. With the addition of two names, players have more room to create something personal while keeping each full name unique within a region. That means you may still be able to use the same first name as another character, but your complete two-name combination is unique to you. </p><p><a href="https://worldofwarcraft.com/en-us/news/24304161">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>
