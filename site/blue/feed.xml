@@ -4,7 +4,17 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 20:02:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 01:28:41 +0000</lastBuildDate>
+<item>
+<title>[Kaivax] Overly Restrictive Name Check and Fix Incoming - October 27</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30650104-v1.html</link>
+<guid isPermaLink="false">blue-30650104-v1</guid>
+<pubDate>Wed, 28 Oct 2026 01:28:41 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons.</p>
+<p>Today we’ve determined that we have a bug in the process that caused the game to be overly restrictive with some names. For example, it has been incorrectly restricting names containing “c-o-n”.</p>
+<p>With the next realm restarts in each region, we’re going to implement the fix. Afterward, if you previously received a message that said “That name is restricted” for a name that you think should have been allowed, please feel free to try again.</p>
+<p>Thank you!</p>]]></description>
+</item>
 <item>
 <title>[Kaivax] Name Reservation Issue for Oceanic Players</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30639364-v1.html</link>
@@ -2045,20 +2055,6 @@ September 18, 2026</h2>
 ]]></description>
 </item>
 <item>
-<title>[Kaivax] [Mac] 8 different graphics bugs, each isolated to one setting — with repro steps for each</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153785-v1.html</link>
-<guid isPermaLink="false">blue-30153785-v1</guid>
-<pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 97 楼</p><aside class="quote no-group" data-display-name="Bloodyniku" data-post="1" data-topic="2354050" data-username="Bloodyniku-whitemane">
-<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/classic-us/character/whitemane/89/64405849-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg" width="20"/> Bloodyniku:<div class="quote-controls"></div></div>
-<blockquote>
-<p>Where I’ve guessed at a mechanism I’ve said so explicitly.</p>
-</blockquote>
-</aside>
-<p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
-<p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30142978-v1.html</link>
 <guid isPermaLink="false">blue-30142978-v1</guid>
@@ -2069,13 +2065,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[BlizzardEntertainment] Create a Name of Your Own in WoW: Forever（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30141135-v2.html</link>
-<guid isPermaLink="false">blue-30141135-v2</guid>
-<pubDate>Mon, 21 Sep 2026 19:19:23 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 2 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/2o/2OT6OCC1ADEM1789963421279.png"><img alt="Create a Name of Your Own in WoW: Forever" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/2o/2OT6OCC1ADEM1789963421279.png" width="833"/></a></p><p>In World of Warcraft: Forever, every character name is an opportunity to express yourself and establish your identity in Azeroth. With the addition of two names, players have more room to create something personal while keeping each full name unique within a region. That means you may still be able to use the same first name as another character, but your complete two-name combination is unique to you. </p><p><a href="https://worldofwarcraft.com/en-us/news/24304161">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>
