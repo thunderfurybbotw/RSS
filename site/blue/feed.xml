@@ -16,17 +16,6 @@
 <p>Thank you!</p>]]></description>
 </item>
 <item>
-<title>[Kaivax] Name Reservation Issue for Oceanic Players</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30639364-v1.html</link>
-<guid isPermaLink="false">blue-30639364-v1</guid>
-<pubDate>Tue, 27 Oct 2026 20:02:47 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>Attention Oceanic players connecting to Australian-based servers!</p>
-<p>Due to a bug, you must create any characters on Roleplay or Roleplay-PvP rulesets before creating characters on Normal or PvP rulesets.</p>
-<p>If you first create a character on the Normal or PvP ruleset, the Roleplay and Roleplay-PvP rulesets will no longer be available for subsequent characters.</p>
-<p>This issue should only be present for players in the Oceanic region who are connecting to Australian servers, and we’re working on a fix for it urgently.</p>
-<p>Thank you!</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30624529-v4.html</link>
 <guid isPermaLink="false">blue-30624529-v4</guid>
@@ -505,6 +494,13 @@
 <p>We’re also working hard to make it so that you can select the Roleplay-PvP ruleset and reserve names there next week when our Name Reservation period begins on Tuesday, October 27.</p>
 <p>We really appreciate the feedback and comments on this.</p>
 <p>Thank you!</p>]]></description>
+</item>
+<item>
+<title>[BlizzardEntertainment] Claim Your World of Warcraft: Forever Character Names（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30553826-v2.html</link>
+<guid isPermaLink="false">blue-30553826-v2</guid>
+<pubDate>Tue, 20 Oct 2026 21:03:48 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 2 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png"><img alt="Claim Your World of Warcraft: Forever Character Names" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png" width="833"/></a></p><p>Get ready to make your mark in Azeroth! World of Warcraft: Forever Early Name reservations will be available from October 27 through November 3, offering an early opportunity to reserve names for up to three characters. </p><p><a href="https://worldofwarcraft.com/en-us/news/24303866">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
@@ -2063,6 +2059,20 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[Kaivax] [Mac] 8 different graphics bugs, each isolated to one setting — with repro steps for each</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153785-v1.html</link>
+<guid isPermaLink="false">blue-30153785-v1</guid>
+<pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 97 楼</p><aside class="quote no-group" data-display-name="Bloodyniku" data-post="1" data-topic="2354050" data-username="Bloodyniku-whitemane">
+<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/classic-us/character/whitemane/89/64405849-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg" width="20"/> Bloodyniku:<div class="quote-controls"></div></div>
+<blockquote>
+<p>Where I’ve guessed at a mechanism I’ve said so explicitly.</p>
+</blockquote>
+</aside>
+<p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
+<p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
