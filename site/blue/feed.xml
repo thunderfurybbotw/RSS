@@ -4,16 +4,18 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 01:28:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 16:17:57 +0000</lastBuildDate>
 <item>
-<title>[Kaivax] Overly Restrictive Name Check and Fix Incoming - October 27</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30650104-v1.html</link>
-<guid isPermaLink="false">blue-30650104-v1</guid>
-<pubDate>Wed, 28 Oct 2026 01:28:41 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons.</p>
-<p>Today we’ve determined that we have a bug in the process that caused the game to be overly restrictive with some names. For example, it has been incorrectly restricting names containing “c-o-n”.</p>
-<p>With the next realm restarts in each region, we’re going to implement the fix. Afterward, if you previously received a message that said “That name is restricted” for a name that you think should have been allowed, please feel free to try again.</p>
-<p>Thank you!</p>]]></description>
+<title>[Kaivax] The WoW: Forever Podcast: Episode 6 - All About Tech ft. ‪@Shobek</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30671248-v1.html</link>
+<guid isPermaLink="false">blue-30671248-v1</guid>
+<pubDate>Thu, 29 Oct 2026 16:17:57 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><div class="youtube-onebox lazy-video-container" data-provider-name="youtube" data-video-id="BVyhnixdPQg" data-video-start-time="" data-video-title="All About Tech ft. @Shobek | Episode 6 - The WoW: Forever Podcast">
+<a class="video-thumbnail" href="https://www.youtube.com/watch?v=BVyhnixdPQg" rel="noopener" target="_blank">
+<img class="youtube-thumbnail" height="468" src="https://img.youtube.com/vi/BVyhnixdPQg/maxresdefault.jpg" title="All About Tech ft. @Shobek | Episode 6 - The WoW: Forever Podcast" width="833"/>
+</a>
+</div>
+]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
