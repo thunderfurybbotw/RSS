@@ -18,16 +18,6 @@
 ]]></description>
 </item>
 <item>
-<title>[Kaivax] Overly Restrictive Name Check and Fix Incoming - October 27</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30650104-v1.html</link>
-<guid isPermaLink="false">blue-30650104-v1</guid>
-<pubDate>Wed, 28 Oct 2026 01:28:41 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons.</p>
-<p>Today we’ve determined that we have a bug in the process that caused the game to be overly restrictive with some names. For example, it has been incorrectly restricting names containing “c-o-n”.</p>
-<p>With the next realm restarts in each region, we’re going to implement the fix. Afterward, if you previously received a message that said “That name is restricted” for a name that you think should have been allowed, please feel free to try again.</p>
-<p>Thank you!</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30624529-v4.html</link>
 <guid isPermaLink="false">blue-30624529-v4</guid>
@@ -506,13 +496,6 @@
 <p>We’re also working hard to make it so that you can select the Roleplay-PvP ruleset and reserve names there next week when our Name Reservation period begins on Tuesday, October 27.</p>
 <p>We really appreciate the feedback and comments on this.</p>
 <p>Thank you!</p>]]></description>
-</item>
-<item>
-<title>[BlizzardEntertainment] Explore the New Dungeons of World of Warcraft: Forever（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30550244-v3.html</link>
-<guid isPermaLink="false">blue-30550244-v3</guid>
-<pubDate>Tue, 20 Oct 2026 21:03:47 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 3 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/k6/K6AZH27JFURN1792014024966.png"><img alt="Explore the New Dungeons of World of Warcraft: Forever" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/k6/K6AZH27JFURN1792014024966.png" width="833"/></a></p><p>Explore nine new World of Warcraft: Forever dungeons across the Eastern Kingdoms and Kalimdor, with level ranges from 13 to 60. Venture beneath familiar cities, beyond sealed gates, and into long-unexplored corners of Azeroth. </p><p><a href="https://worldofwarcraft.com/en-us/news/24301455">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
