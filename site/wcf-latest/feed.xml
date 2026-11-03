@@ -4,7 +4,18 @@
 <link>https://wowclassicforever.info/zh-hans/latest/</link>
 <description>wowclassicforever.info 每天的更新记录，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2026年11月3日 最新动态：职业改动页补充Poised被动</title>
+<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-03.html</link>
+<guid isPermaLink="false">wcf-latest-2026-11-03-679601d3</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/classes/#class-pages">职业改动页补充Poised被动：国服70753客户端中，潜行者18级、德鲁伊32级获得，脱战且能量全满时降低下一个适用技能的能量消耗；其他地区是否已实装尚未核实。</a> <span class="latest-links"><a href="https://wago.tools/db2/SpellName?build=1.60.1.70753" rel="noopener" target="_blank">来源：wago.tools</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/system-requirements/#faq">配置指南补充平台说明：Xbox官方确认国际服通过Battle.net登陆PC和Mac，目前没有Xbox主机版；国服Mac支持仍待确认。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/name-reservation/#invite">国服邀请好友指南补充两段日期：11月2日至11日领取邀请资格，好友激活后可在11月5日至11日免费游玩；时间轴和官方活动入口已更新。</a> <span class="latest-links"><a href="https://wow.blizzard.cn/h5/20260913/friend/" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+</ul>]]></description>
+</item>
 <item>
 <title>2026年11月2日 最新动态：天赋数据已纳入10月31日服务器热修</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-02.html</link>
@@ -387,18 +398,6 @@
 <li><a href="https://wowclassicforever.info/zh-hans/professions/">12个专业各有了自己的页面：营地设施、相关传承天赋，以及Beta客户端里的新配方清单。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/raids/">三座首批团本各有了自己的页面：深穴、海加尔峰和奥妮克希亚的巢穴，写清人数、开放日、入口、试玩版首领名和尚未公布的内容。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/servers/">新增几条答案：PvP规则集只能选一个阵营、打怪不是共享击杀、国际服Beta服务器在美国并已优化欧洲路由。</a></li>
-</ul>]]></description>
-</item>
-<item>
-<title>2026年9月20日 最新动态：新增专业与露营页</title>
-<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-09-20.html</link>
-<guid isPermaLink="false">wcf-latest-2026-09-20-84f9bf2c</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-<description><![CDATA[<ul class="plain-list plain-list--spaced">
-<li><a href="https://wowclassicforever.info/zh-hans/professions/">新增专业与露营页：哪些和经典旧世一样、600多个新配方、每个专业的营地设施和增益、营火能放多少件，以及配套的传承天赋。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/dungeons/">九座新地下城各有了自己的页面：等级、具体位置、暴雪面向哪个阵营，以及暴雪已经展示过的内容。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/zones/">四个新区域各有了自己的页面：海加尔山、辛德拉、河林和泽风岛，写清楚里面有什么、怎么去。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/servers/">服务器页新增「世界刷新」提示的说明：换层前的预警、「立刻刷新」按钮，以及换过去之后可能有什么不同。</a> <span class="latest-links"><a href="https://www.wowhead.com/news=382994" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
 </ul>]]></description>
 </item>
 </channel></rss>

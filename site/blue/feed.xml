@@ -18,6 +18,16 @@
 ]]></description>
 </item>
 <item>
+<title>[Kaivax] Overly Restrictive Name Check and Fix Incoming - October 27</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30650104-v1.html</link>
+<guid isPermaLink="false">blue-30650104-v1</guid>
+<pubDate>Wed, 28 Oct 2026 01:28:41 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons.</p>
+<p>Today we’ve determined that we have a bug in the process that caused the game to be overly restrictive with some names. For example, it has been incorrectly restricting names containing “c-o-n”.</p>
+<p>With the next realm restarts in each region, we’re going to implement the fix. Afterward, if you previously received a message that said “That name is restricted” for a name that you think should have been allowed, please feel free to try again.</p>
+<p>Thank you!</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated October 26（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30624529-v4.html</link>
 <guid isPermaLink="false">blue-30624529-v4</guid>
@@ -2028,6 +2038,27 @@ September 18, 2026</h2>
 ]]></description>
 </item>
 <item>
+<title>[BlizzardEntertainment] Get to Know the World of Warcraft: Forever Legacy System（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30165841-v3.html</link>
+<guid isPermaLink="false">blue-30165841-v3</guid>
+<pubDate>Wed, 23 Sep 2026 17:08:56 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 3 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/q7/Q7DCITNH6C9A1790133996517.png"><img alt="Get to Know the World of Warcraft: Forever Legacy System" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/q7/Q7DCITNH6C9A1790133996517.png" width="833"/></a></p><p>Explore the Legacy System in World of Warcraft: Forever, an account-wide progression system that lets you complete challenges, earn Legacy Points, unlock character-specific perks, and collect cosmetic rewards as you adventure across Azeroth. </p><p><a href="https://worldofwarcraft.com/en-us/news/24307383">View Full Article</a></p>]]></description>
+</item>
+<item>
+<title>[Kaivax] [Mac] 8 different graphics bugs, each isolated to one setting — with repro steps for each</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153785-v1.html</link>
+<guid isPermaLink="false">blue-30153785-v1</guid>
+<pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 97 楼</p><aside class="quote no-group" data-display-name="Bloodyniku" data-post="1" data-topic="2354050" data-username="Bloodyniku-whitemane">
+<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/classic-us/character/whitemane/89/64405849-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg" width="20"/> Bloodyniku:<div class="quote-controls"></div></div>
+<blockquote>
+<p>Where I’ve guessed at a mechanism I’ve said so explicitly.</p>
+</blockquote>
+</aside>
+<p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
+<p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30142978-v1.html</link>
 <guid isPermaLink="false">blue-30142978-v1</guid>
@@ -2037,6 +2068,28 @@ September 18, 2026</h2>
 <img class="youtube-thumbnail" height="468" src="https://img.youtube.com/vi/Y5zzSMSVhRo/maxresdefault.jpg" title="World of Warcraft Developer Q&amp;A" width="833"/>
 </a>
 </div>
+]]></description>
+</item>
+<item>
+<title>[Kaivax] We can't install World of Warcraft: Forever because your operating system doesn't meet the minimum specs to run</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30110587-v1.html</link>
+<guid isPermaLink="false">blue-30110587-v1</guid>
+<pubDate>Fri, 18 Sep 2026 20:39:42 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 2 楼</p><p>Just want to make sure you’ve seen this, in case it applies to your situation:</p>
+<aside class="onebox allowlistedgeneric" data-onebox-src="https://worldofwarcraft.blizzard.com/en-us/news/24301512/world-of-warcraft-forever-gpu-requirements">
+<header class="source">
+<img alt="" class="site-icon" height="32" src="https://assets-bwa.worldofwarcraft.blizzard.com/static/wow-icon-32x32.1a38d7c1c3d8df560d53f5c2ad5442c0401edf83.png" width="32"/>
+<a href="https://worldofwarcraft.blizzard.com/en-us/news/24301512/world-of-warcraft-forever-gpu-requirements" rel="noopener" target="_blank">World of Warcraft</a>
+</header>
+<article class="onebox-body">
+<div class="aspect-image" style="--aspect-ratio:833/468;"><img alt="" class="thumbnail" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/2r/2RK1KO8CM14C1527787002196.jpg" width="833"/></div>
+<h3><a href="https://worldofwarcraft.blizzard.com/en-us/news/24301512/world-of-warcraft-forever-gpu-requirements" rel="noopener" target="_blank">World of Warcraft: Forever GPU Requirements - WoW</a></h3>
+<p>When World of Warcraft: Forever launches GPUs based on certain older graphics architectures that fall well below the game's minimum hardware requirements will no longer be supported.  The vast majority of World of Warcraft players already use...</p>
+</article>
+<div class="onebox-metadata">
+</div>
+<div style="clear: both"></div>
+</aside>
 ]]></description>
 </item>
 <item>
