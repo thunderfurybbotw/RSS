@@ -4,7 +4,20 @@
 <link>https://wowclassicforever.info/zh-hans/latest/</link>
 <description>wowclassicforever.info 每天的更新记录，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2026年11月4日 最新动态：天赋模拟器已更新上线前的天赋树与效果，包含盗贼、萨满祭司的天</title>
+<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-04.html</link>
+<guid isPermaLink="false">wcf-latest-2026-11-04-d3f99ea3</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/updates/#hotfixes-nov-4">天赋模拟器已更新上线前的天赋树与效果，包含盗贼、萨满祭司的天赋调整；更新记录可查看天赋替换和位置变动。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/2360696/9" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/professions/enchanting/">配方库新增鞋子附魔配方，并补齐客户端新增的配方卷轴名称和物品提示，方便查看配方与材料信息。</a> <span class="latest-links"><a href="https://wago.tools/builds" rel="noopener" target="_blank">来源：wago.tools</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/leveling/#faq">升级指南补充1–60级职业技能训练预算及术士宠物魔典费用说明，附职业技能与训练师入口，方便规划金币开销。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/2360696/9" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/system-requirements/#faq">配置指南补充手柄设置入口、兼容要求及使用限制：目前仍处于测试阶段，输入聊天消息仍需键盘。</a> <span class="latest-links"><a href="https://worldofwarcraft.com/en-us/news/24316974" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/classes/#class-pages">按暴雪上线前说明更新职业攻略：蓄势待发减少10点能量消耗、猎人陷阱共用冷却、低等级法术触发规则，以及萨满、法师和圣骑士的技能改动。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/2360696/9" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+</ul>]]></description>
+</item>
 <item>
 <title>2026年11月3日 最新动态：职业改动页补充Poised被动</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-03.html</link>
@@ -383,21 +396,6 @@
 <li><a href="https://wowclassicforever.info/zh-hans/classes/">每个职业页都改成了完整攻略：适不适合你、三个专精和它们依靠的新天赋、Beta客户端里按等级排列的技能、按武器选种族、与经典旧世相比改了什么。天赋模拟器页面新增社区玩家发布的Beta天赋方案和该职业可选的种族。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/beta-datamine/">新增Beta解包系列，根据Beta客户端自己的数据表统计：新物品（精锐荣誉装备、部落圣骑士和联盟萨满祭司套装、制造订单文书）、新法术（按专精写的T1套装奖励、新坐骑和种族特长）、新区域与地下城（吉尔尼斯废墟等未公布的地方），以及统计方法。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/leveling/">Wowhead解包称Beta升到60级的经验少了约26%（已于9月23日撤回：经验曲线与经典旧世相同）；另外补了48格银行、地下城漏拿战利品会寄到邮箱、Beta里的名字规则，以及猎人自动射击的改动。</a> <span class="latest-links"><a href="https://wowclassicforever.info/zh-hans/news/bank-mail-loot/">本站新闻</a></span></li>
-</ul>]]></description>
-</item>
-<item>
-<title>2026年9月21日 最新动态：新增两篇攻略</title>
-<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-09-21.html</link>
-<guid isPermaLink="false">wcf-latest-2026-09-21-d3d3b792</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-<description><![CDATA[<ul class="plain-list plain-list--spaced">
-<li><a href="https://wowclassicforever.info/zh-hans/hardcore/">新增两篇攻略：专家模式（硬核）规则集（上线时没有、死后去哪、传承点数），以及经典模式（幻化开关、高清和标清模型）。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/pvp/">新增PvP攻略：没有评级PvP、每个赛季重置的荣誉进度、暗矛群岛、战场队列，以及Beta客户端里的荣誉军衔和每周上限。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/leveling/">新增练级攻略：新区域和地下城按等级排列、地下城经验改动、新任务在哪、传承系统的练级加成和交通。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/classes/">九个职业各有了技能页：对比经典旧世，列出Beta客户端里新增、改动和移除的训练师技能，附两边原文。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/professions/">12个专业各有了自己的页面：营地设施、相关传承天赋，以及Beta客户端里的新配方清单。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/raids/">三座首批团本各有了自己的页面：深穴、海加尔峰和奥妮克希亚的巢穴，写清人数、开放日、入口、试玩版首领名和尚未公布的内容。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/servers/">新增几条答案：PvP规则集只能选一个阵营、打怪不是共享击杀、国际服Beta服务器在美国并已优化欧洲路由。</a></li>
 </ul>]]></description>
 </item>
 </channel></rss>

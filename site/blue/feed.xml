@@ -4,20 +4,13 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 21:10:15 +0000</lastBuildDate>
-<item>
-<title>[BlizzardEntertainment] Explore WoW: Forever with a Gamepad（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30743268-v7.html</link>
-<guid isPermaLink="false">blue-30743268-v7</guid>
-<pubDate>Tue, 03 Nov 2026 21:10:15 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 7 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png"><img alt="Explore WoW: Forever with a Gamepad" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png" width="833"/></a></p><p>Prefer a gamepad? Get to know another way to play World of Warcraft: Forever, from moving and casting spells to adjusting your settings. Gamepad support is available in a beta state, with more improvements to come. </p><p><a href="https://worldofwarcraft.com/en-us/news/24316974">View Full Article</a></p>]]></description>
-</item>
+<lastBuildDate>Wed, 04 Nov 2026 02:12:27 +0000</lastBuildDate>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30732723-v2.html</link>
-<guid isPermaLink="false">blue-30732723-v2</guid>
-<pubDate>Tue, 03 Nov 2026 20:47:06 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 9 楼（第 2 版）</p><p>Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks.</p>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30732723-v3.html</link>
+<guid isPermaLink="false">blue-30732723-v3</guid>
+<pubDate>Wed, 04 Nov 2026 02:12:27 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 9 楼（第 3 版）</p><p>Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks.</p>
 <p>We’ve included the previously-posted updates to racial talents and abilities for completeness here.</p>
 <p>And once again, thank you so much to everyone who tested the Beta with us and provided so much feedback. Your efforts are greatly appreciated, and we can’t wait to see you on November 4!</p>
 <p><strong>Bug Fixes</strong></p>
@@ -91,7 +84,11 @@
 <li>Subtlety: This talent has moved to row 3 from row 2, swapping with Reflection.</li>
 <li>Gift of the Earthmother: This talent has been removed.</li>
 <li>Bloom: New 1-point talent in 3rd row, replacing Gift of the Earthmother. “When your Rejuvenation or Regrowth spell expires due to its duration, the target is instantly healed for an amount equal to 100% of your Spirit. If either spell expires due to being dispelled, the target is healed for 50% of your Spirit instead.”</li>
-<li>Swiftmend: Now requires the Rejuvenation or Regrowth effect on the target to be one placed by the casting Druid.</li>
+<li>Swiftmend: Now requires the Rejuvenation or Regrowth effect on the target to be one placed by the casting Druid.
+<ul>
+<li><em>Developers’ notes: There is an incorrect statement in the tooltip for Swiftmend. The usage of the word “consume” is incorrect and will be fixed soon. This ability does not consume the Rejuvenation or Regrowth effect on the target.</em></li>
+</ul>
+</li>
 <li>Wild Growth: Now has a base casting time of 3 seconds.</li>
 </ul>
 </li>
@@ -672,6 +669,13 @@
 </ul>]]></description>
 </item>
 <item>
+<title>[BlizzardEntertainment] Explore WoW: Forever with a Gamepad（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30743268-v9.html</link>
+<guid isPermaLink="false">blue-30743268-v9</guid>
+<pubDate>Tue, 03 Nov 2026 21:10:15 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 9 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png"><img alt="Explore WoW: Forever with a Gamepad" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png" width="833"/></a></p><p>Prefer a gamepad? Get to know another way to play World of Warcraft: Forever, from moving and casting spells to adjusting your settings. Gamepad support is available in a beta state, with more improvements to come. </p><p><a href="https://worldofwarcraft.com/en-us/news/24316974">View Full Article</a></p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30185131-v6.html</link>
 <guid isPermaLink="false">blue-30185131-v6</guid>
@@ -1151,13 +1155,6 @@
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[BlizzardEntertainment] Claim Your World of Warcraft: Forever Character Names（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30553826-v2.html</link>
-<guid isPermaLink="false">blue-30553826-v2</guid>
-<pubDate>Tue, 20 Oct 2026 21:03:48 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 2 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png"><img alt="Claim Your World of Warcraft: Forever Character Names" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png" width="833"/></a></p><p>Get ready to make your mark in Azeroth! World of Warcraft: Forever Early Name reservations will be available from October 27 through November 3, offering an early opportunity to reserve names for up to three characters. </p><p><a href="https://worldofwarcraft.com/en-us/news/24303866">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
