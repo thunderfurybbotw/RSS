@@ -4,13 +4,13 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 02:12:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 19:35:27 +0000</lastBuildDate>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30732723-v3.html</link>
-<guid isPermaLink="false">blue-30732723-v3</guid>
-<pubDate>Wed, 04 Nov 2026 02:12:27 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 9 楼（第 3 版）</p><p>Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks.</p>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30732723-v4.html</link>
+<guid isPermaLink="false">blue-30732723-v4</guid>
+<pubDate>Wed, 04 Nov 2026 19:35:27 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 修改了第 9 楼（第 4 版）</p><p>Since the last full update to the Beta on October 15, we’ve continued to work to solve issues, refine classes, improve gameplay in all areas, and address feedback we received from Beta testers. What follows are the updates and changes that have been developed over those last 2.5 weeks.</p>
 <p>We’ve included the previously-posted updates to racial talents and abilities for completeness here.</p>
 <p>And once again, thank you so much to everyone who tested the Beta with us and provided so much feedback. Your efforts are greatly appreciated, and we can’t wait to see you on November 4!</p>
 <p><strong>Bug Fixes</strong></p>
@@ -666,14 +666,137 @@
 <li>Fixed an issue during “Destruction in Deadmines” where Alba Fairmoon would become unavailable to turn-in the quest.</li>
 </ul>
 </li>
+</ul>
+<p><strong>User Interface and Accessibility</strong></p>
+<ul>
+<li>Swing Timer bar will no longer fade out due to distance until the swing finishes.</li>
+<li>When combined bag is enabled, the background art of the inventory slots are updated to show which bag the slot is from.</li>
+<li>Fixed an issue where Nameplates did not display Elite enemy status.</li>
+<li>Debuff icons on the Nameplate can now be clicked through.</li>
+<li>Spellbook and Talents frame now opens at the same height as other panels.</li>
+<li>Combat mode for the Spellbook frame has been reduced in size.</li>
+<li>PvP scoreboard display has been updated.</li>
+<li>Killing a player while at Honor cap will no longer show honor gained in floating text or chat messages.</li>
+<li>While in keybinds menu, hovering over an action bar keybind will now highlight the button on the action bar.</li>
 </ul>]]></description>
 </item>
 <item>
-<title>[BlizzardEntertainment] Explore WoW: Forever with a Gamepad（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30743268-v9.html</link>
-<guid isPermaLink="false">blue-30743268-v9</guid>
-<pubDate>Tue, 03 Nov 2026 21:10:15 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 9 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png"><img alt="Explore WoW: Forever with a Gamepad" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png" width="833"/></a></p><p>Prefer a gamepad? Get to know another way to play World of Warcraft: Forever, from moving and casting spells to adjusting your settings. Gamepad support is available in a beta state, with more improvements to come. </p><p><a href="https://worldofwarcraft.com/en-us/news/24316974">View Full Article</a></p>]]></description>
+<title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30756539-v1.html</link>
+<guid isPermaLink="false">blue-30756539-v1</guid>
+<pubDate>Wed, 04 Nov 2026 19:35:16 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 10 楼</p><p>We’ve added this section to the previous post.</p>
+<p><strong>User Interface and Accessibility</strong></p>
+<ul>
+<li>Swing Timer bar will no longer fade out due to distance until the swing finishes.</li>
+<li>When combined bag is enabled, the background art of the inventory slots are updated to show which bag the slot is from.</li>
+<li>Fixed an issue where Nameplates did not display Elite enemy status.</li>
+<li>Debuff icons on the Nameplate can now be clicked through.</li>
+<li>Spellbook and Talents frame now opens at the same height as other panels.</li>
+<li>Combat mode for the Spellbook frame has been reduced in size.</li>
+<li>PvP scoreboard display has been updated.</li>
+<li>Killing a player while at Honor cap will no longer show honor gained in floating text or chat messages.</li>
+<li>While in keybinds menu, hovering over an action bar keybind will now highlight the button on the action bar.</li>
+</ul>]]></description>
+</item>
+<item>
+<title>[Kaivax] World of Warcraft: Forever Launch Time</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30755588-v1.html</link>
+<guid isPermaLink="false">blue-30755588-v1</guid>
+<pubDate>Wed, 04 Nov 2026 18:13:53 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>WoW Forever launches simultaneously in all regions today at 3:00 p.m. PST. That’s:</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Time Zone</th>
+<th>Location</th>
+<th>Time</th>
+<th>Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HST</td>
+<td>Honolulu</td>
+<td>1:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>AKST</td>
+<td>Juneau</td>
+<td>2:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>PST</td>
+<td>Los Angeles</td>
+<td>3:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>BCT</td>
+<td>Vancouver</td>
+<td>4:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>MST</td>
+<td>Denver</td>
+<td>4:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>CST</td>
+<td>Dallas</td>
+<td>5:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>EST</td>
+<td>Montreal</td>
+<td>6:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>AST</td>
+<td>Halifax</td>
+<td>7:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>NST</td>
+<td>St. John’s</td>
+<td>7:30 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>GMT-3</td>
+<td>Sao Paulo</td>
+<td>8:00 p.m.</td>
+<td>Nov. 4</td>
+</tr>
+<tr>
+<td>AWST</td>
+<td>Perth</td>
+<td>7:00 a.m.</td>
+<td>Nov. 5</td>
+</tr>
+<tr>
+<td>AEDT</td>
+<td>Sydney</td>
+<td>10:00 a.m.</td>
+<td>Nov. 5</td>
+</tr>
+<tr>
+<td>NZDT</td>
+<td>Wellington</td>
+<td>12:00 Noon</td>
+<td>Nov. 5</td>
+</tr>
+</tbody>
+</table>
+</div><p><a href="https://www.twitch.tv/warcraft">Until then,</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
@@ -1155,6 +1278,13 @@
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[BlizzardEntertainment] Claim Your World of Warcraft: Forever Character Names（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30553826-v2.html</link>
+<guid isPermaLink="false">blue-30553826-v2</guid>
+<pubDate>Tue, 20 Oct 2026 21:03:48 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 2 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png"><img alt="Claim Your World of Warcraft: Forever Character Names" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png" width="833"/></a></p><p>Get ready to make your mark in Azeroth! World of Warcraft: Forever Early Name reservations will be available from October 27 through November 3, offering an early opportunity to reserve names for up to three characters. </p><p><a href="https://worldofwarcraft.com/en-us/news/24303866">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
@@ -2194,6 +2324,13 @@ September 18, 2026</h2>
 ]]></description>
 </item>
 <item>
+<title>[BlizzardEntertainment] How PvP Progression in World of Warcraft: Forever Works（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30373680-v3.html</link>
+<guid isPermaLink="false">blue-30373680-v3</guid>
+<pubDate>Wed, 07 Oct 2026 17:21:44 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 3 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/ab/ABQG457IQXQF1790901647323.png"><img alt="How PvP Progression in World of Warcraft: Forever Works" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/ab/ABQG457IQXQF1790901647323.png" width="833"/></a></p><p>World of Warcraft: Forever reimagines PvP (Player vs. Player) progression with an approachable system built around Honor, Rank Points, seasonal goals, and familiar original ranks. Players can earn rewards through battlegrounds, PvP quests, weekly journey tasks, and gear upgrades while working toward iconic titles such as High Warlord and Grand Marshal. </p><p><a href="https://worldofwarcraft.com/en-us/news/24303316">View Full Article</a></p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30290854-v4.html</link>
 <guid isPermaLink="false">blue-30290854-v4</guid>
@@ -2696,20 +2833,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[Kaivax] [Mac] 8 different graphics bugs, each isolated to one setting — with repro steps for each</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30153785-v1.html</link>
-<guid isPermaLink="false">blue-30153785-v1</guid>
-<pubDate>Tue, 22 Sep 2026 17:10:57 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 97 楼</p><aside class="quote no-group" data-display-name="Bloodyniku" data-post="1" data-topic="2354050" data-username="Bloodyniku-whitemane">
-<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/classic-us/character/whitemane/89/64405849-avatar.jpg?alt=/wow/static/images/2d/avatar/6-0.jpg" width="20"/> Bloodyniku:<div class="quote-controls"></div></div>
-<blockquote>
-<p>Where I’ve guessed at a mechanism I’ve said so explicitly.</p>
-</blockquote>
-</aside>
-<p>I just want to thank you and others who have provided us with such incredibly detailed and useful reporting.</p>
-<p>We have multiple different analyses (and potential fixes) for Mac issues underway, and posts like yours are extremely helpful.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
