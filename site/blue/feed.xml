@@ -4,7 +4,33 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 19:35:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:39:29 +0000</lastBuildDate>
+<item>
+<title>[Aggrend] Zeppelins broken?</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30764314-v1.html</link>
+<guid isPermaLink="false">blue-30764314-v1</guid>
+<pubDate>Thu, 05 Nov 2026 06:39:29 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 回复于第 15 楼</p><p>Hi There,</p>
+<p>We are aware of some issues with transports such as boats and zeppelins becoming lost in the maelstrom for extended periods of time.</p>
+<p>As a temporary fix, we’ve spawned portals near most transport docks or inside of the zeppelin towers to help you move between continents if your boat gets lost. We have a proper fix going out in the morning, and once we’ve verified that’s in and working, we’ll be removing those portals.</p>
+<p>Hope this helps. Thank you!</p>]]></description>
+</item>
+<item>
+<title>[Aggrend] Why do I see maybe 8 people inside the main city?</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30764270-v1.html</link>
+<guid isPermaLink="false">blue-30764270-v1</guid>
+<pubDate>Thu, 05 Nov 2026 06:35:55 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 回复于第 27 楼</p><p>Hi There,</p>
+<p>Just wanted to chime in and say that we are aware of some issues with certain areas not feeling as populated as they should. We will be tweaking some numbers tomorrow to help things feel a bit more lively.</p>
+<p>Thanks for the feedback on this one!</p>]]></description>
+</item>
+<item>
+<title>[BlizzardEntertainment] Explore WoW: Forever with a Gamepad（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30743268-v14.html</link>
+<guid isPermaLink="false">blue-30743268-v14</guid>
+<pubDate>Thu, 05 Nov 2026 00:24:26 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 14 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png"><img alt="Explore WoW: Forever with a Gamepad" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/bg/BGQ7RN9RQG4B1793736408627.png" width="833"/></a></p><p>Prefer a gamepad? Get to know another way to play World of Warcraft: Forever, from moving and casting spells to adjusting your settings. Gamepad support is available in a beta state, with more improvements to come. </p><p><a href="https://worldofwarcraft.com/en-us/news/24316974">View Full Article</a></p>]]></description>
+</item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30732723-v4.html</link>
@@ -700,105 +726,6 @@
 </ul>]]></description>
 </item>
 <item>
-<title>[Kaivax] World of Warcraft: Forever Launch Time</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30755588-v1.html</link>
-<guid isPermaLink="false">blue-30755588-v1</guid>
-<pubDate>Wed, 04 Nov 2026 18:13:53 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>WoW Forever launches simultaneously in all regions today at 3:00 p.m. PST. That’s:</p>
-<div class="md-table">
-<table>
-<thead>
-<tr>
-<th>Time Zone</th>
-<th>Location</th>
-<th>Time</th>
-<th>Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>HST</td>
-<td>Honolulu</td>
-<td>1:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>AKST</td>
-<td>Juneau</td>
-<td>2:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>PST</td>
-<td>Los Angeles</td>
-<td>3:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>BCT</td>
-<td>Vancouver</td>
-<td>4:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>MST</td>
-<td>Denver</td>
-<td>4:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>CST</td>
-<td>Dallas</td>
-<td>5:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>EST</td>
-<td>Montreal</td>
-<td>6:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>AST</td>
-<td>Halifax</td>
-<td>7:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>NST</td>
-<td>St. John’s</td>
-<td>7:30 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>GMT-3</td>
-<td>Sao Paulo</td>
-<td>8:00 p.m.</td>
-<td>Nov. 4</td>
-</tr>
-<tr>
-<td>AWST</td>
-<td>Perth</td>
-<td>7:00 a.m.</td>
-<td>Nov. 5</td>
-</tr>
-<tr>
-<td>AEDT</td>
-<td>Sydney</td>
-<td>10:00 a.m.</td>
-<td>Nov. 5</td>
-</tr>
-<tr>
-<td>NZDT</td>
-<td>Wellington</td>
-<td>12:00 Noon</td>
-<td>Nov. 5</td>
-</tr>
-</tbody>
-</table>
-</div><p><a href="https://www.twitch.tv/warcraft">Until then,</a></p>]]></description>
-</item>
-<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30185131-v6.html</link>
 <guid isPermaLink="false">blue-30185131-v6</guid>
@@ -1163,6 +1090,16 @@
 ]]></description>
 </item>
 <item>
+<title>[Kaivax] Overly Restrictive Name Check and Fix Incoming - October 27</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30650104-v1.html</link>
+<guid isPermaLink="false">blue-30650104-v1</guid>
+<pubDate>Wed, 28 Oct 2026 01:28:41 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>In WoW Forever, we’ve been working on the restricted name list, which is a list the game uses to check for non-profane names that we wish to restrict, such as major Warcraft lore characters or names that are blocked for technical reasons.</p>
+<p>Today we’ve determined that we have a bug in the process that caused the game to be overly restrictive with some names. For example, it has been incorrectly restricting names containing “c-o-n”.</p>
+<p>With the next realm restarts in each region, we’re going to implement the fix. Afterward, if you previously received a message that said “That name is restricted” for a name that you think should have been allowed, please feel free to try again.</p>
+<p>Thank you!</p>]]></description>
+</item>
+<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30624529-v4.html</link>
 <guid isPermaLink="false">blue-30624529-v4</guid>
@@ -1278,13 +1215,6 @@
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[BlizzardEntertainment] Claim Your World of Warcraft: Forever Character Names（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30553826-v2.html</link>
-<guid isPermaLink="false">blue-30553826-v2</guid>
-<pubDate>Tue, 20 Oct 2026 21:03:48 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 2 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png"><img alt="Claim Your World of Warcraft: Forever Character Names" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/n7/N7FDT91D4FU61792517477430.png" width="833"/></a></p><p>Get ready to make your mark in Azeroth! World of Warcraft: Forever Early Name reservations will be available from October 27 through November 3, offering an early opportunity to reserve names for up to three characters. </p><p><a href="https://worldofwarcraft.com/en-us/news/24303866">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
@@ -2322,13 +2252,6 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
-</item>
-<item>
-<title>[BlizzardEntertainment] How PvP Progression in World of Warcraft: Forever Works（已更新）</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30373680-v3.html</link>
-<guid isPermaLink="false">blue-30373680-v3</guid>
-<pubDate>Wed, 07 Oct 2026 17:21:44 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>BlizzardEntertainment</b>（Blizzard News） 修改了第 1 楼（第 3 版）</p><p><a href="https://bnetcmsus-a.akamaihd.net/cms/blog_header/ab/ABQG457IQXQF1790901647323.png"><img alt="How PvP Progression in World of Warcraft: Forever Works" height="468" src="https://bnetcmsus-a.akamaihd.net/cms/blog_header/ab/ABQG457IQXQF1790901647323.png" width="833"/></a></p><p>World of Warcraft: Forever reimagines PvP (Player vs. Player) progression with an approachable system built around Honor, Rank Points, seasonal goals, and familiar original ranks. Players can earn rewards through battlegrounds, PvP quests, weekly journey tasks, and gear upgrades while working toward iconic titles such as High Warlord and Grand Marshal. </p><p><a href="https://worldofwarcraft.com/en-us/news/24303316">View Full Article</a></p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
