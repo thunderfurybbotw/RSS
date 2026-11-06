@@ -4,15 +4,16 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 06:35:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:39:29 +0000</lastBuildDate>
 <item>
-<title>[Aggrend] Why do I see maybe 8 people inside the main city?</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30764270-v1.html</link>
-<guid isPermaLink="false">blue-30764270-v1</guid>
-<pubDate>Thu, 05 Nov 2026 06:35:55 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 回复于第 27 楼</p><p>Hi There,</p>
-<p>Just wanted to chime in and say that we are aware of some issues with certain areas not feeling as populated as they should. We will be tweaking some numbers tomorrow to help things feel a bit more lively.</p>
-<p>Thanks for the feedback on this one!</p>]]></description>
+<title>[Aggrend] Zeppelins broken?</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30764314-v1.html</link>
+<guid isPermaLink="false">blue-30764314-v1</guid>
+<pubDate>Thu, 05 Nov 2026 06:39:29 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 回复于第 15 楼</p><p>Hi There,</p>
+<p>We are aware of some issues with transports such as boats and zeppelins becoming lost in the maelstrom for extended periods of time.</p>
+<p>As a temporary fix, we’ve spawned portals near most transport docks or inside of the zeppelin towers to help you move between continents if your boat gets lost. We have a proper fix going out in the morning, and once we’ve verified that’s in and working, we’ll be removing those portals.</p>
+<p>Hope this helps. Thank you!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
