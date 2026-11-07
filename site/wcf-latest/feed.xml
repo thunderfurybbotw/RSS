@@ -6,11 +6,16 @@
 <language>zh-cn</language>
 <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
-<title>2026年11月7日 最新动态：玩家路径调整</title>
+<title>2026年11月7日 最新动态：客户端数据同步至70862</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-07.html</link>
-<guid isPermaLink="false">wcf-latest-2026-11-07-f72ef128</guid>
+<guid isPermaLink="false">wcf-latest-2026-11-07-890962af</guid>
 <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
 <description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/items/">客户端数据同步至70862：新增10种无尽消耗品、6件武器和5只伴侣宠物；物品库、BiS与配方工具同步修正熔火之心物品等级和绑定方式，以及4张配方物品的品质。</a> <span class="latest-links"><a href="https://wago.tools/builds" rel="noopener" target="_blank">来源：wago.tools</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/camping/#live-hotfix-nov-6">正式服清理：移除区域、地下城和职业页过期的30级测试限制；制革架需求同步修正为125。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/dungeons/#live-hotfixes">地下城：移除测试开放指引，纠正固定拉怪上限说法，补齐11月6日热修与入口、任务条件的内链。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/tier-list/">职业对比：撤下缺乏正式服依据的S/A/B排名与旧测试漏洞标签，改为按职责选择并说明证据边界。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/leveling/#xp">练级指南：纠正一概否定刷本的建议，加入任务准备、整段耗时比较和正式服首批60级队伍实绩。</a> <span class="latest-links"><a href="https://www.wowhead.com/forever/news/world-first-level-60s-in-wow-forever-in-less-than-three-days-383797" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/quests/dungeons/">玩家路径调整：副本页优先链接对应的任务清单，天赋页优先提供职业技能、武器、宏和练级入口；历史Beta配点明确标为存档，武器页保留数据版本并移除“上线前”的过时说法。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/updates/#client-70862">天赋同步至70862：饮血者新增鲁莽挥击触发，挑衅仇恨加成调整为7/13/20%；职业技能与六语言说明同步更新。</a> <span class="latest-links"><a href="https://wago.tools/builds" rel="noopener" target="_blank">来源：wago.tools</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/macros/#launch-checks">宏命令：删掉笼统的“全部未实测”声明，改为按证据划界——技能名与客户端一致、普通施法和两次按键姿态行为已有正式服报告，并明确列出仍待验证的宏类型。</a></li>
