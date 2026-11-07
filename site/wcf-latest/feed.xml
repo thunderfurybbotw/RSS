@@ -6,11 +6,13 @@
 <language>zh-cn</language>
 <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
-<title>2026年11月7日 最新动态：宏命令</title>
+<title>2026年11月7日 最新动态：玩家路径调整</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-07.html</link>
-<guid isPermaLink="false">wcf-latest-2026-11-07-9f98a2e7</guid>
+<guid isPermaLink="false">wcf-latest-2026-11-07-f72ef128</guid>
 <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
 <description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/quests/dungeons/">玩家路径调整：副本页优先链接对应的任务清单，天赋页优先提供职业技能、武器、宏和练级入口；历史Beta配点明确标为存档，武器页保留数据版本并移除“上线前”的过时说法。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/updates/#client-70862">天赋同步至70862：饮血者新增鲁莽挥击触发，挑衅仇恨加成调整为7/13/20%；职业技能与六语言说明同步更新。</a> <span class="latest-links"><a href="https://wago.tools/builds" rel="noopener" target="_blank">来源：wago.tools</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/macros/#launch-checks">宏命令：删掉笼统的“全部未实测”声明，改为按证据划界——技能名与客户端一致、普通施法和两次按键姿态行为已有正式服报告，并明确列出仍待验证的宏类型。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/dungeons/the-drowned-city/">沉没之城：补上暴雪的准确正式服说明——入口在格罗姆高以西，需要潜水寻找；传送门现在“应该”可用，只有部分生物的错误脱战被确认修复。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/quests/dungeons/ruins-of-lordaeron/">洛丹伦废墟任务：按暴雪11月6日热修将无尽折磨最低接取等级确认改为15；其他仍冲突的任务等级继续明确标为未解决。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
