@@ -4,13 +4,33 @@
 <link>https://wowclassicforever.info/zh-hans/latest/</link>
 <description>wowclassicforever.info 每天的更新记录，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
-<title>2026年11月6日 最新动态：副本任务中心</title>
+<title>2026年11月7日 最新动态：宏命令</title>
+<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-07.html</link>
+<guid isPermaLink="false">wcf-latest-2026-11-07-9f98a2e7</guid>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/macros/#launch-checks">宏命令：删掉笼统的“全部未实测”声明，改为按证据划界——技能名与客户端一致、普通施法和两次按键姿态行为已有正式服报告，并明确列出仍待验证的宏类型。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/dungeons/the-drowned-city/">沉没之城：补上暴雪的准确正式服说明——入口在格罗姆高以西，需要潜水寻找；传送门现在“应该”可用，只有部分生物的错误脱战被确认修复。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/quests/dungeons/ruins-of-lordaeron/">洛丹伦废墟任务：按暴雪11月6日热修将无尽折磨最低接取等级确认改为15；其他仍冲突的任务等级继续明确标为未解决。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/raids/#tier-sets">团本：T1分布在首批三座团本；10人团能拿到很多部件但不能拿齐，10、20、40人团本的物品等级相同。</a> <span class="latest-links"><a href="https://www.wowhead.com/forever/news/raid-rewards-and-pvp-balance-crix-interview-on-wow-forever-383787" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/professions/blacksmithing/#leveling-route">拍卖行：暴雪计划把最低押金从1银恢复为1铜；专业攻略现已明确区分当前正式服费用与尚未上线的回调。</a> <span class="latest-links"><a href="https://www.wowhead.com/forever/news/minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever-383786" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/server-status/#class-tuning-nov-10">计划于11月10日上线的职业调整：猎人和术士宠物更耐打、痛苦术折磨调整、力量成为增强萨最强属性；目前均未标成已生效。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-november-10/2404092/1" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/server-status/#official-hotfixes-nov-5">11月6日官方热修：补齐职业、地下城、任务、NPC、种族和专业修复，包括虚空行者生命值、沉没之城脱战与传送门、任务修复和晒皮架需求。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+</ul>]]></description>
+</item>
+<item>
+<title>2026年11月6日 最新动态：任务中心</title>
 <link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-11-06.html</link>
-<guid isPermaLink="false">wcf-latest-2026-11-06-ed9029e8</guid>
+<guid isPermaLink="false">wcf-latest-2026-11-06-38d05015</guid>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <description><![CDATA[<ul class="plain-list plain-list--spaced">
+<li><a href="https://wowclassicforever.info/zh-hans/quests/#hot-sec">任务中心：新增The Glowing Shard、两个同名Befouled Water Globe、Trial of the Sea Lion、Captain Sander藏宝链和舒适睡袋起始纸条的交叉核对解法。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/professions/#waylaid-crates">专业：新增正式服Waylaid Crate实用流程——箱子来源、只填一种材料方案、双方阵营交付坐标、首次Favor和持续奖励。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/quests/dungeons/wailing-caverns/">哀嚎洞穴任务：针对上涨中的The Glowing Shard搜索，补上Mutanus掉落、棘齿城步骤、Falla交付和阵营后续。</a></li>
+<li><a href="https://wowclassicforever.info/zh-hans/server-status/#official-hotfixes-nov-5">11月5日官方热修：补齐NPC刷新、泽弗拉斯训练师与专业包、甜香料价格、战场持旗时的平原奔跑，以及Sisterhood of Elune和Escorting Erland两项任务的已实装修复。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24315281/wow-forever-hotfixes-november-5-2026" rel="noopener" target="_blank">来源：暴雪</a></span></li>
+<li><a href="https://wowclassicforever.info/zh-hans/macros/#launch-checks">宏命令增至300个：按开服SERP和玩家实际使用，新增猎人宠物移动、放出/召回、瞬间取消守护、连续鹰眼术、鼠标位置照明弹和PvP保命键，以及德鲁伊猎豹形态疾奔；保留战士两次按键警告。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/quests/dungeons/">副本任务中心：新增 WoW Forever Dungeon Quests 页，含怒焰裂谷（Classic 六个部落任务）与洛丹伦废墟（正式服前置与最低等级说明）清单，并从任务数据库与副本攻略链入。</a></li>
 <li><a href="https://wowclassicforever.info/zh-hans/server-status/#launch-operations-update">服务器帮助：补上暴雪关于临时交通传送门和位面人数调整计划的开服说明，并明确标注截至11月6日仍没有更晚的官方消息确认两项调整已经完成。</a> <span class="latest-links"><a href="https://x.com/AggrendWoW/status/2118229324927303695" rel="noopener" target="_blank">来源：暴雪</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/camping/#how-it-works">露营：补上正式服实测的入门任务处理办法——营火目标不计数时，坐下后再输入一次/sit，并继续待满1分钟。</a> <span class="latest-links"><a href="https://www.wowhead.com/forever/news/the-great-outdoors-quest-bugged-and-how-to-complete-383753" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
@@ -386,22 +406,6 @@
 <li><a href="https://wowclassicforever.info/zh-hans/updates/">天赋模拟器、职业页和数据挖掘按9月24日Beta客户端（1.60.1.70009）重建：强化神圣打击和十字军被删，割碎改名原始撕咬，原始狂怒改回血之狂暴，元素之怒和元素迅捷互换行数，18个天赋有变化。分享的配置照常可用。</a> <span class="latest-links"><a href="https://wowclassicforever.info/zh-hans/news/beta-build-september-24/">本站新闻</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/news/beta-build-september-24/">新闻：9月24日Beta新版本逐职业整理。愤怒、神圣打击、熔岩爆裂加强，两对天赋互换行数，强化神圣打击删除，割碎改名，魔杖不再吃法术伤害，冷却管理器开始测试。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696" rel="noopener" target="_blank">来源：暴雪</a> · <a href="https://wowclassicforever.info/zh-hans/news/beta-build-september-24/">本站新闻</a></span></li>
 <li><a href="https://wowclassicforever.info/zh-hans/races/gnome/">种族页按9月24日Beta版本更新：侏儒灵光乍现所有职业统一减耗10%（之前最高50%），牛头人栽培每种草药有等级要求，亡灵哀伤之触不再打断控制。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696" rel="noopener" target="_blank">来源：暴雪</a></span></li>
-</ul>]]></description>
-</item>
-<item>
-<title>2026年9月24日 最新动态：新页面</title>
-<link>https://thunderfurybbotw.github.io/RSS/wcf-latest/items/2026-09-24.html</link>
-<guid isPermaLink="false">wcf-latest-2026-09-24-239cf0b6</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<description><![CDATA[<ul class="plain-list plain-list--spaced">
-<li><a href="https://wowclassicforever.info/zh-hans/map/">新页面：互动世界地图，用Beta客户端自带的地图美术。卡利姆多、东部王国和泽风岛三张大陆图，点击或滚轮即可进入各区域的详细地图；65个飞行点及按阵营区分的航线、船与飞艇、地下城与团本入口，“无限”新增地点单独标出。</a></li>
-<li><a href="https://wowclassicforever.info/zh-hans/news/weather-effects/">新闻：暴雪说Beta区域很快会加入更多天气效果。暴雪的帖子和视频说了什么，以及Beta客户端里41条我们对比的其他魔兽客户端都没有的天气定义。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/increased-weather-effects/2359491" rel="noopener" target="_blank">来源：暴雪</a></span></li>
-<li><a href="https://wowclassicforever.info/zh-hans/news/horde-relics-zephras-isle/">新闻：泽风岛上一个部落专属任务，5级就给德鲁伊一件神像、给萨满祭司一件图腾。任务步骤、两件圣物读自Beta客户端的属性，以及图腾在各级闪电箭上省多少法力。</a> <span class="latest-links"><a href="https://www.wowhead.com/news=383060" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
-<li><a href="https://wowclassicforever.info/zh-hans/news/pack-kodo-mount/">新闻：联盟能用6000商人青睐买到科多兽坐骑——载货科多兽的缰绳。Beta客户端显示它是60级的史诗坐骑、不限阵营；文章还整理了换取这种货币的补给箱。</a> <span class="latest-links"><a href="https://www.wowhead.com/news=383049" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
-<li><a href="https://wowclassicforever.info/zh-hans/news/rare-spawn-sets/">新闻：贫瘠之地的三只稀有怪掉落「卡利姆多的祝福」套装（Blessing of Kalimdor，暂译），两件即可在贫瘠之地和石爪山脉提高5%移动速度；另附Beta客户端里的两个同类小套装，其中一个在瘟疫之地加坐骑速度。</a> <span class="latest-links"><a href="https://www.wowhead.com/news=383053" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
-<li><a href="https://wowclassicforever.info/zh-hans/news/embrace-of-the-viper/">新闻：德鲁伊穿齐哀嚎洞穴的毒蛇的拥抱套装会变成蛇。这套和死亡矿井迪菲亚皮甲的每条奖励与经典旧世的对比，读自两个客户端。</a> <span class="latest-links"><a href="https://www.wowhead.com/news=383046" rel="noopener" target="_blank">来源：Wowhead</a></span></li>
-<li><a href="https://wowclassicforever.info/zh-hans/legacy/">传承系统攻略按暴雪的官方介绍文章更新：全部65项挑战及点数，计算器改为单个角色最多29点，拿到第一个传承点数即开放，专业点数只算制造专业。</a> <span class="latest-links"><a href="https://worldofwarcraft.blizzard.com/en-us/news/24307383" rel="noopener" target="_blank">来源：暴雪</a> · <a href="https://wowclassicforever.info/zh-hans/news/legacy-system-official/">本站新闻</a></span></li>
-<li><a href="https://wowclassicforever.info/zh-hans/classes/hunter/">猎人更正：Beta里自动射击和魔杖施法时间变短是bug。暴雪说0.5秒施法时间会保留，修复将在后续Beta版本推出；猎人页已同步更正。</a> <span class="latest-links"><a href="https://us.forums.blizzard.com/en/wow/t/auto-shoot-bug-and-fix-incoming/2359185" rel="noopener" target="_blank">来源：暴雪</a></span></li>
 </ul>]]></description>
 </item>
 </channel></rss>
