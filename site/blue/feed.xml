@@ -30,12 +30,18 @@
 <p>World of Warcraft: Forever’s PvP is at its best when the Alliance and Horde are on equal footing, and we are dedicated to helping maintain that balance so that we can all witness battles at the epic scale that has made WoW Forever PvP so memorable thus far.</p>]]></description>
 </item>
 <item>
-<title>[Kaivax] Dungeon Enemy XP Increased - November 8</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30808041-v1.html</link>
-<guid isPermaLink="false">blue-30808041-v1</guid>
-<pubDate>Sun, 08 Nov 2026 19:47:33 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>At about 11:05 PST today, we deployed a hotfix that increased kill experience in dungeons by 50%, so it feels better to go back in for more runs.</p>
-<p>Happy dungeon crawling, and good luck with those Deviate Hides!</p>]]></description>
+<title>[Kaivax] Class Tuning Incoming - November 10</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30783956-v1.html</link>
+<guid isPermaLink="false">blue-30783956-v1</guid>
+<pubDate>Fri, 06 Nov 2026 21:11:39 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>Now that players around the world are leveling up in WoW: Forever, we’ve identified a few class issues that we feel need some immediate changes. Today, we’re still investigating these issues and working through them with a plan to release hotfixes on Tuesday, November 10 to address:</p>
+<ul>
+<li>We’ve seen that Hunter pets and Warlock Voidwalkers are not as durable as tanks as we would like them to be. Our intent is for their effectiveness to be relatively the same as in Classic Era. We will adjust their stats as necessary to accomplish this.</li>
+<li>Affliction Warlock reports indicate that always channeling Wrack is superior to also casting damage-over-time abilities like Siphon Life, Corruption, and Bane of Agony. We will make adjustments to make sure those are always worthwhile to cast combined with Wrack, without affecting Affliction Warlocks’ total damage output.</li>
+<li>Enhancement Shamans are finding that Intellect and Spellpower are superior stats compared to Strength and Attack Power. We plan to make changes so that Strength is always their strongest stat, and Enhancement Shamans will not prefer gear intended for Mages and Warlocks. Ideally, Enhancement’s best items have Strength or Attack Power, along with some Intellect and/or Spell Power.</li>
+</ul>
+<p><strong>Please note: Enhancement Shaman players who are leveling up will want to collect Strength and Attack Power gear from now on.</strong></p>
+<p>We may find new issues over the weekend, and we will keep you updated. Our plan is to make class balance changes on Tuesday, and then on future Tuesdays if necessary. Thank you very much for your feedback!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
