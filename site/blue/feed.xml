@@ -4,7 +4,36 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 21:35:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 17:46:04 +0000</lastBuildDate>
+<item>
+<title>[Kaivax] The WoW Forever Podcast: Episode 7 - Turbo Nerds Lore-ing Out ft. @Nobbel87 &amp; Platinum WoW</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30874280-v1.html</link>
+<guid isPermaLink="false">blue-30874280-v1</guid>
+<pubDate>Thu, 12 Nov 2026 17:46:04 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><div class="youtube-onebox lazy-video-container" data-provider-name="youtube" data-video-id="a_fLWei5KwE" data-video-start-time="" data-video-title="Turbo Nerds Lore-ing Out | Episode 7 - The WoW: Forever Podcast">
+<a class="video-thumbnail" href="https://www.youtube.com/watch?v=a_fLWei5KwE" rel="noopener" target="_blank">
+<img class="youtube-thumbnail" height="468" src="https://img.youtube.com/vi/a_fLWei5KwE/maxresdefault.jpg" title="Turbo Nerds Lore-ing Out | Episode 7 - The WoW: Forever Podcast" width="833"/>
+</a>
+</div>
+]]></description>
+</item>
+<item>
+<title>[Kaivax] Gold at 60 for quests</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30844355-v1.html</link>
+<guid isPermaLink="false">blue-30844355-v1</guid>
+<pubDate>Tue, 10 Nov 2026 21:56:23 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 165 楼</p><aside class="quote no-group" data-display-name="Iamforty" data-post="135" data-topic="2405161" data-username="Iamforty-nazjatar">
+<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/us/character/nazjatar/17/268672529-avatar.jpg?alt=/wow/static/images/2d/avatar/1-0.jpg" width="20"/> Iamforty:<div class="quote-controls"></div></div>
+<blockquote>
+<p>can blizard please confirm if this is true</p>
+</blockquote>
+</aside>
+<p>When we evaluated the economy going into WoW: Forever, we made a conscious choice to disable the XP-to-Gold conversion for quests completed at maximum level. This change was originally introduced in 2006 in the weeks leading up the original Burning Crusade launch, and it was intended to provide a boost in gold for players who were wrapping up original WoW content in preparation for the first expansion.</p>
+<p>We left that functionality in place in Classic Era in 2019, but we decided that for WoW: Forever, we would remove the XP to Gold conversion, as it created an incentive for players to hold a full quest log worth of completed quests to hand in after hitting level 60 for maximum gold returns. Under those conditions, the optimal way for players to level to 60 was to simply grind creatures for XP and not hand in quests at all, which is not a design we want to retain in WoW: Forever.</p>
+<p>However, in original WoW, only about 25% of quests in the game actually provide raw gold rewards, which led this to be a slightly more negative change than intended to gold income as you get closer to level 60.</p>
+<p>To address this, we’re preparing a hotfix that will add additional gold rewards to most quests with a quest level of level 48 or higher, including adding gold to quests above level 48 that never previously rewarded gold at all. The idea here is that you should feel good about doing quests at the appropriate level to progress your character, and you should feel adequately rewarded with gold for doing so.</p>
+<p>The hotfix should be go live in the next 24 hours or so. Thank you for your feedback!</p>]]></description>
+</item>
 <item>
 <title>[Kaivax] The majority WANTS increased dungeon XP</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30843939-v1.html</link>
@@ -2745,18 +2774,6 @@ September 18, 2026</h2>
 <li>The minimap in Stormwind has display issues and will be fixed in a later build.</li>
 <li>Personal Resource Display doesn’t show combo points.</li>
 </ul>]]></description>
-</item>
-<item>
-<title>[Kaivax] The WoW: Forever Podcast: Episode 1 - Unpacking Beta Launch ft. ‪@Xaryu‬</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30280581-v1.html</link>
-<guid isPermaLink="false">blue-30280581-v1</guid>
-<pubDate>Thu, 24 Sep 2026 07:00:00 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><div class="youtube-onebox lazy-video-container" data-provider-name="youtube" data-video-id="m49-jvGPCkA" data-video-start-time="" data-video-title="Unpacking Beta Launch ft. @Xaryu | Episode 1 - The WoW: Forever Podcast">
-<a class="video-thumbnail" href="https://www.youtube.com/watch?v=m49-jvGPCkA" rel="noopener" target="_blank">
-<img class="youtube-thumbnail" height="468" src="https://img.youtube.com/vi/m49-jvGPCkA/maxresdefault.jpg" title="Unpacking Beta Launch ft. @Xaryu | Episode 1 - The WoW: Forever Podcast" width="833"/>
-</a>
-</div>
-]]></description>
 </item>
 <item>
 <title>[Kaivax] World of Warcraft: Forever Revealed at BlizzCon 2026</title>
