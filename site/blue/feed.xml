@@ -31,30 +31,6 @@
 <p>We’ve tracked this very carefully, and the hotfix that we deployed on Sunday, November 8 took dungeon kill XP from 40% of the values in Classic Era to 60% of the values in Classic Era. We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.</p>]]></description>
 </item>
 <item>
-<title>[Kaivax] PvP Faction Balance Updates - November 10</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30830868-v1.html</link>
-<guid isPermaLink="false">blue-30830868-v1</guid>
-<pubDate>Tue, 10 Nov 2026 03:04:13 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 158 楼</p><aside class="quote no-group" data-display-name="Peeknsap" data-post="16" data-topic="2408781" data-username="Peeknsap-frostmourne">
-<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/us/character/frostmourne/198/200351174-avatar.jpg?alt=/wow/static/images/2d/avatar/3-0.jpg" width="20"/> Peeknsap:<div class="quote-controls"></div></div>
-<blockquote>
-<p>when taking into account the trial accounts.</p>
-</blockquote>
-</aside>
-<p>We did significant investigation into that, and there is no evidence that trial characters had any impact at all.</p>
-<p>When we say 55/45, we’re looking at the active logged-in population across all levels over a specific period of time.</p>]]></description>
-</item>
-<item>
-<title>[Kaivax] PvP Faction Balance Updates - November 10</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30830227-v1.html</link>
-<guid isPermaLink="false">blue-30830227-v1</guid>
-<pubDate>Tue, 10 Nov 2026 02:05:13 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>It’s vitally important that the PvP rulesets in WoW: Forever have balanced factions where both factions vie for supremacy, creating memories of epic victories and stunning defeats that we all remember for years to come. While even the most extreme case in a region is currently at roughly a 55/45 split, that is not as close as we want it to be.</p>
-<p>To better set the stage for the neck-and-neck conflicts we all want, we’ve adjusted the character creation system to better recognize the overall state of faction balance in each region’s PvP rulesets, rather than what may feel like snapshots of points in time. Our goal is to bring things as close to a 50/50 faction balance as possible.</p>
-<p>In the short term, that means that it will become increasingly difficult to create characters on the more populous faction in each region – currently Horde on North American PvP rulesets or Alliance in EU Roleplay-PvP. As everyone settles and shifts, these may flip to the other side. We recognize that while restrictions are in place, it can be frustrating to not be able to start playing a specific faction in that moment, but this is a necessary trade-off for the long-term health of the ruleset, especially early on when guilds are being established and rivalries developed.</p>
-<p>World of Warcraft: Forever’s PvP is at its best when the Alliance and Horde are on equal footing, and we are dedicated to helping maintain that balance so that we can all witness battles at the epic scale that has made WoW Forever PvP so memorable thus far.</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30732723-v4.html</link>
 <guid isPermaLink="false">blue-30732723-v4</guid>
