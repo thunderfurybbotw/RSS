@@ -18,28 +18,6 @@
 ]]></description>
 </item>
 <item>
-<title>[Kaivax] Actions For Blackmaw Hold Abuse - November 17</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30953089-v1.html</link>
-<guid isPermaLink="false">blue-30953089-v1</guid>
-<pubDate>Tue, 17 Nov 2026 18:38:11 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>As players continue their journey into WoW Forever’s higher-level content, we are closely monitoring the game economy to ensure that gold sources and costs are well balanced. Finding efficient farming spots has always been part of the game, and is how most players have earned their epic mounts since 2004. When a single location proves so lucrative that it overshadows all other sources, we generally adjust it to bring it in line with the rest.</p>
-<p>Over the past weekend, some players discovered a large group of non-elite enemies in the Blackmaw Hold dungeon that were incorrectly dropping the full amount of dungeon loot that would be expected from an elite. Early yesterday, we addressed this with a hotfix, and since then, we have been investigating the overall economic impact.</p>
-<p>Players who simply ran Blackmaw Hold a few times and benefited organically from the extra loot did nothing wrong, and no one should worry that they’re putting their account at risk if they accidentally benefit from a bug. But there were a couple hundred players worldwide who recognized that this was unintended and spent significant time exclusively farming that group of enemies.</p>
-<p>Yesterday, we put an economy lock on their accounts to prevent broader impact to the game economy while we investigated the extent of the exploitative gains, including gold earned by vendoring bugged drops. Today, we are in the process of removing all such gold earned, as well as applying account suspensions to significant abusers.</p>
-<p>As always, we advise all players to refrain from abusing game mechanics that are clearly unintended. We will continue to take action against intentional abuse.</p>
-<p>Thank you very much for your feedback!</p>]]></description>
-</item>
-<item>
-<title>[Kaivax] Player-Level Dungeon XP Adjustment - November 14</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30912982-v1.html</link>
-<guid isPermaLink="false">blue-30912982-v1</guid>
-<pubDate>Sun, 15 Nov 2026 01:18:23 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>Yesterday, we updated dungeon play so that experience granted by an enemy in an instance is nullified if a high level player is in the group and enemy is trivial to that player. For some dungeons, the new restriction missed the mark because of the overall level range of the enemies in the dungeon.</p>
-<p>With hotfixes that are now live, we’ve just deployed a further change to this restriction, making it so that the XP nullification only kicks in when the high-level player is more than 12 levels above the level of the enemies.</p>
-<p>Please note that this adjustment will not apply in instances that were already underway when it was deployed (a few minutes ago).</p>
-<p>Thank you very much!</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] The WoW Forever Podcast: Episode 7 - Turbo Nerds Lore-ing Out ft. @Nobbel87 &amp; Platinum WoW</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30874280-v1.html</link>
 <guid isPermaLink="false">blue-30874280-v1</guid>
@@ -50,6 +28,19 @@
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[Kaivax] The majority WANTS increased dungeon XP</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30843939-v1.html</link>
+<guid isPermaLink="false">blue-30843939-v1</guid>
+<pubDate>Tue, 10 Nov 2026 21:35:22 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 254 楼</p><aside class="quote no-group" data-display-name="Rarity" data-full="true" data-post="176" data-topic="2406555" data-username="Rarity-sargeras">
+<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/us/character/sargeras/53/191342645-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg" width="20"/> Rarity:<div class="quote-controls"></div></div>
+<blockquote>
+<p>It’s 36% of vanilla dungeon xp</p>
+</blockquote>
+</aside>
+<p>We’ve tracked this very carefully, and the hotfix that we deployed on Sunday, November 8 took dungeon kill XP from 40% of the values in Classic Era to 60% of the values in Classic Era. We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
