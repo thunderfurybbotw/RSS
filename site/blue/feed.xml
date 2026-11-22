@@ -30,16 +30,6 @@
 <p>Thank you very much for your feedback!</p>]]></description>
 </item>
 <item>
-<title>[Kaivax] Player-Level Dungeon XP Adjustment - November 14</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/30912982-v1.html</link>
-<guid isPermaLink="false">blue-30912982-v1</guid>
-<pubDate>Sun, 15 Nov 2026 01:18:23 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>Yesterday, we updated dungeon play so that experience granted by an enemy in an instance is nullified if a high level player is in the group and enemy is trivial to that player. For some dungeons, the new restriction missed the mark because of the overall level range of the enemies in the dungeon.</p>
-<p>With hotfixes that are now live, we’ve just deployed a further change to this restriction, making it so that the XP nullification only kicks in when the high-level player is more than 12 levels above the level of the enemies.</p>
-<p>Please note that this adjustment will not apply in instances that were already underway when it was deployed (a few minutes ago).</p>
-<p>Thank you very much!</p>]]></description>
-</item>
-<item>
 <title>[Kaivax] The WoW Forever Podcast: Episode 7 - Turbo Nerds Lore-ing Out ft. @Nobbel87 &amp; Platinum WoW</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/30874280-v1.html</link>
 <guid isPermaLink="false">blue-30874280-v1</guid>
@@ -50,6 +40,19 @@
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[Kaivax] The majority WANTS increased dungeon XP</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30843939-v1.html</link>
+<guid isPermaLink="false">blue-30843939-v1</guid>
+<pubDate>Tue, 10 Nov 2026 21:35:22 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 254 楼</p><aside class="quote no-group" data-display-name="Rarity" data-full="true" data-post="176" data-topic="2406555" data-username="Rarity-sargeras">
+<div class="title"><img alt="" class="avatar" height="20" src="https://render.worldofwarcraft.com/us/character/sargeras/53/191342645-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg" width="20"/> Rarity:<div class="quote-controls"></div></div>
+<blockquote>
+<p>It’s 36% of vanilla dungeon xp</p>
+</blockquote>
+</aside>
+<p>We’ve tracked this very carefully, and the hotfix that we deployed on Sunday, November 8 took dungeon kill XP from 40% of the values in Classic Era to 60% of the values in Classic Era. We have subsequently felt that the adjustment is working well to produce dungeon leveling speeds that fit with the rest of WoW Forever content.</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Development Notes – Updated November 2（已更新）</title>
@@ -2730,6 +2733,17 @@ September 18, 2026</h2>
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[Aggrend] What insights would you like to see in a future episode of the WoW: Forever Podcast?（已更新）</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30199475-v2.html</link>
+<guid isPermaLink="false">blue-30199475-v2</guid>
+<pubDate>Fri, 25 Sep 2026 17:30:03 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Aggrend</b>（WoW Game Developer） 修改了第 1 楼（第 2 版）</p><p>Greetings!</p>
+<p>We’ve been super excited about the reception to our first episode of the <a href="https://www.youtube.com/watch?v=m49-jvGPCkA">WoW: Forever Podcast</a> and are already gearing up for next week’s show!</p>
+<p>This next episode is going to focus heavily <strong><span class="bbcode-u">Class Design</span></strong> with special guests from our systems design team, so please look forward to that!</p>
+<p>Looking forward past that, the team wanted to know if there are any other topics that you would like developer insights on for future episodes?</p>
+<p>So, feel free to post and let us know what topics you’d like to see us dig into and discuss in the WoW: Forever Podcast!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] WoW Forever Beta Known Issues - October 8</title>

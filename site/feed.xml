@@ -4,7 +4,14 @@
 <link>https://foreverchanges.pro/zh-tw/patch-notes</link>
 <description>ForeverChanges.pro 的 Beta 更新档说明，非官方 RSS。</description>
 <language>zh-tw</language>
-<lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>2026年11月21日 · 熱修正</title>
+<link>https://thunderfurybbotw.github.io/RSS/items/2026-11-21.html</link>
+<guid isPermaLink="false">foreverchanges-2026-11-21</guid>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<div class="bt-build-body"><div class="pn-points"><p>11月20日用戶端的熱修正，11月22日03:29 UTC首次出現在開服伺服器傳送的快取中。暴雪尚未為其發布說明。風莓汁的商人價格現在為1銀25銅（原為25銅）。</p><section class="pn-topic" data-topic="items"><h3>物品</h3><ul class="pn-live-lines"><li><b>削弱 </b><span>風莓汁的商人價格為1銀25銅（原為25銅），售價為6銅（原為5銅）。</span></li></ul></section></div></div>]]></description>
+</item>
 <item>
 <title>2026年11月20日 · 熱修正</title>
 <link>https://thunderfurybbotw.github.io/RSS/items/2026-11-20.html</link>
@@ -74,12 +81,5 @@
 <guid isPermaLink="false">foreverchanges-1.60.1.70938</guid>
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 <description><![CDATA[<div class="bt-build-body"><p>11月13日的用戶端，從其檔案讀取：Blizzard沒有為它發布說明。它把伺服器11月10日和11日的熱修正寫進用戶端本身，沒有任何天賦、職業法術、種族特長或物品有所不同。用戶端和伺服器之間只有一個數字不同：野性痊癒從治療加成獲得的效果。</p><div class="bt-notes pn-notes"><div><div class="pn-folds"></div><div class="bt-note-class bt-note-items" id="items"><h4><span>物品</span><small></small></h4><div class="bt-note-body"><p class="bt-items-note">沒有物品有所不同。用戶端現在包含伺服器熱修正早已設定的內容，例如商人販售的種族坐騎改為拾取後綁定，以及製作護甲較低的商人收購價。</p></div></div></div></div></div>]]></description>
-</item>
-<item>
-<title>2026年11月12日 · 熱修正</title>
-<link>https://thunderfurybbotw.github.io/RSS/items/2026-11-12.html</link>
-<guid isPermaLink="false">foreverchanges-2026-11-12</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<description><![CDATA[<div class="bt-build-body"><div class="pn-points"><p><a href="https://us.forums.blizzard.com/en/wow/t/2403040/9" rel="noreferrer">Blizzard的更新說明</a>：</p><div class="pn-live-classes"><section data-class="shaman"><h3>薩滿</h3><ul class="pn-live-lines"><li><b>增強 </b><span>武器強化效果與武器圖騰現在可以同時生效：風怒武器和風怒圖騰都能在你攻擊時觸發。</span></li><li><b>削弱 </b><span>增強：風暴打擊造成100%武器傷害（原為150%），冷卻時間為8秒（原為6秒）。</span></li><li><b>削弱 </b><span>增強：心靈迅敏將你33/66/100%的智力轉化為攻擊強度（原為50/100/150%）。</span></li><li><b>調整 </b><span>增強：氣漩武器在每個等級每層都減少20%的施法時間和法力消耗（原為4/8/12/16/20%），並依等級每分鐘觸發6/7/8/9/10次（原為每個等級20次）。其浮動說明會依你主手武器的速度顯示每次揮擊的機率：投入5點、武器速度3.6時為60%，武器速度2.0時為33%。</span></li></ul></section></div></div></div>]]></description>
 </item>
 </channel></rss>
