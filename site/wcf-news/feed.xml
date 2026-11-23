@@ -4,7 +4,97 @@
 <link>https://wowclassicforever.info/zh-hans/news/</link>
 <description>wowclassicforever.info 的《魔兽世界》：“无限”新闻，非官方 RSS。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>《魔兽世界》：“无限”播客第8期：开发者谈职业和装备</title>
+<link>https://wowclassicforever.info/zh-hans/news/podcast-episode-8-classes/</link>
+<guid isPermaLink="false">wcf-news-podcast-episode-8-classes</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<!--wcf-v2--><p class="content-lead">《魔兽世界》：“无限”播客第8期里，首席设计师Kris Zierhut和资深游戏设计师Aidan “Zirene” Moon回答了主持人Josh Corbett关于正式服的问题：法系职业15到40级会有更多法术强度装备；商人阵营的声望要改；Moon希望团本装备看首领和地点来选，而不是一张BiS表；最后两人把每个职业过了一遍，哪些是已定的计划、哪些只是在讨论。</p><p class="reviewed">已对照下方来源核对。最后核对：<time datetime="2026-11-23">2026年11月23日</time>。</p><figure class="page-figure">
+<img alt="《魔兽世界》：“无限”播客第8期的封面：Getting rid of BiS??" fetchpriority="high" height="540" src="https://wowclassicforever.info/images/news/podcast-episode-8.webp" width="960"/>
+<figcaption>魔兽世界官方YouTube频道发布的《魔兽世界》：“无限”播客第8期。 图片：暴雪娱乐，出自<a href="https://www.youtube.com/watch?v=67dDe3QgJtM" rel="noopener" target="_blank">《魔兽世界》：“无限”播客第8期（英文）</a>。</figcaption>
+</figure><section class="page-section" id="episode">
+<h2>这期节目</h2>
+<p>暴雪在11月19日发布了第8期“Catching Up On Classes”，开服两周后，时长74分钟。这期没有请内容创作者：主持人Josh Corbett（Countdown To Classic）把社区的问题直接抛给Kris Zierhut和Aidan Moon。感恩节那周停一期，再下一期讲团本。</p>
+<p>下面按玩家会问的问题整理他们说的话，内容来自节目的英文字幕；每条后面的时间点开就是视频里的那一刻。播客不是补丁说明：哪些是已定的计划、哪些只是在讨论，我们分开标出。前几期见<a href="https://wowclassicforever.info/zh-hans/news/podcast-episode-2-classes/">第2期（职业）</a>、<a href="https://wowclassicforever.info/zh-hans/news/podcast-episode-3-dungeons/">第3期（地下城）</a>和<a href="https://wowclassicforever.info/zh-hans/news/podcast-episode-4-pvp/">第4期（PvP）</a>。</p>
+</section><section class="page-section" id="casters">
+<h2>法系和治疗：法术强度装备会加</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>为什么法术打得没那么疼。</b>Zierhut说，原版游戏的法术伤害是后期才补上去的，所以法系练级时根本不在乎装备。“无限”给制造装备、任务奖励和地下城掉落加了法术强度，同时把法术的基础伤害调低作为平衡（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=107s" rel="noopener" target="_blank">1:47</a>）。</li>
+<li><b>练级时太少。</b>他承认法术强度装备不够，15到40级最缺，之后的补丁会加。现在也能凑：跟他双排的朋友玩冰法，27级就有104点冰霜伤害，大部分是制造装备（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=204s" rel="noopener" target="_blank">3:24</a>）。去哪里拿，看我们的<a href="https://wowclassicforever.info/zh-hans/bis/">BiS列表</a>和<a href="https://wowclassicforever.info/zh-hans/professions/tailoring/">裁缝指南</a>。</li>
+<li><b>治疗荒。</b>现在玩坦克的人多了，治疗还是和以前差不多少。大约35级以前，混合职业穿点法术强度装备就能奶地下城；40级以后，克罗多克要塞这类地下城就要治疗天赋和治疗装备了。一个人在野外练级的治疗很少见。怎么让治疗练级更容易，还在权衡，没有定（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=404s" rel="noopener" target="_blank">6:44</a>）。</li>
+<li><b>治疗装备也加伤害。</b>每件治疗装备上的法术伤害大约是治疗量的三分之一，是故意的，让治疗做任务时也能打得动怪（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=590s" rel="noopener" target="_blank">9:50</a>）。</li>
+</ul>
+</section><section class="page-section" id="trade-authority">
+<h2>商人阵营：声望要改</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>本来是怎么设计的。</b>主持人叫它Trade Authority，也就是联盟的Azeroth Commerce Authority和部落的Durotar Supply and Logistics。工匠文书要你做一件东西送过去，涨声望；Waylaid Crate交上去给Merchant’s Favor，用来买配方。友善、尊敬会再解锁一批配方，免得几百个配方一下子全摆出来。Zierhut说有些文书交了没涨声望，至少Aggrend碰到过，两种来源也让玩家搞不清楚（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=637s" rel="noopener" target="_blank">10:37</a>）。</li>
+<li><b>会改。</b>录完节目马上开系统设计会，讨论怎么让声望更好涨、配方更早解锁（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=680s" rel="noopener" target="_blank">11:20</a>）。</li>
+<li><b>现在就值得冲。</b>之后每个补丁都打算给商人阵营加配方，现在把声望冲上去，新配方一出就能买。箱子也让那些本来只能卖商店价的材料有人收（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=745s" rel="noopener" target="_blank">12:25</a>）。各专业的配方见<a href="https://wowclassicforever.info/zh-hans/professions/crafting-planner/">“无限”制造规划器</a>。</li>
+</ul>
+</section><section class="page-section" id="itemization">
+<h2>装备要有故事，不要单一BiS表</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>先讲风味。</b>Moon让装备属性来讲故事：死亡矿井里的劈石者、做饭时有用的搅拌棒、监狱里犯人身上的掉落。一条带力量的食人魔腰布就是要让人讨论的，他宁可要这个，也不要又一条完美的力量腰带（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=868s" rel="noopener" target="_blank">14:28</a>）。</li>
+<li><b>团本里有追求型装备。</b>有些团本装备掉率故意很低，让你一年后还有东西可刷（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1162s" rel="noopener" target="_blank">19:22</a>）。</li>
+<li><b>“我其实想把BiS这个概念去掉。”</b>装备可以对某类生物或某种环境更强。团本里每个翼区环境不同：一个冰雪，一个闹鬼，一个洞穴。所以同一个部位，每个首领最合适的装备可能不一样；换装是给喜欢琢磨的人，游戏按你拿得到的装备来平衡（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1183s" rel="noopener" target="_blank">19:43</a>）。现在每个部位什么最好，看我们的<a href="https://wowclassicforever.info/zh-hans/bis/">BiS列表</a>；团本目前知道多少，看<a href="https://wowclassicforever.info/zh-hans/raids/">团本指南</a>。</li>
+<li><b>背包以后会更大。</b>装备越来越多，需要更多背包格子和更好的搜索；现在引擎能做出98格的包（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1264s" rel="noopener" target="_blank">21:04</a>）。</li>
+<li><b>不靠套装效果修职业。</b>Moon不想用套装效果解决职业问题，不然大家永远不肯脱。Zierhut做了很多资料片的套装，他说套装会加点风味；真正改变玩法的会放在天赋或以后的新系统里（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1329s" rel="noopener" target="_blank">22:09</a>）。可制作的T1部件和效果见<a href="https://wowclassicforever.info/zh-hans/raids/#tier-sets">团本指南</a>。</li>
+<li><b>小预告。</b>Moon暗示有一件给团长分装的装备：背包满了会多给属性（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1107s" rel="noopener" target="_blank">18:27</a>）。</li>
+</ul>
+</section><section class="page-section" id="systems">
+<h2>每周任务、PvP爆发和传承重置</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>每周地下城任务</b>给普通玩家一点金币和材料，免得物价把不刷钱的人甩开。要求一周打三个地下城，不做也行，按时间算也不是最赚的；做成每周一次只是为了不能重复刷。没有徽章，也没有别处拿不到的奖励（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1577s" rel="noopener" target="_blank">26:17</a>）。</li>
+<li><b>PvP爆发。</b>每个职业都调到差不多2005年火法的强度，Beta最后几周伤害目标又提高了10%。练级角色穿的也是输出装，不是耐力装。有些视频是bug造成的：风怒曾经短暂无视护甲。计划是给装备加耐力；PvP减伤是最后手段，全面提高血量和怪物伤害改动太大，他们想尽量避免（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=1825s" rel="noopener" target="_blank">30:25</a>）。荣誉和装备见<a href="https://wowclassicforever.info/zh-hans/pvp/">PvP指南</a>。</li>
+<li><b>惜败多给荣誉</b>（像探索赛季那样）在讨论，没有定（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2047s" rel="noopener" target="_blank">34:07</a>）。</li>
+<li><b>传承重置比天赋贵，</b>因为这些天赋值金币：重置太便宜的话，就会有人点采集的天赋去采，再换制造的天赋去做。价格起步就高，越往后涨得越快（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2131s" rel="noopener" target="_blank">35:31</a>）。</li>
+</ul>
+</section><section class="page-section" id="classes">
+<h2>逐个职业：哪些已定，哪些只是在讨论</h2>
+<p>Zierhut说，团队会一次挑一个职业，重做天赋和玩法流程，就像2005年职业团队做的那样；游戏运营多久，这件事就会做多久（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2999s" rel="noopener" target="_blank">49:59</a>）。正是Beta最后几周提高了伤害目标，潜行者和战士的后期重做才做得成（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2519s" rel="noopener" target="_blank">41:59</a>）。</p>
+<ul class="plain-list plain-list--spaced">
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/druid/">平衡德鲁伊</a>：已经在计划改。</b>防施法推迟的天赋在恢复天赋树里；平衡第一个天赋可能会再同时缩短愤怒和星火术的施法时间；强化星火术那一排要的点数会减少；月怒的10%伤害可能并进枭兽形态，让这个天赋换个新作用。改动太多，不适合一次热修，有的可能等补丁。这些不影响60级德鲁伊的强度，只改善练级手感（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2771s" rel="noopener" target="_blank">46:11</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/rogue/">潜行者</a>：刺击会留着。</b>Moon加刺击，是因为无情打击逼所有人在刺杀点11点，却又感觉不到它的作用；三系天赋各自改变刺击的用法（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2247s" rel="noopener" target="_blank">37:27</a>）。流血和毒药免疫由首领设计师决定，还在试（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=2664s" rel="noopener" target="_blank">44:24</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/warrior/">武器战</a>：还没有方案。</b>Moon想做一次对的改动，而不是零零碎碎的小改；武器战不会再加机动性（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=3211s" rel="noopener" target="_blank">53:31</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/shaman/">增强萨满祭司</a>。</b>风暴打击的冷却改回去了，因为双风怒（武器加图腾）让增强重新靠力量和双手武器；法系增强也能玩，只是不最优（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=3587s" rel="noopener" target="_blank">59:47</a>）。</li>
+<li><b>激流和野性成长</b>是故意放慢的：激流没有瞬间治疗，现在主要作用是加强治疗链；野性成长要读条，因为治疗量涨得太快就收不回来了（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=3446s" rel="noopener" target="_blank">57:26</a>）。给出去的东西收不回来，所以开服时有些太过头的技能先压着没放（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=3375s" rel="noopener" target="_blank">56:15</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/priest/">戒律牧师</a>：暂时不动。</b>能量灌注挪到了更深的位置，免得大家被迫点；辅助型戒律只是个想法，不是承诺（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=3707s" rel="noopener" target="_blank">61:47</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/hunter/">生存猎人</a>：裂伤打击会加强。</b>Zierhut认为它应该打出远多于猫鼬撕咬伤害的持续伤害，可能到200%，并且像重伤那样叠加；具体调整要等团本数据（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=3938s" rel="noopener" target="_blank">65:38</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/warlock/">术士</a>。</b>恶魔天赋想合并，但还没有设计，留到以后重做术士时做。灵魂碎片暂时不叠加；Moon的小技巧：灵魂碎片包可以放进材料包栏位（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=4060s" rel="noopener" target="_blank">67:40</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/mage/">法师</a>：冰枪术和火焰冲击共用冷却，</b>因为瞬发太多会让法师一直边跑边打，尤其是PvP里（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=4170s" rel="noopener" target="_blank">69:30</a>）。</li>
+<li><b><a href="https://wowclassicforever.info/zh-hans/classes/paladin/">神圣圣骑士</a>。</b>天赋树底部的群体治疗圣光守望是故意的：以前全队一起掉血时圣骑士毫无办法。圣光道标早期提过，被认为走得太远（<a href="https://www.youtube.com/watch?v=67dDe3QgJtM&amp;t=4281s" rel="noopener" target="_blank">71:21</a>）。</li>
+</ul>
+<p class="data-note">正式服里每个天赋的现状：<a href="https://wowclassicforever.info/zh-hans/">“无限”天赋模拟器</a>。改动上线后看<a href="https://wowclassicforever.info/zh-hans/updates/">数据更新记录</a>。</p>
+</section><section class="page-section" id="what-it-means">
+<h2>对你意味着什么</h2>
+<ul class="plain-list plain-list--spaced">
+<li><b>法系先去现有的地方找法术强度：</b>制造装备、任务和地下城掉落；15到40级之后还会加。</li>
+<li><b>做专业的现在就冲商人阵营声望：</b>以后的新配方打算放在这里。</li>
+<li><b>别把一张BiS表当最终答案：</b>团本装备会看首领和地点。</li>
+<li><b>平衡德鲁伊和生存猎人：</b>改动已在计划里，但没有日期。</li>
+</ul>
+</section><section class="page-section page-notes" id="sources">
+<div class="text-cols text-cols--two">
+<div>
+<h2>仍未确认</h2>
+<ul class="plain-list">
+<li>平衡德鲁伊的改动什么时候上，哪些要等补丁。</li>
+<li>商人阵营的声望具体怎么改。</li>
+<li>团本数据出来后，裂伤打击加强多少。</li>
+<li>战场惜败会不会多给荣誉。</li>
+</ul>
+</div>
+<div>
+<h2>来源</h2>
+<p class="data-note"><a href="https://wowclassicforever.info/zh-hans/about/#our-sources">我们怎样选择和核实来源</a></p>
+<ul class="plain-list">
+<li><a href="https://www.youtube.com/watch?v=67dDe3QgJtM" rel="noopener" target="_blank">魔兽世界官方YouTube：《魔兽世界》：“无限”播客第8期，Catching Up On Classes（英文） · 暴雪官方 · 2026年11月19日</a></li>
+</ul>
+</div>
+</div>
+</section>]]></description>
+</item>
 <item>
 <title>《魔兽世界》：“无限”播客第4期：开发者怎么说PvP</title>
 <link>https://wowclassicforever.info/zh-hans/news/podcast-episode-4-pvp/</link>
