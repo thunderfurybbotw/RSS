@@ -4,38 +4,7 @@
 <link>https://us.forums.blizzard.com/en/wow/c/wow-forever/346</link>
 <description>暴雪官方论坛《魔兽世界：永恒》分区里暴雪员工的回复，非官方 RSS。</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 23:04:33 +0000</lastBuildDate>
-<item>
-<title>[Kaivax] Alterac Valley Adjustments - November 25</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/31066214-v1.html</link>
-<guid isPermaLink="false">blue-31066214-v1</guid>
-<pubDate>Wed, 25 Nov 2026 23:04:33 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 567 楼</p><p>With additional hotfixes that are now live, we have further increased the amount of reputation gained from defeating Lieutenants and holding graveyards and mines at the end of long matches, and we’ve shortened the threshold for a “long match” bonus reputation to 20 minutes (was 60 minutes in Era and prior to today’s adjustments).</p>
-<p>The overall intent for all of these changes was for games to feel more meaningful while trying to maintain a similar amount of rep gained over a similar play time within the battleground, even with longer match lengths. There will be fluctuations depending on how successful you are at destroying towers and holding capture points at the end of a match however.</p>
-<p>These changes will be included in <a href="https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-23-2026/2403040/">today’s hotfixes update</a> along with those listed in the OP.</p>]]></description>
-</item>
-<item>
-<title>[Kaivax] Alterac Valley Adjustments - November 25</title>
-<link>https://thunderfurybbotw.github.io/RSS/blue/items/31062986-v1.html</link>
-<guid isPermaLink="false">blue-31062986-v1</guid>
-<pubDate>Wed, 25 Nov 2026 19:42:28 +0000</pubDate>
-<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>We’ve seen that players in Alterac Valley were frequently completing the battleground without capturing the objectives, so we’ve made some adjustments to incentivize a focus on the objectives rather than rushing to kill the enemy faction’s General. The intent with these adjustments is for Honor gains to be relatively the same and reputation to be increased per match. Additionally, the difficulty of enemy creatures inside Alterac Valley has been lower than intended, so we’ve increased that, and we’ve made some adjustments to how the Warmasters/Marshals and Faction Generals behave to improve their sturdiness.</p>
-<h2><a aria-label="Heading link" class="anchor" href="https://us.forums.blizzard.com#p-31062986-player-versus-player-1" name="p-31062986-player-versus-player-1"></a>Player versus Player</h2>
-<ul>
-<li><strong>Alterac Valley</strong>
-<ul>
-<li>Reputation and Honor from killing the enemy faction General has been significantly reduced. The reputation from objectives (Towers, Graveyards, and Mines) has been increased to compensate. Honor from these objectives has been slightly increased as a redistribution.</li>
-<li>Reputation from killing enemy NPCs has been increased.</li>
-<li>Damage and Health has been increased for all enemy creatures in Alterac Valley.</li>
-<li>Warmasters/Marshals will now leash if they leave their respective rooms, and they now aggro from further away.</li>
-<li>Generals and Warmasters/Marshals all are stronger if the objectives are present. This buff lasts for 20 minutes and starts with 4 stacks. Each objective taken removes a stack.</li>
-<li>Generals now deal more damage.</li>
-<li>Fixed a bug where some Generals were not as powerfully defensive as intended.</li>
-<li>Generals now have increased stealth detection.</li>
-</ul>
-</li>
-</ul>]]></description>
-</item>
+<lastBuildDate>Wed, 25 Nov 2026 18:32:04 +0000</lastBuildDate>
 <item>
 <title>[Kaivax] Balance Druid Adjustments - November 25</title>
 <link>https://thunderfurybbotw.github.io/RSS/blue/items/31061969-v1.html</link>
@@ -78,6 +47,18 @@
 </a>
 </div>
 ]]></description>
+</item>
+<item>
+<title>[Kaivax] Actions For Blackmaw Hold Abuse - November 17</title>
+<link>https://thunderfurybbotw.github.io/RSS/blue/items/30953089-v1.html</link>
+<guid isPermaLink="false">blue-30953089-v1</guid>
+<pubDate>Tue, 17 Nov 2026 18:38:11 +0000</pubDate>
+<description><![CDATA[<p class="meta"><b>Kaivax</b>（Community Manager） 回复于第 1 楼</p><p>As players continue their journey into WoW Forever’s higher-level content, we are closely monitoring the game economy to ensure that gold sources and costs are well balanced. Finding efficient farming spots has always been part of the game, and is how most players have earned their epic mounts since 2004. When a single location proves so lucrative that it overshadows all other sources, we generally adjust it to bring it in line with the rest.</p>
+<p>Over the past weekend, some players discovered a large group of non-elite enemies in the Blackmaw Hold dungeon that were incorrectly dropping the full amount of dungeon loot that would be expected from an elite. Early yesterday, we addressed this with a hotfix, and since then, we have been investigating the overall economic impact.</p>
+<p>Players who simply ran Blackmaw Hold a few times and benefited organically from the extra loot did nothing wrong, and no one should worry that they’re putting their account at risk if they accidentally benefit from a bug. But there were a couple hundred players worldwide who recognized that this was unintended and spent significant time exclusively farming that group of enemies.</p>
+<p>Yesterday, we put an economy lock on their accounts to prevent broader impact to the game economy while we investigated the extent of the exploitative gains, including gold earned by vendoring bugged drops. Today, we are in the process of removing all such gold earned, as well as applying account suspensions to significant abusers.</p>
+<p>As always, we advise all players to refrain from abusing game mechanics that are clearly unintended. We will continue to take action against intentional abuse.</p>
+<p>Thank you very much for your feedback!</p>]]></description>
 </item>
 <item>
 <title>[Kaivax] The WoW Forever Podcast: Episode 7 - Turbo Nerds Lore-ing Out ft. @Nobbel87 &amp; Platinum WoW</title>
